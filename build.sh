@@ -21,3 +21,8 @@ done
 
 # Clean temporary folder
 rm -rf ${TMPDIR}
+
+# Some hack because I probably don't know how to configure crowdin
+# Or because the way Cutter loads the translations is wrong
+mv cutter_es-ES.ts cutter_es.ts
+mv cutter_pt-PT.ts cutter_pt.ts
