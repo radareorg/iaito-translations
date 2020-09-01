@@ -21,7 +21,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show radare2 plugin information</source>
-      <translation>Показать информацию плагина</translation>
+      <translation>Показать информацию о плагинах radare2</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
@@ -85,12 +85,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="51"/>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation>Полный список участников можно просмотреть на нашей &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;страницу участников&lt;/a&gt;.</translation>
+      <translation>Полный список участников можно просмотреть на нашей &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;странице участников&lt;/a&gt;.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="73"/>
       <source>radare2 version information</source>
-      <translation>radare2 сведения о версии</translation>
+      <translation>Информация о версии radare2</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="96"/>
@@ -105,15 +105,15 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="146"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation>На основе Qt %1 (%2, %3 битном)</translation>
+      <translation>Основано на Qt %1 (%2, %3-битном)</translation>
     </message>
     <message>
       <source>Timeout error!</source>
-      <translation>Ошибка таймаута!</translation>
+      <translation>Превышение времени ожидания!</translation>
     </message>
     <message>
       <source>Please check your internet connection and try again.</source>
-      <translation>Пожалуйста, проверьте Ваше интернет соединение и попробуйте еще раз.</translation>
+      <translation>Пожалуйста, проверьте ваше интернет-соединение и попробуйте еще раз.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="102"/>
@@ -127,7 +127,7 @@
     </message>
     <message>
       <source>You have latest version and no need to update!</source>
-      <translation>У вас есть последняя версия и нет необходимости в обновлении!</translation>
+      <translation>У вас установлена последняя версия, и в обновлении нет необходимости!</translation>
     </message>
     <message>
       <source>Current version:</source>
@@ -152,7 +152,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
       <source>Copy address</source>
-      <translation>Скопировать адрес</translation>
+      <translation>Копировать адрес</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
@@ -221,12 +221,12 @@
     </message>
     <message>
       <source>Running</source>
-      <translation>Запуск</translation>
+      <translation>Выполняется</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="107"/>
       <source>Analysis complete!</source>
-      <translation>Анализ выполнен!</translation>
+      <translation>Анализ завершён!</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="109"/>
@@ -5251,7 +5251,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="50"/>
       <source>Show radare2 plugin information</source>
-      <translation>Показать информацию о плагине radare2</translation>
+      <translation>Показать информацию о плагинах radare2</translation>
     </message>
   </context>
   <context>
@@ -7278,7 +7278,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="203"/>
       <source>Native Theme</source>
-      <translation>Родная тема</translation>
+      <translation>Нативная тема</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="208"/>
