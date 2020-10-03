@@ -1,0 +1,3 @@
+files:
+  - source: Translations.ts
+    translation: cutter_%two_letters_code%.ts
