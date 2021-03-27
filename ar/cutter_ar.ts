@@ -6,140 +6,140 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation type="unfinished">About Cutter</translation>
+      <translation>حول Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="69"/>
       <source>Check for updates on start</source>
-      <translation type="unfinished">Check for updates on start</translation>
+      <translation>التحقق من وجود تحديثات عند بدء التشغيل</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="95"/>
       <source>Show version information</source>
-      <translation type="unfinished">Show version information</translation>
+      <translation>عرض معلومات الإصدار</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show radare2 plugin information</source>
-      <translation type="unfinished">Show radare2 plugin information</translation>
+      <translation>عرض معلومات إضافة radare2</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter منصة هندسة عكسية مفتوحة المصدر ومستمدة من radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; إقرأ المزيد حول &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="128"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <source>Show plugin information</source>
-      <translation type="unfinished">Show plugin information</translation>
+      <translation>عرض معلومات الإضافة</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="82"/>
       <source>Check for updates</source>
-      <translation type="unfinished">Check for updates</translation>
+      <translation>التحقق من وجود تحديثات</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="29"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="29"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>الإصدار</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
       <source>Using r2-</source>
-      <translation type="unfinished">Using r2-</translation>
+      <translation>إستعمال r2-</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="32"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>الميزات الإختيارية:</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>الترخيص</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation type="unfinished">This Software is released under the GNU General Public License v3.0</translation>
+      <translation>تم إصدار هذا البرنامج تحت رخصة GNU GPL v3.0</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="49"/>
       <source>Authors</source>
-      <translation type="unfinished">Authors</translation>
+      <translation>المؤلفون</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation type="unfinished">Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</translation>
+      <translation>تم تطوير Cutter من قبل المجتمع ويقوم الفريق الأساسي وفريق التطوير بالمحافظة عليه.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="51"/>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>إطلع على &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt; صفحة المساهمين &lt;/a&gt; للحصول على القائمة الكاملة للمساهمين.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="73"/>
       <source>radare2 version information</source>
-      <translation type="unfinished">radare2 version information</translation>
+      <translation>معلومات إصدار radare2</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="96"/>
       <source>Checking for updates...</source>
-      <translation type="unfinished">Checking for updates...</translation>
+      <translation>جارٍ التحقق من وجود تحديثات...</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Cutter is up to date!</source>
-      <translation type="unfinished">Cutter is up to date!</translation>
+      <translation>لديك آخر إصدار من Cutter!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="146"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation type="unfinished">Based on Qt %1 (%2, %3 bit)</translation>
+      <translation>يرتكز على Qt %1 (%2, %3 بت)</translation>
     </message>
     <message>
       <source>Timeout error!</source>
-      <translation type="unfinished">Timeout error!</translation>
+      <translation>خطأ انتهاء المهلة!</translation>
     </message>
     <message>
       <source>Please check your internet connection and try again.</source>
-      <translation type="unfinished">Please check your internet connection and try again.</translation>
+      <translation>الرجاء التحقق من اتصال الإنترنت الخاص بك والمحاولة مرة أخرى.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="102"/>
       <source>Error!</source>
-      <translation type="unfinished">Error!</translation>
+      <translation>خطأ!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>التحكم بالإصدار</translation>
     </message>
     <message>
       <source>You have latest version and no need to update!</source>
-      <translation type="unfinished">You have latest version and no need to update!</translation>
+      <translation>لديك أحدث إصدار ولا تحتاج إلى تحديث!</translation>
     </message>
     <message>
       <source>Current version:</source>
-      <translation type="unfinished">Current version:</translation>
+      <translation>الإصدار الحالي:</translation>
     </message>
     <message>
       <source>Latest version:</source>
-      <translation type="unfinished">Latest version:</translation>
+      <translation>أحدث إصدار:</translation>
     </message>
     <message>
       <source>For update, please check the link:</source>
-      <translation type="unfinished">For update, please check the link:</translation>
+      <translation>للتحديث، يرجى مراجعة الرابط:</translation>
     </message>
   </context>
   <context>
@@ -147,22 +147,22 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="16"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>عرض في</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>نسخ العنوان</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>إظهار X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>إضافة تعليق</translation>
     </message>
   </context>
   <context>
@@ -170,22 +170,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="409"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>فئة</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="433"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>الأساس</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="463"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>طريقة</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="497"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>vtable</translation>
     </message>
   </context>
   <context>
@@ -193,50 +193,50 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="26"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>جارٍ تعبئة الملف...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="67"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>جارٍ تعبئة ملف PDB...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="76"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>جارٍ تعبئة shellcode...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="87"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>تنفيذ السكريبت...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="99"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>تنفيذ التحليل...</translation>
     </message>
     <message>
       <source>Analyzing...</source>
-      <translation type="unfinished">Analyzing...</translation>
+      <translation>جارٍ التحليل...</translation>
     </message>
     <message>
       <source>Running</source>
-      <translation type="unfinished">Running</translation>
+      <translation>قيد التشغيل</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="107"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>اكتمل التحليل!</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="109"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>تخطي التحليل.</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.h" line="20"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>تحليل مبدئي</translation>
     </message>
   </context>
   <context>
@@ -244,110 +244,110 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>المظهر</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>الخط:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>إختيار خط</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>تكبير/تصغير</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>اللُّغة:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation type="unfinished">Interface Theme:</translation>
+      <translation>سمة واجهة المستخدم:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>سمة اللون:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation type="unfinished">Edit Theme</translation>
+      <translation>تحرير السمة</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>اعادة التّسمية</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>تصدير</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>إستيراد</translation>
     </message>
     <message>
       <source>Qt Theme:</source>
-      <translation type="unfinished">Qt Theme:</translation>
+      <translation>سمة Qt:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>افتراضي</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation type="unfinished">Dark</translation>
+      <translation>داكن</translation>
     </message>
     <message>
       <source>Color Theme</source>
-      <translation type="unfinished">Color Theme</translation>
+      <translation>سمة اللون</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>نسخ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="166"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>حذف</translation>
     </message>
     <message>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation>اللُّغة</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="302"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>حفظ كإعداد إفتراضي</translation>
     </message>
     <message>
       <source>Enter scheme name</source>
-      <translation type="unfinished">Enter scheme name</translation>
+      <translation>أدخل اسم المخطط</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="139"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="230"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>الاسم:</translation>
     </message>
     <message>
       <source>Are you sure you want to delete theme </source>
@@ -356,27 +356,27 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="127"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>محرر السمات - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="138"/>
       <source>Enter theme name</source>
-      <translation type="unfinished">Enter theme name</translation>
+      <translation>أدخل اسم السمة</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="140"/>
       <source> - copy</source>
-      <translation type="unfinished"> - copy</translation>
+      <translation> - نسخ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="146"/>
       <source>Theme Copy</source>
-      <translation type="unfinished">Theme Copy</translation>
+      <translation>نسخ السمة</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="147"/>
       <source>Theme named %1 already exists.</source>
-      <translation type="unfinished">Theme named %1 already exists.</translation>
+      <translation>اسم السمة %1 موجود مسبقا.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="162"/>
@@ -385,48 +385,48 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="239"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>خطأ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="167"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation type="unfinished">Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</translation>
+      <translation>هل أنت متأكد من حذف &lt;b&gt;%1&lt;/b&gt;؟</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="191"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="218"/>
       <source>Success</source>
-      <translation type="unfinished">Success</translation>
+      <translation>تم بنجاح</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="192"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</translation>
+      <translation>تم استيراد لون السمة &lt;b&gt;%1&lt;/b&gt; بنجاح.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="219"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</translation>
+      <translation>تم تصدير لون السمة &lt;b&gt;%1&lt;/b&gt; بنجاح.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="229"/>
       <source>Enter new theme name</source>
-      <translation type="unfinished">Enter new theme name</translation>
+      <translation>أدخل اسم السمة الجديد</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="251"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>إعدادات اللغة</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="252"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>سيتم تغيير اللغة بعد إعادة تشغيل البرنامج.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="256"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation type="unfinished">Cannot set language, not found in available ones</translation>
+      <translation>لا يمكن ضبط اللغة، لأنها غير موجودة في اللغات المتاحة</translation>
     </message>
   </context>
   <context>
@@ -435,55 +435,55 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="47"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>تفكيك</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>نمط</translation>
     </message>
     <message>
       <source>Show ESIL instead of assembly (asm.esil)</source>
-      <translation type="unfinished">Show ESIL instead of assembly (asm.esil)</translation>
+      <translation>إظهار ESIL بدلاً من التجميع (asm.esil)</translation>
     </message>
     <message>
       <source>Show pseudocode instead of assembly (asm.pseudo)</source>
-      <translation type="unfinished">Show pseudocode instead of assembly (asm.pseudo)</translation>
+      <translation>إظهار الشبه كود بدلاً من التجميع (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="129"/>
       <source>Show offsets (asm.offset)</source>
-      <translation type="unfinished">Show offsets (asm.offset)</translation>
+      <translation>إظهار الأوفست (asm.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="205"/>
       <source>Display the bytes of each instruction (asm.bytes)</source>
-      <translation type="unfinished">Display the bytes of each instruction (asm.bytes)</translation>
+      <translation>عرض البايتات لكل تعليمة (asm.bytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="221"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>التعليقات</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="229"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation type="unfinished">Show opcode description (asm.describe)</translation>
+      <translation>إظهار وصف شفرة التشغيل (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="112"/>
       <source>Syntax (asm.syntax):</source>
-      <translation type="unfinished">Syntax (asm.syntax):</translation>
+      <translation>صياغة (asm.syntax):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="54"/>
       <source>Lowercase</source>
-      <translation type="unfinished">Lowercase</translation>
+      <translation>أحرف صغيرة</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="59"/>
       <source>Uppercase (asm.ucase)</source>
-      <translation type="unfinished">Uppercase (asm.ucase)</translation>
+      <translation>أحرف كبيرة (asm.ucase)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="64"/>
@@ -493,164 +493,164 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="105"/>
       <source>Separate bytes with whitespace (asm.bytespace)</source>
-      <translation type="unfinished">Separate bytes with whitespace (asm.bytespace)</translation>
+      <translation>فصل البايتات بمسافة بيضاء (asm.bytespace)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="122"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation type="unfinished">Indent disassembly based on reflines depth (asm.indent)</translation>
+      <translation>تفكيك المسافة البادئة على أساس عمق التكرير (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="146"/>
       <source>Show Disassembly as:</source>
-      <translation type="unfinished">Show Disassembly as:</translation>
+      <translation>إظهار التفكيك كـ:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="156"/>
       <source>Show empty line after every basic block (asm.bb.line)</source>
-      <translation type="unfinished">Show empty line after every basic block (asm.bb.line)</translation>
+      <translation>إظهار سطر فارغ بعد كل كتلة أساسية (asm.bb.line)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="180"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="237"/>
       <source>Normal</source>
-      <translation type="unfinished">Normal</translation>
+      <translation>عادي</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="185"/>
       <source>ESIL (asm.esil)</source>
-      <translation type="unfinished">ESIL (asm.esil)</translation>
+      <translation>ESIL (asm.esil)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="190"/>
       <source>Pseudocode (asm.pseudo)</source>
-      <translation type="unfinished">Pseudocode (asm.pseudo)</translation>
+      <translation>شبه الكود (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="198"/>
       <source>Align bytes to the left (asm.lbytes)</source>
-      <translation type="unfinished">Align bytes to the left (asm.lbytes)</translation>
+      <translation>محاذاة البايتات إلى اليسار (asm.lbytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="242"/>
       <source>Above instructions</source>
-      <translation type="unfinished">Above instructions</translation>
+      <translation>الإرشادات المذكورة أعلاه</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="247"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>إيقاف</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
       <source>Show comments:</source>
-      <translation type="unfinished">Show comments:</translation>
+      <translation>إظهار التعليقات:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="82"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation type="unfinished">Tabs in assembly (asm.tabs):</translation>
+      <translation>علامات التبويب في التجميع (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="136"/>
       <source>Tabs before assembly (asm.tabs.off):</source>
-      <translation type="unfinished">Tabs before assembly (asm.tabs.off):</translation>
+      <translation>علامات التبويب قبل التجميع (asm.tabs.off):</translation>
     </message>
     <message>
       <source>Show empty line after every basic block (asm.bbline)</source>
-      <translation type="unfinished">Show empty line after every basic block (asm.bbline)</translation>
+      <translation>إظهار سطر فارغ بعد كل كتلة أساسية (asm.bbline)</translation>
     </message>
     <message>
       <source>Show comments at right of assembly (asm.cmt.right)</source>
-      <translation type="unfinished">Show comments at right of assembly (asm.cmt.right)</translation>
+      <translation>إظهار التعليقات على يمين التجميع (asm.cmt.right)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
       <source>Column to align comments (asm.cmt.col):</source>
-      <translation type="unfinished">Column to align comments (asm.cmt.col):</translation>
+      <translation>عمود لمحاذاة التعليقات (asm.cmt.col):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="285"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation type="unfinished">Show x-refs (asm.xrefs)</translation>
+      <translation>إظهار x-refs (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="292"/>
       <source>Show refpointer information (asm.refptr)</source>
-      <translation type="unfinished">Show refpointer information (asm.refptr)</translation>
+      <translation>إظهار معلومات المرجع (asm.refptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="321"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>بيانات التعريف</translation>
     </message>
     <message>
       <source>Show stack pointer (asm.stackptr)</source>
-      <translation type="unfinished">Show stack pointer (asm.stackptr)</translation>
+      <translation>إظهار مؤشر المكدس (asm.stackptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="327"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation type="unfinished">Slow Analysis (asm.slow)</translation>
+      <translation>تحليل بطيء (asm.slow)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="334"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation type="unfinished">Show jump lines (asm.lines)</translation>
+      <translation>إظهار خطوط الانتقال (asm.lines)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="341"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation type="unfinished">Show function boundary lines (asm.lines.fcn)</translation>
+      <translation>إظهار خطوط حدود الوظيفة (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="348"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation type="unfinished">Show offset before flags (asm.flags.off)</translation>
+      <translation>إظهار الإزاحة قبل الرايات (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="355"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation type="unfinished">Run ESIL emulation analysis (asm.emu)</translation>
+      <translation>تشغيل تحليل مضاهاة ESIL (asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation type="unfinished">Show only strings if any in the asm.emu output (emu.str)</translation>
+      <translation>إظهار سلسلة الأغراض فقط إن وجدت في نتاج asm.emu (emu.str)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation type="unfinished">Show size of opcodes in disassembly (asm.size)</translation>
+      <translation>عرض حجم الشفرات في التفكيك (asm.size)</translation>
     </message>
     <message>
       <source>Show bytes (asm.bytes)</source>
-      <translation type="unfinished">Show bytes (asm.bytes)</translation>
+      <translation>إظهار البايتات (asm.bytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="376"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation type="unfinished">Show variables summary instead of full list (asm.var.summary)</translation>
+      <translation>عرض ملخص المتغيرات بدلاً من القائمة الكاملة (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="391"/>
       <source>Number of bytes to display (asm.nbytes):</source>
-      <translation type="unfinished">Number of bytes to display (asm.nbytes):</translation>
+      <translation>عدد البايتات المراد إظهارها (asm.nbytes):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="410"/>
       <source>Substitute variables (asm.var.sub)</source>
-      <translation type="unfinished">Substitute variables (asm.var.sub)</translation>
+      <translation>متغيرات بديلة (asm.var.sub)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="417"/>
       <source>Substitute entire variable expressions with names (asm.var.subonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.var.subonly)</translation>
+      <translation>استبدال التعبيرات المتغيرة بأكملها بأسماء (asm.var.subonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="456"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>حفظ كإعداد إفتراضي</translation>
     </message>
   </context>
   <context>
@@ -658,25 +658,25 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="14"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>الوقت</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="50"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>تشغيل لـ</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
       <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+        <numerusform>%n ساعة</numerusform>
+        <numerusform>%n ساعة</numerusform>
         <numerusform>%n hour</numerusform>
         <numerusform>%n hour</numerusform>
         <numerusform>%n hour</numerusform>
@@ -688,7 +688,7 @@
       <source>%n minute</source>
       <comment>%n minutes</comment>
       <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
+        <numerusform>%n دقيقة</numerusform>
         <numerusform>%n minute</numerusform>
         <numerusform>%n minute</numerusform>
         <numerusform>%n minute</numerusform>
@@ -701,7 +701,7 @@
       <source>%n seconds</source>
       <comment>%n second</comment>
       <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
+        <numerusform>%n ثانية/ثوانٍ</numerusform>
         <numerusform>%n seconds</numerusform>
         <numerusform>%n seconds</numerusform>
         <numerusform>%n seconds</numerusform>
@@ -715,44 +715,44 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation type="unfinished">Select process to attach...</translation>
+      <translation>حدد عملية للإرتباط بها...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation type="unfinished">Processes with same name as currently open file:</translation>
+      <translation>العمليات التي تحمل الاسم نفسه كالملف المفتوح حاليًا:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="94"/>
       <source>All processes:</source>
-      <translation type="unfinished">All processes:</translation>
+      <translation>جميع العمليات:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="138"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>فلترة سريعة</translation>
     </message>
   </context>
   <context>
     <name>BacktraceWidget</name>
     <message>
       <source>Func Name</source>
-      <translation type="unfinished">Func Name</translation>
+      <translation>اسم الوظيفة</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="17"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>وظيفة</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>الوصف</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="21"/>
       <source>Frame Size</source>
-      <translation type="unfinished">Frame Size</translation>
+      <translation>حجم الإطار</translation>
     </message>
   </context>
   <context>
@@ -760,22 +760,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="125"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>طريقة</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="149"/>
       <source>field</source>
-      <translation type="unfinished">field</translation>
+      <translation>حقل</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="171"/>
       <source>base class</source>
-      <translation type="unfinished">base class</translation>
+      <translation>فئة أساسية</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="192"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>فئة</translation>
     </message>
   </context>
   <context>
@@ -783,49 +783,49 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="64"/>
       <source>HW %1</source>
-      <translation type="unfinished">HW %1</translation>
+      <translation>HW %1</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="66"/>
       <source>SW</source>
-      <translation type="unfinished">SW</translation>
+      <translation>SW</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="99"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>إزاحة</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الاسم</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="103"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>ممكّن</translation>
     </message>
     <message>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>أذونات</translation>
     </message>
     <message>
       <source>Hardware bp</source>
-      <translation type="unfinished">Hardware bp</translation>
+      <translation>نقطة توقف الأجهزة</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
       <source>Tracing</source>
-      <translation type="unfinished">Tracing</translation>
+      <translation>تتبع</translation>
     </message>
     <message>
       <source>Active</source>
-      <translation type="unfinished">Active</translation>
+      <translation>مُفعل</translation>
     </message>
   </context>
   <context>
@@ -833,160 +833,160 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation type="unfinished">Add new breakpoint</translation>
+      <translation>إضافة نقطة توقف جديدة</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
       <location filename="../widgets/BreakpointWidget.cpp" line="195"/>
       <source>Delete breakpoint</source>
-      <translation type="unfinished">Delete breakpoint</translation>
+      <translation>حذف نقطة التوقف</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="72"/>
       <source>Delete all breakpoints</source>
-      <translation type="unfinished">Delete all breakpoints</translation>
+      <translation>حذف جميع نقاط التوقف</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="201"/>
       <source>Toggle breakpoint</source>
-      <translation type="unfinished">Toggle breakpoint</translation>
+      <translation>تبديل نقطة التوقف</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="207"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>تحرير</translation>
     </message>
   </context>
   <context>
     <name>BreakpointsDialog</name>
     <message>
       <source>Add breakpoints</source>
-      <translation type="unfinished">Add breakpoints</translation>
+      <translation>إضافة نقاط توقف</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
-      <translation type="unfinished">Add/Edit breakpoint</translation>
+      <translation>إضافة/تحرير نقطة توقف</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="22"/>
       <source>Position</source>
-      <translation type="unfinished">Position</translation>
+      <translation>الموضع</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="59"/>
       <source>Condition</source>
-      <translation type="unfinished">Condition</translation>
+      <translation>الشرط</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
       <source>?v $.rax-0x6  # break when rax is 6</source>
-      <translation type="unfinished">?v $.rax-0x6  # break when rax is 6</translation>
+      <translation>?v $.rax-0x6  # break when rax is 6</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
       <source>Module</source>
-      <translation type="unfinished">Module</translation>
+      <translation>وحدة</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="126"/>
       <source>Type/Options</source>
-      <translation type="unfinished">Type/Options</translation>
+      <translation>نوع/خيارات</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="132"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>ممكّن</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="142"/>
       <source>Software</source>
-      <translation type="unfinished">Software</translation>
+      <translation>البرنامج</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="152"/>
       <source>Hardware</source>
-      <translation type="unfinished">Hardware</translation>
+      <translation>الجهاز</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="180"/>
       <source>Read</source>
-      <translation type="unfinished">Read</translation>
+      <translation>قراءة</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="187"/>
       <source>Write</source>
-      <translation type="unfinished">Write</translation>
+      <translation>كتابة</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="194"/>
       <source>Execute</source>
-      <translation type="unfinished">Execute</translation>
+      <translation>تنفيذ</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="206"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>الحجم</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="217"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="222"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="227"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="232"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="261"/>
       <source>Action</source>
-      <translation type="unfinished">Action</translation>
+      <translation>إجراء</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="267"/>
       <source>Trace</source>
-      <translation type="unfinished">Trace</translation>
+      <translation>تتبع</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="276"/>
       <source>Command</source>
-      <translation type="unfinished">Command</translation>
+      <translation>الأمر</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="22"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>تحرير نقطة التوقف</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="24"/>
       <source>New breakpoint</source>
-      <translation type="unfinished">New breakpoint</translation>
+      <translation>نقطة توقف جديدة</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="33"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>عنوان</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="33"/>
       <source>Address or expression calculated when creating breakpoint</source>
-      <translation type="unfinished">Address or expression calculated when creating breakpoint</translation>
+      <translation>عنوان أو تعبير محسوب عند إنشاء نقطة توقف</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
       <source>Named</source>
-      <translation type="unfinished">Named</translation>
+      <translation>مسمى</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
@@ -6880,17 +6880,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="72"/>
       <source>Length</source>
-      <translation type="unfinished">Length</translation>
+      <translation>الطول</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="74"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>الحجم</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="76"/>
       <source>Section</source>
-      <translation type="unfinished">Section</translation>
+      <translation>القسم</translation>
     </message>
   </context>
   <context>
@@ -6898,7 +6898,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../common/StringsTask.h" line="13"/>
       <source>Searching for Strings</source>
-      <translation type="unfinished">Searching for Strings</translation>
+      <translation>البحث عن سلاسل الأغراض</translation>
     </message>
   </context>
   <context>
@@ -6910,7 +6910,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="76"/>
       <source>Copy String</source>
-      <translation type="unfinished">Copy String</translation>
+      <translation>نسخ سلسلة الأغراض</translation>
     </message>
     <message>
       <source>Xrefs</source>
@@ -6919,17 +6919,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="81"/>
       <source>Filter</source>
-      <translation type="unfinished">Filter</translation>
+      <translation>الفلتر</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="141"/>
       <source>Section:</source>
-      <translation type="unfinished">Section:</translation>
+      <translation>القسم:</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="223"/>
       <source>(all)</source>
-      <translation type="unfinished">(all)</translation>
+      <translation>(الجميع)</translation>
     </message>
   </context>
   <context>
@@ -6937,17 +6937,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="57"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>العنوان</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="59"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="61"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الإسم</translation>
     </message>
   </context>
   <context>
@@ -6955,7 +6955,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="119"/>
       <source>Symbols</source>
-      <translation type="unfinished">Symbols</translation>
+      <translation>الرموز</translation>
     </message>
   </context>
   <context>
@@ -6963,17 +6963,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="26"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="27"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>الحالة</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="28"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>المسار</translation>
     </message>
   </context>
   <context>
@@ -6981,65 +6981,65 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>مربع الحوار</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="23"/>
       <source>Load From File:</source>
-      <translation type="unfinished">Load From File:</translation>
+      <translation>تعبئة من ملف:</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="37"/>
       <source>Select File</source>
-      <translation type="unfinished">Select File</translation>
+      <translation>اختيار ملف</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="50"/>
       <source>Enter Types Manually</source>
-      <translation type="unfinished">Enter Types Manually</translation>
+      <translation>أدخل الرموز يدوياً</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="32"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>اختر ملفاً</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="39"/>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="67"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>خطأ</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="68"/>
       <source>There was some error while loading new types</source>
-      <translation type="unfinished">There was some error while loading new types</translation>
+      <translation>حدثت بعض الأخطاء أثناء تعبئة أنواع جديدة</translation>
     </message>
   </context>
   <context>
     <name>TypesModel</name>
     <message>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="63"/>
       <source>Type / Name</source>
-      <translation type="unfinished">Type / Name</translation>
+      <translation>اسم/ نوع</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="65"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>الحجم</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="67"/>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>الصيغة</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="69"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>الفئة</translation>
     </message>
   </context>
   <context>
@@ -7048,35 +7048,35 @@ Save your project before closing!</translation>
       <location filename="../widgets/TypesWidget.ui" line="76"/>
       <location filename="../widgets/TypesWidget.ui" line="79"/>
       <source>Export Types</source>
-      <translation type="unfinished">Export Types</translation>
+      <translation>تصدير الأنواع</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="84"/>
       <location filename="../widgets/TypesWidget.ui" line="87"/>
       <location filename="../widgets/TypesWidget.cpp" line="284"/>
       <source>Load New Types</source>
-      <translation type="unfinished">Load New Types</translation>
+      <translation>تعبئة أنواع جديدة</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="92"/>
       <location filename="../widgets/TypesWidget.ui" line="95"/>
       <source>Delete Type</source>
-      <translation type="unfinished">Delete Type</translation>
+      <translation>حذف النوع</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="100"/>
       <source>Link Type to Address</source>
-      <translation type="unfinished">Link Type to Address</translation>
+      <translation>ربط النوع بالعنوان</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="136"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>الفئة</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="185"/>
       <source>View Type</source>
-      <translation type="unfinished">View Type</translation>
+      <translation>إظهار النوع</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="186"/>
@@ -7171,42 +7171,42 @@ Save your project before closing!</translation>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="89"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>تنزيل</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="97"/>
       <source>Choose directory for downloading</source>
-      <translation type="unfinished">Choose directory for downloading</translation>
+      <translation>اختر مجلدا للتنزيل</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="102"/>
       <source>Downloading update...</source>
-      <translation type="unfinished">Downloading update...</translation>
+      <translation>جارٍ تنزيل التحديث...</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="103"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>إلغاء</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="116"/>
       <source>Download finished!</source>
-      <translation type="unfinished">Download finished!</translation>
+      <translation>انتهى التنزيل!</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="117"/>
       <source>Latest version of Cutter was succesfully downloaded!</source>
-      <translation type="unfinished">Latest version of Cutter was succesfully downloaded!</translation>
+      <translation>تم تنزيل أحدث إصدار من Cutter بنجاح!</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="120"/>
       <source>Open file</source>
-      <translation type="unfinished">Open file</translation>
+      <translation>فتح ملف</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="121"/>
       <source>Open download folder</source>
-      <translation type="unfinished">Open download folder</translation>
+      <translation>فتح مجلد التنزيل</translation>
     </message>
   </context>
   <context>
@@ -7214,17 +7214,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="62"/>
       <source>VTable</source>
-      <translation type="unfinished">VTable</translation>
+      <translation>VTable</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="83"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الإسم</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="85"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>العنوان</translation>
     </message>
   </context>
   <context>
@@ -7233,19 +7233,19 @@ Save your project before closing!</translation>
       <location filename="../dialogs/VersionInfoDialog.ui" line="50"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="64"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="94"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="126"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>مفتاح</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="99"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="131"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>القيمة</translation>
     </message>
   </context>
   <context>
@@ -7253,7 +7253,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="491"/>
       <source>Virtual</source>
-      <translation type="unfinished">Virtual</translation>
+      <translation>افتراضي(ة)</translation>
     </message>
   </context>
   <context>
@@ -7261,7 +7261,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="29"/>
       <source>Visual navigation bar</source>
-      <translation type="unfinished">Visual navigation bar</translation>
+      <translation>شريط تنقل مرئي</translation>
     </message>
   </context>
   <context>
@@ -7269,7 +7269,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="20"/>
       <source>Welcome to Cutter</source>
-      <translation type="unfinished">Welcome to Cutter</translation>
+      <translation>مرحبا بك في Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="83"/>
@@ -7280,37 +7280,37 @@ Save your project before closing!</translation>
       <location filename="../dialogs/WelcomeDialog.ui" line="104"/>
       <location filename="../dialogs/WelcomeDialog.cpp" line="21"/>
       <source>Version </source>
-      <translation type="unfinished">Version </translation>
+      <translation>الإصدار </translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="168"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>حول</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="203"/>
       <source>Native Theme</source>
-      <translation type="unfinished">Native Theme</translation>
+      <translation>السمة الأصلية</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="208"/>
       <source>Dark Theme</source>
-      <translation type="unfinished">Dark Theme</translation>
+      <translation>سمة داكنة</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="213"/>
       <source>Light Theme</source>
-      <translation type="unfinished">Light Theme</translation>
+      <translation>سمة فاتحة</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="224"/>
       <source>Check for updates on start</source>
-      <translation type="unfinished">Check for updates on start</translation>
+      <translation>التحقق من وجود تحديثات عند بدء التشغيل</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="293"/>
       <source>Community</source>
-      <translation type="unfinished">Community</translation>
+      <translation>المجتمع</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="315"/>
@@ -7328,12 +7328,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="350"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;هل تريد مساعدتنا في جعل Cutter أفضل؟&lt;br/&gt;قم بزيارة &lt;/span&gt;&lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt; صفحة Gihub &lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; للإبلاغ عن أخطاء أو المساهمة التطوير&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="412"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>متابعة</translation>
     </message>
     <message>
       <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -7354,7 +7354,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="389"/>
       <source>Contributing</source>
-      <translation type="unfinished">Contributing</translation>
+      <translation>المساهمة</translation>
     </message>
     <message>
       <source>Continue 🢒</source>
@@ -7363,12 +7363,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="77"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>إعدادات اللغة</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="78"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>سيتم تغيير اللغة بعد إعادة تشغيل البرنامج.</translation>
     </message>
   </context>
   <context>
@@ -7376,24 +7376,24 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="241"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>العنوان</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="243"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>الرمز</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="245"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
   </context>
   <context>
     <name>XrefsDialog</name>
     <message>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>العنوان</translation>
     </message>
     <message>
       <source>Code</source>
@@ -7401,22 +7401,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="136"/>
       <source>X-Refs to %1:</source>
-      <translation type="unfinished">X-Refs to %1:</translation>
+      <translation>X-Refs إلى %1:</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="137"/>
       <source>X-Refs from %1:</source>
-      <translation type="unfinished">X-Refs from %1:</translation>
+      <translation>X-Refs من %1:</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="146"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>X-Refs لـ %1</translation>
     </message>
   </context>
   <context>
@@ -7424,17 +7424,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../widgets/ZignaturesWidget.cpp" line="68"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>إزاحة</translation>
     </message>
     <message>
       <location filename="../widgets/ZignaturesWidget.cpp" line="70"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الإسم</translation>
     </message>
     <message>
       <location filename="../widgets/ZignaturesWidget.cpp" line="72"/>
       <source>Bytes</source>
-      <translation type="unfinished">Bytes</translation>
+      <translation>بايتات</translation>
     </message>
   </context>
 </TS>

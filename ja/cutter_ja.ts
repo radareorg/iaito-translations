@@ -6,140 +6,140 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation type="unfinished">About Cutter</translation>
+      <translation>Cutterについて</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="69"/>
       <source>Check for updates on start</source>
-      <translation type="unfinished">Check for updates on start</translation>
+      <translation>起動時に最新版をチェックする</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="95"/>
       <source>Show version information</source>
-      <translation type="unfinished">Show version information</translation>
+      <translation>バージョン情報を表示</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show radare2 plugin information</source>
-      <translation type="unfinished">Show radare2 plugin information</translation>
+      <translation>radare2プラグイン情報を表示</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutterはradare2を搭載したフリーかつオープンソースのリバースエンジニアリングプラットフォーム&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="128"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <source>Show plugin information</source>
-      <translation type="unfinished">Show plugin information</translation>
+      <translation>プラグイン情報を表示</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="82"/>
       <source>Check for updates</source>
-      <translation type="unfinished">Check for updates</translation>
+      <translation>アップデートを確認</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="29"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="29"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>バージョン</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
       <source>Using r2-</source>
-      <translation type="unfinished">Using r2-</translation>
+      <translation>r2のバージョン </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="32"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>オプション機能：</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>ライセンス</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation type="unfinished">This Software is released under the GNU General Public License v3.0</translation>
+      <translation>このソフトウェアは GNU General Public License v3.0 に基づいてリリースされています</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="49"/>
       <source>Authors</source>
-      <translation type="unfinished">Authors</translation>
+      <translation>著者</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation type="unfinished">Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</translation>
+      <translation>Cutterはコミュニティによって開発され、そのコアチームと開発チームによってメンテナンスされています。&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="51"/>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>コントリビューター一覧については、 &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;コントリビューターページ&lt;/a&gt; をご覧ください。</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="73"/>
       <source>radare2 version information</source>
-      <translation type="unfinished">radare2 version information</translation>
+      <translation>radare2のバージョン情報</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="96"/>
       <source>Checking for updates...</source>
-      <translation type="unfinished">Checking for updates...</translation>
+      <translation>アップデートを確認しています...</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Cutter is up to date!</source>
-      <translation type="unfinished">Cutter is up to date!</translation>
+      <translation>Cutterは最新です!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="146"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation type="unfinished">Based on Qt %1 (%2, %3 bit)</translation>
+      <translation>Qt %1 (%2, %3 bit) に基づいています</translation>
     </message>
     <message>
       <source>Timeout error!</source>
-      <translation type="unfinished">Timeout error!</translation>
+      <translation>タイムアウトエラー！</translation>
     </message>
     <message>
       <source>Please check your internet connection and try again.</source>
-      <translation type="unfinished">Please check your internet connection and try again.</translation>
+      <translation>インターネット接続を確認して、もう一度やり直してください。</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="102"/>
       <source>Error!</source>
-      <translation type="unfinished">Error!</translation>
+      <translation>エラー！</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>バージョン管理</translation>
     </message>
     <message>
       <source>You have latest version and no need to update!</source>
-      <translation type="unfinished">You have latest version and no need to update!</translation>
+      <translation>最新バージョンを使用しているため、アップデートする必要はありません！</translation>
     </message>
     <message>
       <source>Current version:</source>
-      <translation type="unfinished">Current version:</translation>
+      <translation>現在のバージョン:</translation>
     </message>
     <message>
       <source>Latest version:</source>
-      <translation type="unfinished">Latest version:</translation>
+      <translation>最新バージョン:</translation>
     </message>
     <message>
       <source>For update, please check the link:</source>
-      <translation type="unfinished">For update, please check the link:</translation>
+      <translation>アップデートについては、以下のリンクをご確認ください。</translation>
     </message>
   </context>
   <context>
@@ -147,22 +147,22 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="16"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>次で表示する</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>アドレスをコピー</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>X-Refsを表示</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>コメントを追加</translation>
     </message>
   </context>
   <context>
@@ -170,22 +170,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="409"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>クラス</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="433"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>基底</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="463"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>メソッド</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="497"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>vtable</translation>
     </message>
   </context>
   <context>
@@ -193,45 +193,45 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="26"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>ファイルを読み込んでいます...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="67"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>PDBファイルを読み込んでいます...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="76"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>シェルコードを読み込んでいます...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="87"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>スクリプトの実行中...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="99"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>解析を実行しています...</translation>
     </message>
     <message>
       <source>Analyzing...</source>
-      <translation type="unfinished">Analyzing...</translation>
+      <translation>解析中...</translation>
     </message>
     <message>
       <source>Running</source>
-      <translation type="unfinished">Running</translation>
+      <translation>実行中</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="107"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>解析完了</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="109"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>解析をスキップします。</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.h" line="20"/>
@@ -244,110 +244,110 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>外観</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>フォント:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>フォントを選択</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>ズーム</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>言語:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation type="unfinished">Interface Theme:</translation>
+      <translation>インターフェーステーマ:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>カラーテーマ:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation type="unfinished">Edit Theme</translation>
+      <translation>テーマを編集</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>名前の変更</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>エクスポート</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>インポート</translation>
     </message>
     <message>
       <source>Qt Theme:</source>
-      <translation type="unfinished">Qt Theme:</translation>
+      <translation>Qt テーマ:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>デフォルト</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation type="unfinished">Dark</translation>
+      <translation>ダーク</translation>
     </message>
     <message>
       <source>Color Theme</source>
-      <translation type="unfinished">Color Theme</translation>
+      <translation>カラーテーマ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>コピー</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="166"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>削除</translation>
     </message>
     <message>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation>言語設定</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="302"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>デフォルトとして保存</translation>
     </message>
     <message>
       <source>Enter scheme name</source>
-      <translation type="unfinished">Enter scheme name</translation>
+      <translation>スキーム名を入力</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="139"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="230"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名前:</translation>
     </message>
     <message>
       <source>Are you sure you want to delete theme </source>
@@ -356,27 +356,27 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="127"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>テーマエディター - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="138"/>
       <source>Enter theme name</source>
-      <translation type="unfinished">Enter theme name</translation>
+      <translation>テーマ名を入力</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="140"/>
       <source> - copy</source>
-      <translation type="unfinished"> - copy</translation>
+      <translation> - コピー</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="146"/>
       <source>Theme Copy</source>
-      <translation type="unfinished">Theme Copy</translation>
+      <translation>テーマのコピー</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="147"/>
       <source>Theme named %1 already exists.</source>
-      <translation type="unfinished">Theme named %1 already exists.</translation>
+      <translation>テーマ名 %1 は既に存在しています。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="162"/>
@@ -385,48 +385,48 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="239"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>エラー</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="167"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation type="unfinished">Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</translation>
+      <translation>&lt;b&gt;%1&lt;/b&gt; を削除してもよろしいですか？</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="191"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="218"/>
       <source>Success</source>
-      <translation type="unfinished">Success</translation>
+      <translation>成功</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="192"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</translation>
+      <translation>カラーテーマ &lt;b&gt;%1&lt;/b&gt; は正常にインポートされました。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="219"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</translation>
+      <translation>カラーテーマ &lt;b&gt;%1&lt;/b&gt; のエクスポートに成功しました。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="229"/>
       <source>Enter new theme name</source>
-      <translation type="unfinished">Enter new theme name</translation>
+      <translation>新しいテーマ名を入力</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="251"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>言語設定</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="252"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>言語は次のアプリケーション起動時に変更されます。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="256"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation type="unfinished">Cannot set language, not found in available ones</translation>
+      <translation>言語を設定できません。利用可能な言語が見つかりません。</translation>
     </message>
   </context>
   <context>
@@ -435,96 +435,96 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="47"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>逆アセンブリ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>スタイル</translation>
     </message>
     <message>
       <source>Show ESIL instead of assembly (asm.esil)</source>
-      <translation type="unfinished">Show ESIL instead of assembly (asm.esil)</translation>
+      <translation>アセンブリの代わりに ESIL を表示する (asm.esil)</translation>
     </message>
     <message>
       <source>Show pseudocode instead of assembly (asm.pseudo)</source>
-      <translation type="unfinished">Show pseudocode instead of assembly (asm.pseudo)</translation>
+      <translation>アセンブリの代わりに疑似コードを表示する (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="129"/>
       <source>Show offsets (asm.offset)</source>
-      <translation type="unfinished">Show offsets (asm.offset)</translation>
+      <translation>オフセットを表示 (asm.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="205"/>
       <source>Display the bytes of each instruction (asm.bytes)</source>
-      <translation type="unfinished">Display the bytes of each instruction (asm.bytes)</translation>
+      <translation>各命令のバイト列を表示 (asm.bytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="221"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>コメント</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="229"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation type="unfinished">Show opcode description (asm.describe)</translation>
+      <translation>オペコードの説明を表示 (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="112"/>
       <source>Syntax (asm.syntax):</source>
-      <translation type="unfinished">Syntax (asm.syntax):</translation>
+      <translation>シンタックス (asm.syntax):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="54"/>
       <source>Lowercase</source>
-      <translation type="unfinished">Lowercase</translation>
+      <translation>小文字</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="59"/>
       <source>Uppercase (asm.ucase)</source>
-      <translation type="unfinished">Uppercase (asm.ucase)</translation>
+      <translation>大文字 (asm.ucase)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="64"/>
       <source>Capitalize (asm.capitalize)</source>
-      <translation type="unfinished">Capitalize (asm.capitalize)</translation>
+      <translation>大文字化 (asm.capitalize)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="105"/>
       <source>Separate bytes with whitespace (asm.bytespace)</source>
-      <translation type="unfinished">Separate bytes with whitespace (asm.bytespace)</translation>
+      <translation>スペースをデリミタとして使用 (asm.bytace)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="122"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation type="unfinished">Indent disassembly based on reflines depth (asm.indent)</translation>
+      <translation>リファレンスラインの深度に基づいて逆アセンブリ結果をインデント (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="146"/>
       <source>Show Disassembly as:</source>
-      <translation type="unfinished">Show Disassembly as:</translation>
+      <translation>逆アセンブリを表示:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="156"/>
       <source>Show empty line after every basic block (asm.bb.line)</source>
-      <translation type="unfinished">Show empty line after every basic block (asm.bb.line)</translation>
+      <translation>ベーシックブロックごとに空白行を表示 (asm.bb.line)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="180"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="237"/>
       <source>Normal</source>
-      <translation type="unfinished">Normal</translation>
+      <translation>標準</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="185"/>
       <source>ESIL (asm.esil)</source>
-      <translation type="unfinished">ESIL (asm.esil)</translation>
+      <translation>ESIL (asm.esil)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="190"/>
       <source>Pseudocode (asm.pseudo)</source>
-      <translation type="unfinished">Pseudocode (asm.pseudo)</translation>
+      <translation>擬似コード (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="198"/>
@@ -544,7 +544,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
       <source>Show comments:</source>
-      <translation type="unfinished">Show comments:</translation>
+      <translation>コメントの表示:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="82"/>
@@ -562,7 +562,7 @@
     </message>
     <message>
       <source>Show comments at right of assembly (asm.cmt.right)</source>
-      <translation type="unfinished">Show comments at right of assembly (asm.cmt.right)</translation>
+      <translation>アセンブリの右側にコメントを表示する (asm.cmt.right)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
@@ -572,7 +572,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="285"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation type="unfinished">Show x-refs (asm.xrefs)</translation>
+      <translation>x-refsを表示 (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="292"/>
@@ -582,11 +582,11 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="321"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>メタデータ</translation>
     </message>
     <message>
       <source>Show stack pointer (asm.stackptr)</source>
-      <translation type="unfinished">Show stack pointer (asm.stackptr)</translation>
+      <translation>スタックポインタを表示 (asm.stackptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="327"/>
@@ -606,36 +606,36 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="348"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation type="unfinished">Show offset before flags (asm.flags.off)</translation>
+      <translation>フラグの前にオフセットを表示 (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="355"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation type="unfinished">Run ESIL emulation analysis (asm.emu)</translation>
+      <translation>ESIL エミュレーション解析を実行 (asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation type="unfinished">Show only strings if any in the asm.emu output (emu.str)</translation>
+      <translation>asm.emu の出力に含まれる文字列のみを表示する (emu.str)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation type="unfinished">Show size of opcodes in disassembly (asm.size)</translation>
+      <translation>disassembly にオペコードのサイズを表示する (asm.size) </translation>
     </message>
     <message>
       <source>Show bytes (asm.bytes)</source>
-      <translation type="unfinished">Show bytes (asm.bytes)</translation>
+      <translation>バイト列を表示 (asm.bytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="376"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation type="unfinished">Show variables summary instead of full list (asm.var.summary)</translation>
+      <translation>完全なリストの代わりに変数サマリーを表示します (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="391"/>
       <source>Number of bytes to display (asm.nbytes):</source>
-      <translation type="unfinished">Number of bytes to display (asm.nbytes):</translation>
+      <translation>表示するバイト数(asm.nbytes):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="410"/>
@@ -645,12 +645,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="417"/>
       <source>Substitute entire variable expressions with names (asm.var.subonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.var.subonly)</translation>
+      <translation>変数式全体を名前で置き換えます (asm.var.subonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="456"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>デフォルトとして保存</translation>
     </message>
   </context>
   <context>
@@ -658,7 +658,7 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="14"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
@@ -674,24 +674,24 @@
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n 時</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="56"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n 分</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="59"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n 秒</numerusform>
       </translation>
     </message>
   </context>
@@ -700,34 +700,34 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation type="unfinished">Select process to attach...</translation>
+      <translation> アタッチするプロセスを選択...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation type="unfinished">Processes with same name as currently open file:</translation>
+      <translation>現在開いているファイルと同じ名前のプロセス:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="94"/>
       <source>All processes:</source>
-      <translation type="unfinished">All processes:</translation>
+      <translation>すべてのプロセス:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="138"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>クイックフィルター</translation>
     </message>
   </context>
   <context>
     <name>BacktraceWidget</name>
     <message>
       <source>Func Name</source>
-      <translation type="unfinished">Func Name</translation>
+      <translation>関数名</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="17"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>関数</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
@@ -737,7 +737,7 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="21"/>
       <source>Frame Size</source>
-      <translation type="unfinished">Frame Size</translation>
+      <translation>フレームサイズ</translation>
     </message>
   </context>
   <context>
@@ -755,12 +755,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="171"/>
       <source>base class</source>
-      <translation type="unfinished">base class</translation>
+      <translation>基底クラス</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="192"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>クラス</translation>
     </message>
   </context>
   <context>
@@ -768,40 +768,40 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="64"/>
       <source>HW %1</source>
-      <translation type="unfinished">HW %1</translation>
+      <translation>HW %1</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="66"/>
       <source>SW</source>
-      <translation type="unfinished">SW</translation>
+      <translation>SW</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="99"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="103"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>型</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>有効化</translation>
     </message>
     <message>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>権限</translation>
     </message>
     <message>
       <source>Hardware bp</source>
-      <translation type="unfinished">Hardware bp</translation>
+      <translation>ハードウェアブレークポイント</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
@@ -818,40 +818,40 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation type="unfinished">Add new breakpoint</translation>
+      <translation>新しいブレークポイントを追加</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
       <location filename="../widgets/BreakpointWidget.cpp" line="195"/>
       <source>Delete breakpoint</source>
-      <translation type="unfinished">Delete breakpoint</translation>
+      <translation>ブレークポイントを削除</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="72"/>
       <source>Delete all breakpoints</source>
-      <translation type="unfinished">Delete all breakpoints</translation>
+      <translation>すべてのブレークポイントを削除</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="201"/>
       <source>Toggle breakpoint</source>
-      <translation type="unfinished">Toggle breakpoint</translation>
+      <translation>ブレークポイントの切り替え</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="207"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>編集</translation>
     </message>
   </context>
   <context>
     <name>BreakpointsDialog</name>
     <message>
       <source>Add breakpoints</source>
-      <translation type="unfinished">Add breakpoints</translation>
+      <translation>ブレークポイントを追加</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
-      <translation type="unfinished">Add/Edit breakpoint</translation>
+      <translation>ブレークポイントの追加/編集</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="22"/>
@@ -871,7 +871,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
       <source>Module</source>
-      <translation type="unfinished">Module</translation>
+      <translation>モジュール</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="126"/>
@@ -886,57 +886,57 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="142"/>
       <source>Software</source>
-      <translation type="unfinished">Software</translation>
+      <translation>ソフトウェア</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="152"/>
       <source>Hardware</source>
-      <translation type="unfinished">Hardware</translation>
+      <translation>ハードウェア</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="180"/>
       <source>Read</source>
-      <translation type="unfinished">Read</translation>
+      <translation>Read</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="187"/>
       <source>Write</source>
-      <translation type="unfinished">Write</translation>
+      <translation>Write</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="194"/>
       <source>Execute</source>
-      <translation type="unfinished">Execute</translation>
+      <translation>Execute</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="206"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>サイズ</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="217"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="222"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="227"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="232"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="261"/>
       <source>Action</source>
-      <translation type="unfinished">Action</translation>
+      <translation>アクション</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="267"/>
@@ -946,22 +946,22 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="276"/>
       <source>Command</source>
-      <translation type="unfinished">Command</translation>
+      <translation>コマンド</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="22"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>ブレークポイントの編集</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="24"/>
       <source>New breakpoint</source>
-      <translation type="unfinished">New breakpoint</translation>
+      <translation>新しいブレークポイント</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="33"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>アドレス</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="33"/>
@@ -993,7 +993,7 @@
     <name>ClassesModel</name>
     <message>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>メソッド</translation>
     </message>
     <message>
       <source>field</source>
@@ -1001,27 +1001,27 @@
     </message>
     <message>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>クラス</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="19"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="21"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>型</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
       <source>VTable</source>
-      <translation type="unfinished">VTable</translation>
+      <translation>VTable</translation>
     </message>
   </context>
   <context>
@@ -1049,29 +1049,29 @@
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="114"/>
       <source>Edit Method</source>
-      <translation type="unfinished">Edit Method</translation>
+      <translation>メソッドを編集</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="119"/>
       <source>Add Method</source>
-      <translation type="unfinished">Add Method</translation>
+      <translation>メソッドを追加</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="124"/>
       <location filename="../widgets/ClassesWidget.cpp" line="747"/>
       <source>Create new Class</source>
-      <translation type="unfinished">Create new Class</translation>
+      <translation>新しいクラスを作成</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="129"/>
       <source>Rename Class</source>
-      <translation type="unfinished">Rename Class</translation>
+      <translation>クラス名の変更</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="134"/>
       <location filename="../widgets/ClassesWidget.cpp" line="760"/>
       <source>Delete Class</source>
-      <translation type="unfinished">Delete Class</translation>
+      <translation>クラスを削除</translation>
     </message>
     <message>
       <source>Flags (Editable)</source>
@@ -1080,28 +1080,28 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="702"/>
       <source>Missing VTable in class</source>
-      <translation type="unfinished">Missing VTable in class</translation>
+      <translation>クラス内にVTableがありません</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="702"/>
       <source>The class %1 does not have any VTable!</source>
-      <translation type="unfinished">The class %1 does not have any VTable!</translation>
+      <translation>クラス %1 にはVTableがありません！</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="747"/>
       <location filename="../widgets/ClassesWidget.cpp" line="774"/>
       <source>Class Name</source>
-      <translation type="unfinished">Class Name</translation>
+      <translation>クラス名</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="760"/>
       <source>Are you sure you want to delete the class %1?</source>
-      <translation type="unfinished">Are you sure you want to delete the class %1?</translation>
+      <translation>クラス %1 を削除してもよろしいですか？</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="774"/>
       <source>Rename Class %1</source>
-      <translation type="unfinished">Rename Class %1</translation>
+      <translation>クラス %1 の名前を変更</translation>
     </message>
   </context>
   <context>
@@ -1109,7 +1109,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>フォーム</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
@@ -1149,23 +1149,23 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
       <source>\#HHHHHH</source>
-      <translation type="unfinished">\#HHHHHH</translation>
+      <translation>\#HHHHHH</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
       <source>Pick color from screen</source>
-      <translation type="unfinished">Pick color from screen</translation>
+      <translation>画面から色を選択</translation>
     </message>
   </context>
   <context>
     <name>ColorSchemeFileSaver</name>
     <message>
       <source>Standard themes not found!</source>
-      <translation type="unfinished">Standard themes not found!</translation>
+      <translation>標準テーマが見つかりません！</translation>
     </message>
     <message>
       <source>The radare2 standard themes could not be found! This probably means radare2 is not properly installed. If you think it is open an issue please.</source>
-      <translation type="unfinished">The radare2 standard themes could not be found! This probably means radare2 is not properly installed. If you think it is open an issue please.</translation>
+      <translation>radare2標準テーマが見つかりませんでした！これはおそらくradare2が正しくインストールされていないことを意味します。問題が発生していると思われる場合はイシューをあげてください。</translation>
     </message>
   </context>
   <context>
@@ -1184,12 +1184,12 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>ダイアログ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>カラーテーマ:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
@@ -1199,29 +1199,29 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="36"/>
       <source>Disassembly Preview</source>
-      <translation type="unfinished">Disassembly Preview</translation>
+      <translation>逆アセンブリプレビュー</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="80"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>エラー</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="95"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="146"/>
       <source>Unsaved changes</source>
-      <translation type="unfinished">Unsaved changes</translation>
+      <translation>保存されていない変更</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="96"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="147"/>
       <source>Are you sure you want to exit without saving? All changes will be lost.</source>
-      <translation type="unfinished">Are you sure you want to exit without saving? All changes will be lost.</translation>
+      <translation>保存せずに終了してもよろしいですか？変更はすべて失われます。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="161"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>テーマエディター - &lt;%1&gt;</translation>
     </message>
   </context>
   <context>
@@ -1229,83 +1229,83 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="78"/>
       <source>Standard themes not found</source>
-      <translation type="unfinished">Standard themes not found</translation>
+      <translation>標準テーマが見つかりません</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="79"/>
       <source>The radare2 standard themes could not be found. Most likely, radare2 is not properly installed.</source>
-      <translation type="unfinished">The radare2 standard themes could not be found. Most likely, radare2 is not properly installed.</translation>
+      <translation>radare2標準テーマが見つかりませんでした。radare2が正しくインストールされていない可能性があります。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="108"/>
       <location filename="../common/ColorThemeWorker.cpp" line="235"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>テーマ &lt;b&gt;%1&lt;/b&gt; は存在しません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="119"/>
       <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
-      <translation type="unfinished">The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</translation>
+      <translation>ファイル &lt;b&gt;%1&lt;/b&gt; を開くことができません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="232"/>
       <source>You can not delete standard radare2 color themes.</source>
-      <translation type="unfinished">You can not delete standard radare2 color themes.</translation>
+      <translation>標準のradare2カラーテーマは削除できません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="240"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation type="unfinished">You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;%1に書き込む権限がありません&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="244"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; can not be opened.</translation>
+      <translation>ファイル &lt;b&gt;%1&lt;/b&gt; を開けません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="248"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; can not be removed.</translation>
+      <translation>ファイル &lt;b&gt;%1&lt;/b&gt; を削除できません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="258"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>ファイル &lt;b&gt;%1&lt;/b&gt; は存在しません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="264"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</translation>
+      <translation>ファイル &lt;b&gt;%1&lt;/b&gt; を開けませんでした。アクセス権があることを確認して、もう一度やり直してください。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="268"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</translation>
+      <translation>ファイル &lt;b&gt;%1&lt;/b&gt; はCutterのカラーテーマではありません</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="273"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</translation>
+      <translation>&lt;b&gt;%1&lt;/b&gt; という名前のカラーテーマは既に存在します。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="279"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
-      <translation type="unfinished">Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</translation>
+      <translation>インポート中にエラーが発生しました。ディレクトリ &lt;b&gt;%1&lt;/b&gt; にアクセスできることを確認して、もう一度やり直してください。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="289"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</translation>
+      <translation>&lt;b&gt;&quot;%1&quot;&lt;/b&gt; という名前のカラーテーマは既に存在します。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="293"/>
       <source>You can not rename standard radare2 themes.</source>
-      <translation type="unfinished">You can not rename standard radare2 themes.</translation>
+      <translation>標準のradare2テーマの名前は変更できません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="299"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
-      <translation type="unfinished">Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
+      <translation>名前の変更中に問題が発生しました。ディレクトリ &lt;b&gt;&quot;%1&quot;&lt;/b&gt; にアクセスできることを確認してください。</translation>
     </message>
   </context>
   <context>
@@ -1313,17 +1313,17 @@
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>フォーム</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="32"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>クイックフィルター</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="39"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>テキストラベル</translation>
     </message>
   </context>
   <context>
@@ -1331,7 +1331,7 @@
     <message>
       <location filename="../common/CommandTask.h" line="17"/>
       <source>Running Command</source>
-      <translation type="unfinished">Running Command</translation>
+      <translation>実行中のコマンド</translation>
     </message>
   </context>
   <context>
@@ -1339,17 +1339,17 @@
     <message>
       <location filename="../dialogs/CommentsDialog.ui" line="14"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>コメント</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="47"/>
       <source>Add Comment at %1</source>
-      <translation type="unfinished">Add Comment at %1</translation>
+      <translation>%1 にコメントを追加</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="49"/>
       <source>Edit Comment at %1</source>
-      <translation type="unfinished">Edit Comment at %1</translation>
+      <translation>%1 のコメントを編集</translation>
     </message>
   </context>
   <context>
@@ -1357,23 +1357,23 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="158"/>
       <source>Function/Offset</source>
-      <translation type="unfinished">Function/Offset</translation>
+      <translation>関数/オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="160"/>
       <location filename="../widgets/CommentsWidget.cpp" line="171"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>コメント</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="167"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="169"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>関数</translation>
     </message>
   </context>
   <context>
@@ -1386,7 +1386,7 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>コメント</translation>
     </message>
     <message>
       <source>Horizontal view</source>
@@ -1412,7 +1412,7 @@
     <message>
       <location filename="../common/Configuration.cpp" line="138"/>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
-      <translation type="unfinished">!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</translation>
+      <translation>!!! 書き込み可能な設定ではありません! &quot;%1&quot; への書き込み権限があることを確認してください</translation>
     </message>
   </context>
   <context>
@@ -1420,7 +1420,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>R2 Console</source>
-      <translation type="unfinished">R2 Console</translation>
+      <translation>R2 コンソール</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
@@ -1430,32 +1430,32 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
       <source> Type &quot;?&quot; for help</source>
-      <translation type="unfinished"> Type &quot;?&quot; for help</translation>
+      <translation>ヘルプを表示するのは &quot;?&quot; を入力</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
       <source> Enter input for the debugee</source>
-      <translation type="unfinished"> Enter input for the debugee</translation>
+      <translation> デバッギーへのインプットを入力してください</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
       <source>Execute command</source>
-      <translation type="unfinished">Execute command</translation>
+      <translation>コマンドを実行</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="62"/>
       <source>Clear Output</source>
-      <translation type="unfinished">Clear Output</translation>
+      <translation>出力をクリア</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="66"/>
       <source>Wrap Lines</source>
-      <translation type="unfinished">Wrap Lines</translation>
+      <translation>行を折り返す</translation>
     </message>
   </context>
   <context>
@@ -1463,42 +1463,42 @@
     <message>
       <location filename="../core/Cutter.cpp" line="1333"/>
       <source>Starting native debug...</source>
-      <translation type="unfinished">Starting native debug...</translation>
+      <translation>ネイティブデバッグを開始...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1376"/>
       <source>Starting emulation...</source>
-      <translation type="unfinished">Starting emulation...</translation>
+      <translation>エミュレーションを開始...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1431"/>
       <source>Connecting to: </source>
-      <translation type="unfinished">Connecting to: </translation>
+      <translation>接続中:</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1470"/>
       <source>Attaching to process (</source>
-      <translation type="unfinished">Attaching to process (</translation>
+      <translation>プロセスにアタッチ (</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1793"/>
       <source>Breakpoint error</source>
-      <translation type="unfinished">Breakpoint error</translation>
+      <translation>ブレークポイントエラー</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1793"/>
       <source>Failed to create breakpoint</source>
-      <translation type="unfinished">Failed to create breakpoint</translation>
+      <translation>ブレークポイントの作成に失敗しました</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2664"/>
       <source>Unknown (%1)</source>
-      <translation type="unfinished">Unknown (%1)</translation>
+      <translation>不明 (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2906"/>
       <source>Primitive</source>
-      <translation type="unfinished">Primitive</translation>
+      <translation>プリミティブ型</translation>
     </message>
   </context>
   <context>
@@ -1522,7 +1522,7 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
       <source>OVERVIEW</source>
-      <translation type="unfinished">OVERVIEW</translation>
+      <translation>概要</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="140"/>
@@ -1532,7 +1532,7 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="178"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>ファイル:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="188"/>
@@ -1562,37 +1562,37 @@
       <location filename="../widgets/Dashboard.ui" line="913"/>
       <location filename="../widgets/Dashboard.ui" line="942"/>
       <source>--</source>
-      <translation type="unfinished">--</translation>
+      <translation>--</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="207"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>フォーマット:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="236"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>モード:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="265"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>サイズ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="281"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>タイプ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="310"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>クラス:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="339"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>言語:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="368"/>
@@ -1607,17 +1607,17 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
       <source>Base addr:</source>
-      <translation type="unfinished">Base addr:</translation>
+      <translation>ベースアドレス:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="484"/>
       <source>Virtual addr:</source>
-      <translation type="unfinished">Virtual addr:</translation>
+      <translation>仮想アドレス:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="513"/>
       <source>Canary:</source>
-      <translation type="unfinished">Canary:</translation>
+      <translation>カナリア:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="542"/>
@@ -1627,12 +1627,12 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="571"/>
       <source>NX bit:</source>
-      <translation type="unfinished">NX bit:</translation>
+      <translation>NX bit:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="600"/>
       <source>PIC:</source>
-      <translation type="unfinished">PIC:</translation>
+      <translation>PIC:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="629"/>
@@ -1642,153 +1642,153 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation type="unfinished">Relro:</translation>
+      <translation>RELRO:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>アーキテクチャ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="729"/>
       <source>Machine:</source>
-      <translation type="unfinished">Machine:</translation>
+      <translation>Machine:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="758"/>
       <source>OS:</source>
-      <translation type="unfinished">OS:</translation>
+      <translation>OS:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="787"/>
       <source>Subsystem:</source>
-      <translation type="unfinished">Subsystem:</translation>
+      <translation>Subsystem:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="816"/>
       <source>Stripped:</source>
-      <translation type="unfinished">Stripped:</translation>
+      <translation>Stripped:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation type="unfinished">Relocs:</translation>
+      <translation>Relocs:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
       <source>Endianness:</source>
-      <translation type="unfinished">Endianness:</translation>
+      <translation>エンディアン:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="903"/>
       <source>Compiled:</source>
-      <translation type="unfinished">Compiled:</translation>
+      <translation>Compiled:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="932"/>
       <source>Compiler:</source>
-      <translation type="unfinished">Compiler:</translation>
+      <translation>コンパイラ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
       <source>Certificates</source>
-      <translation type="unfinished">Certificates</translation>
+      <translation>証明書</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1006"/>
       <source>Version info</source>
-      <translation type="unfinished">Version info</translation>
+      <translation>バージョン情報</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1034"/>
       <source>Hashes</source>
-      <translation type="unfinished">Hashes</translation>
+      <translation>ハッシュ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1051"/>
       <source>Libraries</source>
-      <translation type="unfinished">Libraries</translation>
+      <translation>ライブラリ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1087"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1116"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1151"/>
       <source>Entropy:</source>
-      <translation type="unfinished">Entropy:</translation>
+      <translation>エントロピー:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1183"/>
       <source>Analysis info</source>
-      <translation type="unfinished">Analysis info</translation>
+      <translation>解析情報</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1207"/>
       <source>Functions:</source>
-      <translation type="unfinished">Functions:</translation>
+      <translation>関数:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1233"/>
       <source>X-Refs:</source>
-      <translation type="unfinished">X-Refs:</translation>
+      <translation>X-Refs:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1259"/>
       <source>Calls:</source>
-      <translation type="unfinished">Calls:</translation>
+      <translation>関数コール:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1285"/>
       <source>Strings:</source>
-      <translation type="unfinished">Strings:</translation>
+      <translation>文字列:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1311"/>
       <source>Symbols:</source>
-      <translation type="unfinished">Symbols:</translation>
+      <translation>シンボル:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1337"/>
       <source>Imports:</source>
-      <translation type="unfinished">Imports:</translation>
+      <translation>インポート:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1363"/>
       <source>Analysis coverage:</source>
-      <translation type="unfinished">Analysis coverage:</translation>
+      <translation>カバレッジ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1389"/>
       <source>Code size:</source>
-      <translation type="unfinished">Code size:</translation>
+      <translation>コードサイズ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1415"/>
       <source>Coverage percent:</source>
-      <translation type="unfinished">Coverage percent:</translation>
+      <translation>カバレッジ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="205"/>
       <location filename="../widgets/Dashboard.cpp" line="225"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>N/A</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="220"/>
       <source>True</source>
-      <translation type="unfinished">True</translation>
+      <translation>True</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="222"/>
       <source>False</source>
-      <translation type="unfinished">False</translation>
+      <translation>False</translation>
     </message>
   </context>
   <context>
@@ -1796,120 +1796,120 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="49"/>
       <source>Start debug</source>
-      <translation type="unfinished">Start debug</translation>
+      <translation>デバッグを開始</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="34"/>
       <source>Start emulation</source>
-      <translation type="unfinished">Start emulation</translation>
+      <translation>エミュレーションを開始</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="35"/>
       <source>Attach to process</source>
-      <translation type="unfinished">Attach to process</translation>
+      <translation>プロセスにアタッチ</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="37"/>
       <source>Stop debug</source>
-      <translation type="unfinished">Stop debug</translation>
+      <translation>デバッグを停止</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Stop emulation</source>
-      <translation type="unfinished">Stop emulation</translation>
+      <translation>エミュレーションを停止</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="48"/>
       <source>Restart program</source>
-      <translation type="unfinished">Restart program</translation>
+      <translation>プログラムを再スタート</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
       <source>Restart emulation</source>
-      <translation type="unfinished">Restart emulation</translation>
+      <translation>エミュレーションを再スタート</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>続行</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="40"/>
       <source>Continue until main</source>
-      <translation type="unfinished">Continue until main</translation>
+      <translation>mainまで実行</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="36"/>
       <source>Connect to a remote debugger</source>
-      <translation type="unfinished">Connect to a remote debugger</translation>
+      <translation>リモートデバッガーにアタッチ</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="41"/>
       <source>Continue until call</source>
-      <translation type="unfinished">Continue until call</translation>
+      <translation>関数コールまで実行</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="42"/>
       <source>Continue until syscall</source>
-      <translation type="unfinished">Continue until syscall</translation>
+      <translation>syscallまで実行</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="43"/>
       <source>Step</source>
-      <translation type="unfinished">Step</translation>
+      <translation>ステップ</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="44"/>
       <source>Step over</source>
-      <translation type="unfinished">Step over</translation>
+      <translation>ステップオーバー</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="45"/>
       <source>Step out</source>
-      <translation type="unfinished">Step out</translation>
+      <translation>ステップアウト</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Suspend the process</source>
-      <translation type="unfinished">Suspend the process</translation>
+      <translation>プロセスの実行を中断</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="115"/>
       <source>Debugged process exited (</source>
-      <translation type="unfinished">Debugged process exited (</translation>
+      <translation>デバッグ処理を終了 (</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="208"/>
       <source>Debug is currently in beta.
 </source>
-      <translation type="unfinished">Debug is currently in beta.
+      <translation>デバッグは現在ベータ版です。
 </translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="209"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/radareorg/cutter/issues</source>
-      <translation type="unfinished">If you encounter any problems or have suggestions, please submit an issue to https://github.com/radareorg/cutter/issues</translation>
+      <translation>問題や提案がある場合は、https://github.com/radareorg/cutter/issues に問題を提出してください。</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="235"/>
       <source>Error connecting.</source>
-      <translation type="unfinished">Error connecting.</translation>
+      <translation>接続エラー。</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="311"/>
       <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation type="unfinished">File &apos;%1&apos; does not have executable permissions.</translation>
+      <translation>ファイル &apos;%1&apos; には実行可能権限がありません。</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="282"/>
       <source>Error attaching. No process selected!</source>
-      <translation type="unfinished">Error attaching. No process selected!</translation>
+      <translation>アタッチ失敗。プロセスが選択されていません。</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="222"/>
       <location filename="../widgets/DebugActions.cpp" line="291"/>
       <source>Detach from process</source>
-      <translation type="unfinished">Detach from process</translation>
+      <translation>プロセスからデタッチします</translation>
     </message>
   </context>
   <context>
@@ -1917,102 +1917,102 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="14"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>デバッグ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="28"/>
       <source>Debug Plugin:</source>
-      <translation type="unfinished">Debug Plugin:</translation>
+      <translation>デバッグプラグイン:</translation>
     </message>
     <message>
       <source>Program Arguments:</source>
-      <translation type="unfinished">Program Arguments:</translation>
+      <translation>プログラム引数:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="38"/>
       <source>ESIL stack address:</source>
-      <translation type="unfinished">ESIL stack address:</translation>
+      <translation>ESIL スタックアドレス:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="55"/>
       <source>ESIL stack size:</source>
-      <translation type="unfinished">ESIL stack size:</translation>
+      <translation>ESIL スタックサイズ:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="89"/>
       <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
-      <translation type="unfinished">Break esil execution when instruction is invalid (esil.breakoninvalid)</translation>
+      <translation>命令が無効な場合にesilの実行を中断します (esil.breakonininvalid)</translation>
     </message>
   </context>
   <context>
     <name>DebugToolbar</name>
     <message>
       <source>Start debug</source>
-      <translation type="unfinished">Start debug</translation>
+      <translation>デバッグを開始</translation>
     </message>
     <message>
       <source>Start emulation</source>
-      <translation type="unfinished">Start emulation</translation>
+      <translation>エミュレーションを開始</translation>
     </message>
     <message>
       <source>Attach to process</source>
-      <translation type="unfinished">Attach to process</translation>
+      <translation>プロセスにアタッチ</translation>
     </message>
     <message>
       <source>Stop debug</source>
-      <translation type="unfinished">Stop debug</translation>
+      <translation>デバッグを停止</translation>
     </message>
     <message>
       <source>Stop emulation</source>
-      <translation type="unfinished">Stop emulation</translation>
+      <translation>エミュレーションを停止</translation>
     </message>
     <message>
       <source>Restart program</source>
-      <translation type="unfinished">Restart program</translation>
+      <translation>プログラムを再スタート</translation>
     </message>
     <message>
       <source>Restart emulation</source>
-      <translation type="unfinished">Restart emulation</translation>
+      <translation>エミュレーションを再スタート</translation>
     </message>
     <message>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>続ける</translation>
     </message>
     <message>
       <source>Continue until main</source>
-      <translation type="unfinished">Continue until main</translation>
+      <translation>mainまで実行</translation>
     </message>
     <message>
       <source>Continue until call</source>
-      <translation type="unfinished">Continue until call</translation>
+      <translation>関数コールまで実行</translation>
     </message>
     <message>
       <source>Continue until syscall</source>
-      <translation type="unfinished">Continue until syscall</translation>
+      <translation>syscallまで実行</translation>
     </message>
     <message>
       <source>Step</source>
-      <translation type="unfinished">Step</translation>
+      <translation>ステップ</translation>
     </message>
     <message>
       <source>Step over</source>
-      <translation type="unfinished">Step over</translation>
+      <translation>ステップオーバー</translation>
     </message>
     <message>
       <source>Step out</source>
-      <translation type="unfinished">Step out</translation>
+      <translation>ステップアウト</translation>
     </message>
     <message>
       <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation type="unfinished">File &apos;%1&apos; does not have executable permissions.</translation>
+      <translation>ファイル &apos;%1&apos; には実行可能権限がありません。</translation>
     </message>
     <message>
       <source>Error attaching. No process selected!</source>
-      <translation type="unfinished">Error attaching. No process selected!</translation>
+      <translation>アタッチ失敗。プロセスが選択されていません。</translation>
     </message>
     <message>
       <source>Detach from process</source>
-      <translation type="unfinished">Detach from process</translation>
+      <translation>プロセスからデタッチします</translation>
     </message>
   </context>
   <context>
@@ -2021,48 +2021,48 @@
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
       <location filename="../widgets/DecompilerWidget.cpp" line="311"/>
       <source>Decompiler</source>
-      <translation type="unfinished">Decompiler</translation>
+      <translation>デコンパイラ</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="48"/>
       <source>Auto Refresh</source>
-      <translation type="unfinished">Auto Refresh</translation>
+      <translation>自動更新</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="55"/>
       <location filename="../widgets/DecompilerWidget.cpp" line="133"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>再読み込み</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="67"/>
       <source>Decompiling...</source>
-      <translation type="unfinished">Decompiling...</translation>
+      <translation>デコンパイルしています...</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="89"/>
       <source>Decompiler:</source>
-      <translation type="unfinished">Decompiler:</translation>
+      <translation>デコンパイラ:</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="71"/>
       <source>No Decompiler available.</source>
-      <translation type="unfinished">No Decompiler available.</translation>
+      <translation>デコンパイラは利用できません。</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="131"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>キャンセル</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="158"/>
       <source>Click Refresh to generate Decompiler from current offset.</source>
-      <translation type="unfinished">Click Refresh to generate Decompiler from current offset.</translation>
+      <translation>リフレッシュをクリックして、現在のオフセットからデコンパイルします。</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="199"/>
       <source>Cannot decompile at this address (Not a function?)</source>
-      <translation type="unfinished">Cannot decompile at this address (Not a function?)</translation>
+      <translation>このアドレスをデコンパイルできません。(関数ではない？)</translation>
     </message>
   </context>
   <context>
@@ -2071,11 +2071,11 @@
       <location filename="../widgets/DisassemblerGraphView.cpp" line="96"/>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1105"/>
       <source>Export Graph</source>
-      <translation type="unfinished">Export Graph</translation>
+      <translation>グラフをエクスポート</translation>
     </message>
     <message>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sync/unsync オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="102"/>
@@ -2115,103 +2115,103 @@
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="112"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>レイアウト</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="135"/>
       <source>Highlight block</source>
-      <translation type="unfinished">Highlight block</translation>
+      <translation>ブロックをハイライト</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="153"/>
       <source>Unhighlight block</source>
-      <translation type="unfinished">Unhighlight block</translation>
+      <translation>ブロックのハイライトを解除</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="163"/>
       <source>Highlight instruction</source>
-      <translation type="unfinished">Highlight instruction</translation>
+      <translation>命令をハイライト</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="167"/>
       <source>Unhighlight instruction</source>
-      <translation type="unfinished">Unhighlight instruction</translation>
+      <translation>命令のハイライトを解除</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="249"/>
       <source>No function detected. Cannot display graph.</source>
-      <translation type="unfinished">No function detected. Cannot display graph.</translation>
+      <translation>関数が見つかりません。グラフを表示できません。</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="264"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>グラフ</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1083"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1084"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1085"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1086"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1087"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1088"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1089"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <source>Graphiz dot (*.dot)</source>
-      <translation type="unfinished">Graphiz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <source>GIF (*.gif)</source>
-      <translation type="unfinished">GIF (*.gif)</translation>
+      <translation>GIF (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1075"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1076"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <source>PostScript (*.ps)</source>
-      <translation type="unfinished">PostScript (*.ps)</translation>
+      <translation>PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1077"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <source>JSON (*.json)</source>
-      <translation type="unfinished">JSON (*.json)</translation>
+      <translation>JSON (*.json)</translation>
     </message>
   </context>
   <context>
@@ -2219,13 +2219,13 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="73"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>コピー</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="76"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="356"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>アドレスをコピー</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="80"/>
@@ -2236,52 +2236,52 @@
       <location filename="../menus/DisassemblyContextMenu.cpp" line="85"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="442"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>コメントを追加</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="89"/>
       <source>Add Flag</source>
-      <translation type="unfinished">Add Flag</translation>
+      <translation>フラグを追加</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="93"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>名前の変更</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="97"/>
       <source>Edit function</source>
-      <translation type="unfinished">Edit function</translation>
+      <translation>関数の編集</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="101"/>
       <source>Rename Flag/Fcn/Var Used Here</source>
-      <translation type="unfinished">Rename Flag/Fcn/Var Used Here</translation>
+      <translation>この箇所のフラグ/関数/変数の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="105"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="861"/>
       <source>Re-type function local vars</source>
-      <translation type="unfinished">Re-type function local vars</translation>
+      <translation>関数のローカル変数を再入力</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="109"/>
       <source>Delete comment</source>
-      <translation type="unfinished">Delete comment</translation>
+      <translation>コメントを削除</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="112"/>
       <source>Delete flag</source>
-      <translation type="unfinished">Delete flag</translation>
+      <translation>フラグを削除</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="115"/>
       <source>Undefine function</source>
-      <translation type="unfinished">Undefine function</translation>
+      <translation>関数の定義を解除</translation>
     </message>
     <message>
       <source>Define function here...</source>
-      <translation type="unfinished">Define function here...</translation>
+      <translation>ここで関数を定義...</translation>
     </message>
     <message>
       <source>Set to Code</source>
@@ -2298,12 +2298,12 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="141"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>X-Refsを表示</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="145"/>
       <source>Show Options</source>
-      <translation type="unfinished">Show Options</translation>
+      <translation>オプションを表示</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="166"/>
@@ -2313,42 +2313,42 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="168"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>バイナリ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="172"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>オクタル</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="176"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>デシマル</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="180"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>16進</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Network Port</source>
-      <translation type="unfinished">Network Port</translation>
+      <translation>ネットワークポート</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="188"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>IPアドレス</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="192"/>
       <source>Syscall</source>
-      <translation type="unfinished">Syscall</translation>
+      <translation>システムコール</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="196"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>文字列</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="203"/>
@@ -2362,17 +2362,17 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
       <source>Define function here</source>
-      <translation type="unfinished">Define function here</translation>
+      <translation>ここで関数を定義</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="129"/>
       <source>Structure offset</source>
-      <translation type="unfinished">Structure offset</translation>
+      <translation>構造体のオフセット</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="133"/>
       <source>Link Type to Address</source>
-      <translation type="unfinished">Link Type to Address</translation>
+      <translation>アドレスに型情報をリンクする</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
@@ -2382,57 +2382,57 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="223"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>コード</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="227"/>
       <source>String...</source>
-      <translation type="unfinished">String...</translation>
+      <translation>文字列...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="229"/>
       <source>Auto-detect</source>
-      <translation type="unfinished">Auto-detect</translation>
+      <translation>自動検出</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="231"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>削除</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="233"/>
       <source>Adanced</source>
-      <translation type="unfinished">Adanced</translation>
+      <translation>高度な設定</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Data...</source>
-      <translation type="unfinished">Data...</translation>
+      <translation>データ...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>バイト</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="252"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>ワード</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="256"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="260"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="275"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>編集</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="277"/>
@@ -2442,12 +2442,12 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="280"/>
       <source>Nop Instruction</source>
-      <translation type="unfinished">Nop Instruction</translation>
+      <translation>nop命令</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="283"/>
       <source>Bytes</source>
-      <translation type="unfinished">Bytes</translation>
+      <translation>バイト列</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="286"/>
@@ -2457,23 +2457,23 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="292"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>デバッグ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="294"/>
       <source>Add/remove breakpoint</source>
-      <translation type="unfinished">Add/remove breakpoint</translation>
+      <translation>ブレークポイントの追加/削除</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="515"/>
       <source>Advanced breakpoint</source>
-      <translation type="unfinished">Advanced breakpoint</translation>
+      <translation>高度なブレークポイント</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
       <source>Continue until line</source>
-      <translation type="unfinished">Continue until line</translation>
+      <translation>行まで続ける</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="348"/>
@@ -2483,96 +2483,96 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="350"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="445"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>コメントを編集</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="463"/>
       <source>Rename function &quot;%1&quot;</source>
-      <translation type="unfinished">Rename function &quot;%1&quot;</translation>
+      <translation>関数名を変更 &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="466"/>
       <source>Rename flag &quot;%1&quot;</source>
-      <translation type="unfinished">Rename flag &quot;%1&quot;</translation>
+      <translation>フラグ名を変更&quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="476"/>
       <source>Edit function &quot;%1&quot;</source>
-      <translation type="unfinished">Edit function &quot;%1&quot;</translation>
+      <translation>関数を編集 &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="490"/>
       <source>Add flag at %1 (used here)</source>
-      <translation type="unfinished">Add flag at %1 (used here)</translation>
+      <translation>%1 にフラグを追加 (ここで使用)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="492"/>
       <source>Rename &quot;%1&quot;</source>
-      <translation type="unfinished">Rename &quot;%1&quot;</translation>
+      <translation>名前を変更 &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="494"/>
       <source>Rename &quot;%1&quot; (used here)</source>
-      <translation type="unfinished">Rename &quot;%1&quot; (used here)</translation>
+      <translation>名前の変更 &quot;%1&quot; (ここで使用)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="513"/>
       <source>Remove breakpoint</source>
-      <translation type="unfinished">Remove breakpoint</translation>
+      <translation>ブレークポイントを削除</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="513"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>ブレークポイントを追加</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="515"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>ブレークポイントを編集</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="615"/>
       <source>Edit Instruction at %1</source>
-      <translation type="unfinished">Edit Instruction at %1</translation>
+      <translation>%1の命令を編集</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="686"/>
       <source>Edit Bytes at %1</source>
-      <translation type="unfinished">Edit Bytes at %1</translation>
+      <translation>%1 のバイト列を編集</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="710"/>
       <source>Write error</source>
-      <translation type="unfinished">Write error</translation>
+      <translation>書き込みエラー</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="712"/>
       <source>Unable to complete write operation. Consider opening in write mode. 
 
 WARNING: In write mode any changes will be commited to disk</source>
-      <translation type="unfinished">Unable to complete write operation. Consider opening in write mode. 
+      <translation>書き込み操作を完了できませんでした。書き込みモードで開くことを検討してください。 
 
-WARNING: In write mode any changes will be commited to disk</translation>
+警告: 書き込みモードでは、ディスクに変更が反映されます。</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="713"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>OK</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="714"/>
       <source>Reopen in write mode and try again</source>
-      <translation type="unfinished">Reopen in write mode and try again</translation>
+      <translation>書き込みモードで再度開き、もう一度やり直してください</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="916"/>
       <source>Wrong address</source>
-      <translation type="unfinished">Wrong address</translation>
+      <translation>アドレスが間違っています</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="916"/>
@@ -2595,7 +2595,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="773"/>
       <source>Function name</source>
-      <translation type="unfinished">Function name</translation>
+      <translation>関数名</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="796"/>
@@ -2605,22 +2605,22 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="804"/>
       <source>Rename flag %1</source>
-      <translation type="unfinished">Rename flag %1</translation>
+      <translation>フラグ %1 の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="831"/>
       <source>Add flag at %1</source>
-      <translation type="unfinished">Add flag at %1</translation>
+      <translation>%1 にフラグを追加</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="835"/>
       <source>Rename %1</source>
-      <translation type="unfinished">Rename %1</translation>
+      <translation>%1 の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="862"/>
       <source>You must be in a function to define variable types.</source>
-      <translation type="unfinished">You must be in a function to define variable types.</translation>
+      <translation>変数型を定義するには関数内である必要があります。</translation>
     </message>
     <message>
       <source>Set Variable Types for Function: %1</source>
@@ -2629,7 +2629,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="998"/>
       <source>Edit function %1</source>
-      <translation type="unfinished">Edit function %1</translation>
+      <translation>関数 %1 を編集</translation>
     </message>
   </context>
   <context>
@@ -2637,7 +2637,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="650"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>逆アセンブリ</translation>
     </message>
     <message>
       <source>Sync/unsync offset</source>
@@ -2649,32 +2649,32 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="14"/>
       <source>Edit Function</source>
-      <translation type="unfinished">Edit Function</translation>
+      <translation>関数を編集</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="43"/>
       <source>Name of function</source>
-      <translation type="unfinished">Name of function</translation>
+      <translation>関数の名前</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="53"/>
       <source>Start address</source>
-      <translation type="unfinished">Start address</translation>
+      <translation>開始アドレス</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="63"/>
       <source>End address</source>
-      <translation type="unfinished">End address</translation>
+      <translation>終了アドレス</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Stack size</source>
-      <translation type="unfinished">Stack size</translation>
+      <translation>スタックサイズ</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="83"/>
       <source>Calling convention</source>
-      <translation type="unfinished">Calling convention</translation>
+      <translation>呼び出し規約</translation>
     </message>
   </context>
   <context>
@@ -2682,12 +2682,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="14"/>
       <source>Edit Instruction</source>
-      <translation type="unfinished">Edit Instruction</translation>
+      <translation>命令を編集</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="76"/>
       <source>Unknown Instruction</source>
-      <translation type="unfinished">Unknown Instruction</translation>
+      <translation>不明な命令</translation>
     </message>
   </context>
   <context>
@@ -2695,37 +2695,37 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="25"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>クラス:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名前:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="42"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>アドレス:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="52"/>
       <source>Virtual:</source>
-      <translation type="unfinished">Virtual:</translation>
+      <translation>仮想:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
       <source>Offset in VTable:</source>
-      <translation type="unfinished">Offset in VTable:</translation>
+      <translation>VTableでのオフセット</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="153"/>
       <source>Create Method</source>
-      <translation type="unfinished">Create Method</translation>
+      <translation>メソッドを作成</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="168"/>
       <source>Edit Method</source>
-      <translation type="unfinished">Edit Method</translation>
+      <translation>メソッドを編集</translation>
     </message>
   </context>
   <context>
@@ -2733,37 +2733,37 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="23"/>
       <source>Edit string</source>
-      <translation type="unfinished">Edit string</translation>
+      <translation>文字を編集</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="33"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>アドレス:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="46"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>サイズ:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="53"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>型:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="86"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>オート</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="95"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>キャンセル</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="102"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>OK</translation>
     </message>
   </context>
   <context>
@@ -2771,27 +2771,27 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>ダイアログ</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="22"/>
       <source>Modify:</source>
-      <translation type="unfinished">Modify:</translation>
+      <translation>変更:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="35"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名前:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="42"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>型:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="19"/>
       <source>Set Variable Types for Function: %1</source>
-      <translation type="unfinished">Set Variable Types for Function: %1</translation>
+      <translation>関数%1の変数型を設定</translation>
     </message>
   </context>
   <context>
@@ -2799,22 +2799,22 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="59"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>アドレス</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="61"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>サイズ</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="63"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>型</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="65"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
   </context>
   <context>
@@ -2822,7 +2822,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="131"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>エクスポート</translation>
     </message>
   </context>
   <context>
@@ -2830,22 +2830,22 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="14"/>
       <source>Add Flag</source>
-      <translation type="unfinished">Add Flag</translation>
+      <translation>フラグを追加</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="31"/>
       <source>Flag:</source>
-      <translation type="unfinished">Flag:</translation>
+      <translation>フラグ:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="54"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="73"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>サイズ:</translation>
     </message>
   </context>
   <context>
@@ -2853,17 +2853,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="60"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>サイズ</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="62"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
   </context>
   <context>
@@ -2871,37 +2871,37 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="79"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>クイックフィルタ</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
       <source>Flagspace:</source>
-      <translation type="unfinished">Flagspace:</translation>
+      <translation>Flagspace:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>名前の変更</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="102"/>
       <source>N</source>
-      <translation type="unfinished">N</translation>
+      <translation>N</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="110"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>削除</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
       <source>Del</source>
-      <translation type="unfinished">Del</translation>
+      <translation>削除</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="216"/>
       <source>(all)</source>
-      <translation type="unfinished">(all)</translation>
+      <translation>(すべて)</translation>
     </message>
   </context>
   <context>
@@ -2909,42 +2909,42 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="123"/>
       <source>Offset: %1</source>
-      <translation type="unfinished">Offset: %1</translation>
+      <translation>オフセット: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="125"/>
       <source>Size: %1</source>
-      <translation type="unfinished">Size: %1</translation>
+      <translation>サイズ: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
       <source>Import: %1</source>
-      <translation type="unfinished">Import: %1</translation>
+      <translation>インポート: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
       <source>true</source>
-      <translation type="unfinished">true</translation>
+      <translation>true</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
       <source>false</source>
-      <translation type="unfinished">false</translation>
+      <translation>false</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="129"/>
       <source>Nargs: %1</source>
-      <translation type="unfinished">Nargs: %1</translation>
+      <translation>Nargs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="131"/>
       <source>Nbbs: %1</source>
-      <translation type="unfinished">Nbbs: %1</translation>
+      <translation>Nbss: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="133"/>
       <source>Nlocals: %1</source>
-      <translation type="unfinished">Nlocals: %1</translation>
+      <translation>Nlocals: %1</translation>
     </message>
     <message>
       <source>Cyclomatic complexity: %1</source>
@@ -2953,7 +2953,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="135"/>
       <source>Call type: %1</source>
-      <translation type="unfinished">Call type: %1</translation>
+      <translation>関数コールタイプ: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="137"/>
@@ -2971,17 +2971,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
       <source>StackFrame: %1</source>
-      <translation type="unfinished">StackFrame: %1</translation>
+      <translation>スタックフレーム: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="216"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;逆アセンブルプレビュー&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="220"/>
       <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div&gt;&lt;strong&gt;ハイライト&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <source>&lt;div&gt;&lt;strong&gt;Summary&lt;/strong&gt;:&lt;br&gt;</source>
@@ -3003,55 +3003,55 @@ WARNING: In write mode any changes will be commited to disk</translation>
       <location filename="../widgets/FunctionsWidget.cpp" line="249"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="253"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="255"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>サイズ</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="257"/>
       <source>Imp.</source>
-      <translation type="unfinished">Imp.</translation>
+      <translation>Imp.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="259"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="261"/>
       <source>Nargs</source>
-      <translation type="unfinished">Nargs</translation>
+      <translation>Nargs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
       <source>Nbbs</source>
-      <translation type="unfinished">Nbbs</translation>
+      <translation>Nbbs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="263"/>
       <source>Nlocals</source>
-      <translation type="unfinished">Nlocals</translation>
+      <translation>Nlocals</translation>
     </message>
     <message>
       <source>Cyclo. Comp.</source>
-      <translation type="unfinished">Cyclo. Comp.</translation>
+      <translation>循環的複雑度</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="267"/>
       <source>Call type</source>
-      <translation type="unfinished">Call type</translation>
+      <translation>関数コールタイプ</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="269"/>
       <source>Edges</source>
-      <translation type="unfinished">Edges</translation>
+      <translation>エッジ</translation>
     </message>
     <message>
       <source>Cost</source>
-      <translation type="unfinished">Cost</translation>
+      <translation>コスト</translation>
     </message>
     <message>
       <source>Calls/OutDeg.</source>
@@ -3060,7 +3060,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="271"/>
       <source>StackFrame</source>
-      <translation type="unfinished">StackFrame</translation>
+      <translation>スタックフレーム</translation>
     </message>
   </context>
   <context>
@@ -3068,19 +3068,19 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../common/FunctionsTask.h" line="13"/>
       <source>Fetching Functions</source>
-      <translation type="unfinished">Fetching Functions</translation>
+      <translation>関数を取得中</translation>
     </message>
   </context>
   <context>
     <name>FunctionsWidget</name>
     <message>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>コメントを追加</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="430"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>名前の変更</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="431"/>
@@ -3090,15 +3090,15 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="435"/>
       <source>Functions</source>
-      <translation type="unfinished">Functions</translation>
+      <translation>関数</translation>
     </message>
     <message>
       <source>X-Refs</source>
-      <translation type="unfinished">X-Refs</translation>
+      <translation>X-Refs</translation>
     </message>
     <message>
       <source>Cross references</source>
-      <translation type="unfinished">Cross references</translation>
+      <translation>相互参照</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="432"/>
@@ -3116,17 +3116,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="14"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>グラフ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
       <source>Maximum Line Length:</source>
-      <translation type="unfinished">Maximum Line Length:</translation>
+      <translation>行の最大長:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="49"/>
       <source>Show offsets (graph.offset)</source>
-      <translation type="unfinished">Show offsets (graph.offset)</translation>
+      <translation>オフセットを表示 (graph.offset)</translation>
     </message>
     <message>
       <source>Show offsets (graph.offset) </source>
@@ -3138,17 +3138,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="54"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="56"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="58"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>値</translation>
     </message>
   </context>
   <context>
@@ -3156,7 +3156,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="115"/>
       <source>Headers</source>
-      <translation type="unfinished">Headers</translation>
+      <translation>ヘッダー</translation>
     </message>
   </context>
   <context>
@@ -3169,22 +3169,22 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="59"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>オクタル</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="60"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>10進数</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="61"/>
       <source>Signed decimal</source>
-      <translation type="unfinished">Signed decimal</translation>
+      <translation>符号付き10進数</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="62"/>
       <source>Float</source>
-      <translation type="unfinished">Float</translation>
+      <translation>浮動小数点数</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="75"/>
@@ -3194,12 +3194,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="85"/>
       <source>Power of 2</source>
-      <translation type="unfinished">Power of 2</translation>
+      <translation>2の冪</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="91"/>
       <source>Big Endian</source>
-      <translation type="unfinished">Big Endian</translation>
+      <translation>ビッグエンディアン</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="96"/>
@@ -3209,7 +3209,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="100"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>コピー</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="106"/>
@@ -3219,7 +3219,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="112"/>
       <source>Select range</source>
-      <translation type="unfinished">Select range</translation>
+      <translation>領域を選択</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="566"/>
@@ -3237,7 +3237,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="14"/>
       <source>Select Block</source>
-      <translation type="unfinished">Select Block</translation>
+      <translation>ブロックを選択</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
@@ -3270,15 +3270,15 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <name>HexdumpWidget</name>
     <message>
       <source>0  1  2  3 ...</source>
-      <translation type="unfinished">0  1  2  3 ...</translation>
+      <translation>0  1  2  3 ...</translation>
     </message>
     <message>
       <source>0123...</source>
-      <translation type="unfinished">0123...</translation>
+      <translation>0123...</translation>
     </message>
     <message>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
@@ -3289,12 +3289,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
       <location filename="../widgets/HexdumpWidget.ui" line="110"/>
       <location filename="../widgets/HexdumpWidget.ui" line="114"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>逆アセンブリ</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="119"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>文字列</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="124"/>
@@ -3324,42 +3324,42 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="149"/>
       <source>Python</source>
-      <translation type="unfinished">Python</translation>
+      <translation>Python</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="154"/>
       <source>JSON</source>
-      <translation type="unfinished">JSON</translation>
+      <translation>JSON</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="159"/>
       <source>JavaScript</source>
-      <translation type="unfinished">JavaScript</translation>
+      <translation>JavaScript</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="164"/>
       <source>Yara</source>
-      <translation type="unfinished">Yara</translation>
+      <translation>Yara</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="178"/>
       <source>Endian</source>
-      <translation type="unfinished">Endian</translation>
+      <translation>Endian</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="189"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Little</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="194"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Big</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="249"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="278"/>
@@ -3369,32 +3369,32 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="289"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="294"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="299"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="388"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="428"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="468"/>
       <source>Entropy:</source>
-      <translation type="unfinished">Entropy:</translation>
+      <translation>エントロピー:</translation>
     </message>
     <message>
       <source>Hexdump side panel</source>
@@ -3406,11 +3406,11 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>すべてコピー</translation>
     </message>
     <message>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>バイト列をコピー</translation>
     </message>
     <message>
       <source>Copy disasm</source>
@@ -3442,11 +3442,11 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>編集</translation>
     </message>
     <message>
       <source>Paste</source>
@@ -3466,7 +3466,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>オクタル</translation>
     </message>
     <message>
       <source>Half-word</source>
@@ -3503,7 +3503,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="206"/>
       <source>Hexdump</source>
-      <translation type="unfinished">Hexdump</translation>
+      <translation>16進ダンプ</translation>
     </message>
     <message>
       <source>Columns</source>
@@ -3511,11 +3511,11 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>書式</translation>
     </message>
     <message>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sync/unsync オフセット</translation>
     </message>
     <message>
       <source>Error: Could not select range, end address is less then start address</source>
@@ -3537,7 +3537,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="72"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>型</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="74"/>
@@ -3555,7 +3555,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="147"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>インポート</translation>
     </message>
   </context>
   <context>
@@ -3568,7 +3568,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="84"/>
       <source>Program:</source>
-      <translation type="unfinished">Program:</translation>
+      <translation>プログラム:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="161"/>
@@ -3645,12 +3645,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="332"/>
       <source>Do not load bin information (-n)</source>
-      <translation type="unfinished">Do not load bin information (-n)</translation>
+      <translation>バイナリ情報を読み込まない (-n)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="345"/>
       <source>Use virtual addressing</source>
-      <translation type="unfinished">Use virtual addressing</translation>
+      <translation>仮想アドレスを使用</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="355"/>
@@ -3660,22 +3660,22 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="372"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="403"/>
       <source>Advanced options</source>
-      <translation type="unfinished">Advanced options</translation>
+      <translation>高度な設定</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="433"/>
       <source>CPU options</source>
-      <translation type="unfinished">CPU options</translation>
+      <translation>CPU オプション</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="448"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>アーキテクチャ:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="459"/>
@@ -3690,42 +3690,42 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="473"/>
       <source>CPU:</source>
-      <translation type="unfinished">CPU:</translation>
+      <translation>CPU:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="524"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="529"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="534"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="539"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="553"/>
       <source>Endianness: </source>
-      <translation type="unfinished">Endianness: </translation>
+      <translation>エンディアン: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="572"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Little</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="577"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Big</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="598"/>
@@ -3745,7 +3745,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="699"/>
       <source>1024</source>
-      <translation type="unfinished">1024</translation>
+      <translation>1024</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="718"/>
@@ -3755,33 +3755,33 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="734"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="741"/>
       <source>Load PDB</source>
-      <translation type="unfinished">Load PDB</translation>
+      <translation>PDBを読み込む</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="766"/>
       <source>PDB File path</source>
-      <translation type="unfinished">PDB File path</translation>
+      <translation>PDB ファイルパス</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="815"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>選択</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="783"/>
       <source>Load script file</source>
-      <translation type="unfinished">Load script file</translation>
+      <translation>スクリプトファイルを読み込む</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="808"/>
       <source>Path to radare2 script file</source>
-      <translation type="unfinished">Path to radare2 script file</translation>
+      <translation>radare2スクリプトファイルへのパス</translation>
     </message>
     <message>
       <source>BasicBlock maxsize:</source>
@@ -3790,32 +3790,32 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="871"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>キャンセル</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="884"/>
       <source>  Ok  </source>
-      <translation type="unfinished">  Ok  </translation>
+      <translation>  OK  </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="54"/>
       <source>Analyze all symbols</source>
-      <translation type="unfinished">Analyze all symbols</translation>
+      <translation>全てのシンボルを解析する</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="55"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>参照のために命令を解析する</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>関数コールを解析</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>すべてのベーシックブロックを解析する</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
@@ -3825,17 +3825,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>RTTIからクラス情報を復元する</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>コンテキストに基づき関数名を自動で設定</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>計算された参照を見つけるためにコードをエミュレート</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
@@ -3845,7 +3845,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>型と引数のマッチング解析</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
@@ -3910,28 +3910,28 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="381"/>
       <source>Select PDB file</source>
-      <translation type="unfinished">Select PDB file</translation>
+      <translation>PDBファイルを選択</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="382"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>PDB ファイル (*.pdb)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="382"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="405"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>すべてのファイル (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="404"/>
       <source>Select radare2 script file</source>
-      <translation type="unfinished">Select radare2 script file</translation>
+      <translation>radare2スクリプトファイルを選択</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="405"/>
       <source>Script file (*.r2)</source>
-      <translation type="unfinished">Script file (*.r2)</translation>
+      <translation>スクリプトファイル (*.r2)</translation>
     </message>
   </context>
   <context>
@@ -3965,7 +3965,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/LinkTypeDialog.ui" line="20"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>ダイアログ</translation>
     </message>
     <message>
       <location filename="../dialogs/LinkTypeDialog.ui" line="26"/>
@@ -3985,7 +3985,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/LinkTypeDialog.ui" line="73"/>
       <source>Address/Flag</source>
-      <translation type="unfinished">Address/Flag</translation>
+      <translation>アドレス/フラグ</translation>
     </message>
     <message>
       <location filename="../dialogs/LinkTypeDialog.cpp" line="12"/>
@@ -4035,18 +4035,18 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="86"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>拡大</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="106"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>ヘルプ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <location filename="../core/MainWindow.ui" line="632"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>編集</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="123"/>
@@ -4056,98 +4056,98 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="127"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>プラグイン</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="132"/>
       <source>Info...</source>
-      <translation type="unfinished">Info...</translation>
+      <translation>情報...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="151"/>
       <source>Debug...</source>
-      <translation type="unfinished">Debug...</translation>
+      <translation>デバッグ...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="186"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>デバッグ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset Layout</source>
-      <translation type="unfinished">Reset Layout</translation>
+      <translation>レイアウトをリセット</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="235"/>
       <source>Reset layout</source>
-      <translation type="unfinished">Reset layout</translation>
+      <translation>レイアウトをリセット</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen Mode</source>
-      <translation type="unfinished">Zen Mode</translation>
+      <translation>Zenモード</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="243"/>
       <source>Zen mode</source>
-      <translation type="unfinished">Zen mode</translation>
+      <translation>Zenモード</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="248"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>アプリについて</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="253"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>問題を報告</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="258"/>
       <source>New</source>
-      <translation type="unfinished">New</translation>
+      <translation>新規作成</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="261"/>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="266"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>終了</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="271"/>
       <location filename="../core/MainWindow.ui" line="274"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>レイアウトを保存</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="279"/>
       <source>Documentation</source>
-      <translation type="unfinished">Documentation</translation>
+      <translation>ドキュメント</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="284"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>開く</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="287"/>
       <source>Ctrl+O</source>
-      <translation type="unfinished">Ctrl+O</translation>
+      <translation>Ctrl+O</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="292"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>保存</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="295"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="353"/>
@@ -4167,41 +4167,41 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="305"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>コピー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="310"/>
       <location filename="../core/MainWindow.ui" line="637"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>ペースト</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="315"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>削除</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="320"/>
       <location filename="../core/MainWindow.ui" line="323"/>
       <source>Select all</source>
-      <translation type="unfinished">Select all</translation>
+      <translation>すべて選択</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="328"/>
       <source>Find</source>
-      <translation type="unfinished">Find</translation>
+      <translation>検索</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="333"/>
       <location filename="../core/MainWindow.ui" line="336"/>
       <source>Find next</source>
-      <translation type="unfinished">Find next</translation>
+      <translation>次を検索</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="341"/>
       <location filename="../core/MainWindow.ui" line="344"/>
       <source>Find previous</source>
-      <translation type="unfinished">Find previous</translation>
+      <translation>前を検索</translation>
     </message>
     <message>
       <source>Back</source>
@@ -4210,7 +4210,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="356"/>
       <source>Go back</source>
-      <translation type="unfinished">Go back</translation>
+      <translation>戻る</translation>
     </message>
     <message>
       <source>Forward</source>
@@ -4235,7 +4235,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="405"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>文字列</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="408"/>
@@ -4245,7 +4245,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="416"/>
       <source>Sections</source>
-      <translation type="unfinished">Sections</translation>
+      <translation>セクション</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="419"/>
@@ -4265,7 +4265,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Functions</source>
-      <translation type="unfinished">Functions</translation>
+      <translation>関数</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="441"/>
@@ -4315,17 +4315,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="493"/>
       <source>Memory</source>
-      <translation type="unfinished">Memory</translation>
+      <translation>メモリ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="496"/>
       <source>Show/Hide Memory panel</source>
-      <translation type="unfinished">Show/Hide Memory panel</translation>
+      <translation>メモリパネルの表示/非表示</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Theme</source>
-      <translation type="unfinished">Theme</translation>
+      <translation>テーマ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
@@ -4341,12 +4341,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="543"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>コメント</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="546"/>
       <source>Show/Hide comments</source>
-      <translation type="unfinished">Show/Hide comments</translation>
+      <translation>コメントの表示/非表示</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="554"/>
@@ -4361,56 +4361,56 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="562"/>
       <source>Dark Theme</source>
-      <translation type="unfinished">Dark Theme</translation>
+      <translation>ダークテーマ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="567"/>
       <location filename="../core/MainWindow.ui" line="570"/>
       <source>Load layout</source>
-      <translation type="unfinished">Load layout</translation>
+      <translation>レイアウトをロード</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="575"/>
       <source>Default Theme</source>
-      <translation type="unfinished">Default Theme</translation>
+      <translation>デフォルトテーマ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="585"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>解析</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="590"/>
       <source>Test menu</source>
-      <translation type="unfinished">Test menu</translation>
+      <translation>テストメニュー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="595"/>
       <location filename="../core/MainWindow.ui" line="598"/>
       <source>Copy hexpair</source>
-      <translation type="unfinished">Copy hexpair</translation>
+      <translation>hexpairをコピー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="603"/>
       <location filename="../core/MainWindow.ui" line="606"/>
       <source>Copy text</source>
-      <translation type="unfinished">Copy text</translation>
+      <translation>テキストをコピー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="611"/>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>ASCII文字をコピー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="616"/>
       <location filename="../core/MainWindow.ui" line="619"/>
       <source>Insert string</source>
-      <translation type="unfinished">Insert string</translation>
+      <translation>文字列を挿入</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="624"/>
@@ -4432,13 +4432,13 @@ WARNING: In write mode any changes will be commited to disk</translation>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>すべてコピー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <location filename="../core/MainWindow.ui" line="663"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>バイト列をコピー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="668"/>
@@ -4446,59 +4446,59 @@ WARNING: In write mode any changes will be commited to disk</translation>
       <location filename="../core/MainWindow.ui" line="676"/>
       <location filename="../core/MainWindow.ui" line="679"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>disasmをコピー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="691"/>
       <location filename="../core/MainWindow.ui" line="694"/>
       <source>Start web server</source>
-      <translation type="unfinished">Start web server</translation>
+      <translation>Webサーバーを起動</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="699"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="704"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="709"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="714"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="719"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="724"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="729"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="734"/>
       <source>Syntax AT&amp;T/Intel</source>
-      <translation type="unfinished">Syntax AT&amp;T/Intel</translation>
+      <translation>AT&amp;T/Intel構文</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="739"/>
       <location filename="../core/MainWindow.ui" line="749"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>名前の変更</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="744"/>
@@ -4509,7 +4509,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="759"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>コメントを追加</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="771"/>
@@ -4520,12 +4520,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="782"/>
       <source>SDB Browser</source>
-      <translation type="unfinished">SDB Browser</translation>
+      <translation>SDB ブラウザー</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="787"/>
       <source>Run Script</source>
-      <translation type="unfinished">Run Script</translation>
+      <translation>スクリプトを実行:</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="795"/>
@@ -4550,22 +4550,22 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="811"/>
       <source>Quit</source>
-      <translation type="unfinished">Quit</translation>
+      <translation>終了</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="814"/>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="822"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>エクスポート</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="825"/>
       <source>Show/Hide Exports panel</source>
-      <translation type="unfinished">Show/Hide Exports panel</translation>
+      <translation>エクスポートパネルの表示/非表示</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="830"/>

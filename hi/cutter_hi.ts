@@ -6,27 +6,29 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation type="unfinished">About Cutter</translation>
+      <translation>कटर के बारे में जानें</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="69"/>
       <source>Check for updates on start</source>
-      <translation type="unfinished">Check for updates on start</translation>
+      <translation>चालू होने पर नई सुविधाओं के लिए जाँच करें</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="95"/>
       <source>Show version information</source>
-      <translation type="unfinished">Show version information</translation>
+      <translation>संस्करण की जानकारी</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show radare2 plugin information</source>
-      <translation type="unfinished">Show radare2 plugin information</translation>
+      <translation>radare2 प्लग-इन की जानकारी देखें</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;कटर रेडारे 2 द्वारा संचालित एक स्वतंत्र और ओपन-सोर्स रिवर्स इंजीनियरिंग प्लेटफॉर्म है&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;और पढ़ें &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+
+</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="128"/>
@@ -35,12 +37,12 @@
     </message>
     <message>
       <source>Show plugin information</source>
-      <translation type="unfinished">Show plugin information</translation>
+      <translation>प्लगइन जानकारी देखें</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="82"/>
       <source>Check for updates</source>
-      <translation type="unfinished">Check for updates</translation>
+      <translation>नई सुविधाओं के लिए जाँच करें</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="29"/>
@@ -50,32 +52,32 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="29"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>संस्करण</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
       <source>Using r2-</source>
-      <translation type="unfinished">Using r2-</translation>
+      <translation>r2 का उपयोग-</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="32"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>वैकल्पिक विशेषताएं</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>लाइसेन्स</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation type="unfinished">This Software is released under the GNU General Public License v3.0</translation>
+      <translation>यह सॉफ्टवेयर GNU जनरल पब्लिक लाइसेंस v3.0 के तहत जारी किया गया है</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="49"/>
       <source>Authors</source>
-      <translation type="unfinished">Authors</translation>
+      <translation>ग्रन्थकार</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
@@ -90,56 +92,56 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="73"/>
       <source>radare2 version information</source>
-      <translation type="unfinished">radare2 version information</translation>
+      <translation>radare2 संस्करण की जानकारी</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="96"/>
       <source>Checking for updates...</source>
-      <translation type="unfinished">Checking for updates...</translation>
+      <translation>नई सुविधाओं के लिए जाँच चल रही है</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Cutter is up to date!</source>
-      <translation type="unfinished">Cutter is up to date!</translation>
+      <translation>कटर अप-टू-डेट है!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="146"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation type="unfinished">Based on Qt %1 (%2, %3 bit)</translation>
+      <translation>Qt पर आधारित %1 (%2, %3 bit)</translation>
     </message>
     <message>
       <source>Timeout error!</source>
-      <translation type="unfinished">Timeout error!</translation>
+      <translation>टाइमआउट त्रुटि!</translation>
     </message>
     <message>
       <source>Please check your internet connection and try again.</source>
-      <translation type="unfinished">Please check your internet connection and try again.</translation>
+      <translation>अपने इंटरनेट कनेक्शन की जाँच करें और पुन: प्रयास करें।</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="102"/>
       <source>Error!</source>
-      <translation type="unfinished">Error!</translation>
+      <translation>त्रुटि!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>संस्करण नियंत्रण</translation>
     </message>
     <message>
       <source>You have latest version and no need to update!</source>
-      <translation type="unfinished">You have latest version and no need to update!</translation>
+      <translation>आपके पास नवीनतम संस्करण है और अपडेट करने की कोई आवश्यकता नहीं है!</translation>
     </message>
     <message>
       <source>Current version:</source>
-      <translation type="unfinished">Current version:</translation>
+      <translation>वर्तमान संस्करण:</translation>
     </message>
     <message>
       <source>Latest version:</source>
-      <translation type="unfinished">Latest version:</translation>
+      <translation>नवीनतम संस्करण:</translation>
     </message>
     <message>
       <source>For update, please check the link:</source>
-      <translation type="unfinished">For update, please check the link:</translation>
+      <translation>अद्यतन के लिए, कृपया लिंक देखें:</translation>
     </message>
   </context>
   <context>
@@ -152,17 +154,17 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>पता कॉपी करें</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>एक्स-रेफ देखें</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>टिप्पणी लिखें</translation>
     </message>
   </context>
   <context>
@@ -170,22 +172,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="409"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>क्लास</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="433"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>आधार</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="463"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>विधि</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="497"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>vtable</translation>
     </message>
   </context>
   <context>
@@ -193,50 +195,50 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="26"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>फ़ाइल लोड हो रही है...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="67"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>PDB फ़ाइल लोड हो रही है...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="76"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>शेलकोड लोड हो रहा है ...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="87"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>स्क्रिप्ट चल रही है...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="99"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>विश्लेषण चल रहा है...</translation>
     </message>
     <message>
       <source>Analyzing...</source>
-      <translation type="unfinished">Analyzing...</translation>
+      <translation>विश्लेषण कर रहा है ...</translation>
     </message>
     <message>
       <source>Running</source>
-      <translation type="unfinished">Running</translation>
+      <translation>चल रहा है</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="107"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>विश्लेषण पूरा!</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="109"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>लंघन विश्लेषण।</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.h" line="20"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>प्रारंभिक विश्लेषण</translation>
     </message>
   </context>
   <context>
@@ -244,17 +246,17 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>रूप</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>फ़ॉन्ट</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>फ़ॉन्ट का चयन करें</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>

@@ -6,7 +6,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation type="unfinished">About Cutter</translation>
+      <translation>Despre Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="69"/>
@@ -16,7 +16,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="95"/>
       <source>Show version information</source>
-      <translation type="unfinished">Show version information</translation>
+      <translation>Informaţii Versiune</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
@@ -35,47 +35,47 @@
     </message>
     <message>
       <source>Show plugin information</source>
-      <translation type="unfinished">Show plugin information</translation>
+      <translation>Informații plugin</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="82"/>
       <source>Check for updates</source>
-      <translation type="unfinished">Check for updates</translation>
+      <translation>Verificați dacă există actualizări</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="29"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="29"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Versiune</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
       <source>Using r2-</source>
-      <translation type="unfinished">Using r2-</translation>
+      <translation>Folosind r2-</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="32"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>Caracteristici opţionale:</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>Licenta</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation type="unfinished">This Software is released under the GNU General Public License v3.0</translation>
+      <translation>Acest Software este lansat sub GNU General Public License v3.0</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="49"/>
       <source>Authors</source>
-      <translation type="unfinished">Authors</translation>
+      <translation>Autori</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
@@ -90,12 +90,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="73"/>
       <source>radare2 version information</source>
-      <translation type="unfinished">radare2 version information</translation>
+      <translation>Informații versiune radare2</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="96"/>
       <source>Checking for updates...</source>
-      <translation type="unfinished">Checking for updates...</translation>
+      <translation>Actualizări în curs...</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
@@ -109,37 +109,37 @@
     </message>
     <message>
       <source>Timeout error!</source>
-      <translation type="unfinished">Timeout error!</translation>
+      <translation>Eroare timeout!</translation>
     </message>
     <message>
       <source>Please check your internet connection and try again.</source>
-      <translation type="unfinished">Please check your internet connection and try again.</translation>
+      <translation>Verifică dacă ești conectat la internet și încearcă din nou.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="102"/>
       <source>Error!</source>
-      <translation type="unfinished">Error!</translation>
+      <translation>Eroare!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>Control versiune</translation>
     </message>
     <message>
       <source>You have latest version and no need to update!</source>
-      <translation type="unfinished">You have latest version and no need to update!</translation>
+      <translation>Ai ultima versiune și nu e nevoie sa actualizezi!</translation>
     </message>
     <message>
       <source>Current version:</source>
-      <translation type="unfinished">Current version:</translation>
+      <translation>Versiune curentă:</translation>
     </message>
     <message>
       <source>Latest version:</source>
-      <translation type="unfinished">Latest version:</translation>
+      <translation>Ultima versiune:</translation>
     </message>
     <message>
       <source>For update, please check the link:</source>
-      <translation type="unfinished">For update, please check the link:</translation>
+      <translation>Pentru actualizare, vă rugăm să verificaţi link-ul:</translation>
     </message>
   </context>
   <context>
@@ -193,22 +193,22 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="26"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>Pagina se încarcă...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="67"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>Pagina PDB se încarcă...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="76"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>Shellcode se încarcă...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="87"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>Executare script...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="99"/>
@@ -217,26 +217,26 @@
     </message>
     <message>
       <source>Analyzing...</source>
-      <translation type="unfinished">Analyzing...</translation>
+      <translation>Analiză...</translation>
     </message>
     <message>
       <source>Running</source>
-      <translation type="unfinished">Running</translation>
+      <translation>Rulează</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="107"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>Analiza completa!</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="109"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>Sărind peste analiza.</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.h" line="20"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>Analiză iniţială</translation>
     </message>
   </context>
   <context>
@@ -244,17 +244,17 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>Aspect</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>Font:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>Selectează fontul</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
@@ -303,55 +303,55 @@
     </message>
     <message>
       <source>Qt Theme:</source>
-      <translation type="unfinished">Qt Theme:</translation>
+      <translation>Qt tema:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>Standard</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation type="unfinished">Dark</translation>
+      <translation>Culoare închisă</translation>
     </message>
     <message>
       <source>Color Theme</source>
-      <translation type="unfinished">Color Theme</translation>
+      <translation>Culoarea temei</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copiază</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="166"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Ştergeţi</translation>
     </message>
     <message>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation>Limbă</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="302"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>Salvare ca valori prestabilite</translation>
     </message>
     <message>
       <source>Enter scheme name</source>
-      <translation type="unfinished">Enter scheme name</translation>
+      <translation>Introduceţi nume schemă</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="139"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="230"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Nume:</translation>
     </message>
     <message>
       <source>Are you sure you want to delete theme </source>
-      <translation type="unfinished">Are you sure you want to delete theme </translation>
+      <translation>Sunteti sigur ca doriti sa le stergeti </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="127"/>
@@ -416,12 +416,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="251"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>Setări limbă</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="252"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>Limba se va schimba data viitoare când porniți aplicația.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="256"/>
@@ -435,25 +435,25 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="47"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Dezasamblare</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>Stil</translation>
     </message>
     <message>
       <source>Show ESIL instead of assembly (asm.esil)</source>
-      <translation type="unfinished">Show ESIL instead of assembly (asm.esil)</translation>
+      <translation>Arata ESIL in loc de assembly (asm.esil)</translation>
     </message>
     <message>
       <source>Show pseudocode instead of assembly (asm.pseudo)</source>
-      <translation type="unfinished">Show pseudocode instead of assembly (asm.pseudo)</translation>
+      <translation>Arata pseudocode in loc de assembly (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="129"/>
       <source>Show offsets (asm.offset)</source>
-      <translation type="unfinished">Show offsets (asm.offset)</translation>
+      <translation>Arata offsets (asm.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="205"/>
@@ -468,32 +468,32 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="229"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation type="unfinished">Show opcode description (asm.describe)</translation>
+      <translation>Arata descrierea opcode-ului (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="112"/>
       <source>Syntax (asm.syntax):</source>
-      <translation type="unfinished">Syntax (asm.syntax):</translation>
+      <translation>Sintaxa (asm.syntax):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="54"/>
       <source>Lowercase</source>
-      <translation type="unfinished">Lowercase</translation>
+      <translation>Litere mici</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="59"/>
       <source>Uppercase (asm.ucase)</source>
-      <translation type="unfinished">Uppercase (asm.ucase)</translation>
+      <translation>Majuscule (asm.ucase)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="64"/>
       <source>Capitalize (asm.capitalize)</source>
-      <translation type="unfinished">Capitalize (asm.capitalize)</translation>
+      <translation>Capitalizează (asm.capitalize)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="105"/>
       <source>Separate bytes with whitespace (asm.bytespace)</source>
-      <translation type="unfinished">Separate bytes with whitespace (asm.bytespace)</translation>
+      <translation>Separeaza bytes cu whitespace (asm.bytespace)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="122"/>
@@ -529,7 +529,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="198"/>
       <source>Align bytes to the left (asm.lbytes)</source>
-      <translation type="unfinished">Align bytes to the left (asm.lbytes)</translation>
+      <translation>Aliniază bytes la stanga (asm.lbytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="242"/>
@@ -549,25 +549,25 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="82"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation type="unfinished">Tabs in assembly (asm.tabs):</translation>
+      <translation>Tabs in assembly (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="136"/>
       <source>Tabs before assembly (asm.tabs.off):</source>
-      <translation type="unfinished">Tabs before assembly (asm.tabs.off):</translation>
+      <translation>Tabs înainte de assembly (asm.tabs.off):</translation>
     </message>
     <message>
       <source>Show empty line after every basic block (asm.bbline)</source>
-      <translation type="unfinished">Show empty line after every basic block (asm.bbline)</translation>
+      <translation>Arata linie libera după fiecare block Basic (asm.bbline)</translation>
     </message>
     <message>
       <source>Show comments at right of assembly (asm.cmt.right)</source>
-      <translation type="unfinished">Show comments at right of assembly (asm.cmt.right)</translation>
+      <translation>Arata comentarii la dreapta de assembly (asm.cmt.right)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
       <source>Column to align comments (asm.cmt.col):</source>
-      <translation type="unfinished">Column to align comments (asm.cmt.col):</translation>
+      <translation>Coloana pentru aliniat comentarii (asm.cmt.col):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="285"/>
@@ -582,36 +582,36 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="321"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>Metadate</translation>
     </message>
     <message>
       <source>Show stack pointer (asm.stackptr)</source>
-      <translation type="unfinished">Show stack pointer (asm.stackptr)</translation>
+      <translation>Arata pointer pentru stack (asm.stackptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="327"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation type="unfinished">Slow Analysis (asm.slow)</translation>
+      <translation>Arata analiza (asm.slow)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="334"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation type="unfinished">Show jump lines (asm.lines)</translation>
+      <translation>Arata linie de sărit (asm.lines)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="341"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation type="unfinished">Show function boundary lines (asm.lines.fcn)</translation>
+      <translation>Arata liniile de demarare ale funcției (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="348"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation type="unfinished">Show offset before flags (asm.flags.off)</translation>
+      <translation>Arata offset înainte de steaguri (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="355"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation type="unfinished">Run ESIL emulation analysis (asm.emu)</translation>
+      <translation>Execută emulare analiza ESIL (asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
@@ -621,36 +621,36 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation type="unfinished">Show size of opcodes in disassembly (asm.size)</translation>
+      <translation>Arata dimensiune opcode in dissaaembly (asm.size)</translation>
     </message>
     <message>
       <source>Show bytes (asm.bytes)</source>
-      <translation type="unfinished">Show bytes (asm.bytes)</translation>
+      <translation>Arata bytes (asm.bytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="376"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation type="unfinished">Show variables summary instead of full list (asm.var.summary)</translation>
+      <translation>Arata sumar variabile în loc de lista întreaga (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="391"/>
       <source>Number of bytes to display (asm.nbytes):</source>
-      <translation type="unfinished">Number of bytes to display (asm.nbytes):</translation>
+      <translation>Număr bytes de arătat (asm.nbytes):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="410"/>
       <source>Substitute variables (asm.var.sub)</source>
-      <translation type="unfinished">Substitute variables (asm.var.sub)</translation>
+      <translation>Substituie variabile (asm.var.sub)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="417"/>
       <source>Substitute entire variable expressions with names (asm.var.subonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.var.subonly)</translation>
+      <translation>Substituie in întregime expresii variabile cu nume (asm.var.subonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="456"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>Salvare ca valori prestabilite</translation>
     </message>
   </context>
   <context>
@@ -658,34 +658,34 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="14"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>Ora</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="50"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>In execuție de</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n ora</numerusform>
+        <numerusform>%n ore</numerusform>
+        <numerusform>%n ore</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="56"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n minut</numerusform>
         <numerusform>%n minute</numerusform>
         <numerusform>%n minute</numerusform>
       </translation>
@@ -694,10 +694,10 @@
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="59"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n secunda</numerusform>
+        <numerusform>%n secunde</numerusform>
+        <numerusform>%n secunde</numerusform>
       </translation>
     </message>
   </context>
@@ -706,29 +706,29 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation type="unfinished">Select process to attach...</translation>
+      <translation>Selectează proces de atasat...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation type="unfinished">Processes with same name as currently open file:</translation>
+      <translation>Procese cu același nume ca și fișierul curent deschis:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="94"/>
       <source>All processes:</source>
-      <translation type="unfinished">All processes:</translation>
+      <translation>Toate procesele:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="138"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Filtru rapid</translation>
     </message>
   </context>
   <context>
     <name>BacktraceWidget</name>
     <message>
       <source>Func Name</source>
-      <translation type="unfinished">Func Name</translation>
+      <translation>Nume funcție</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="17"/>
@@ -738,12 +738,12 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Descriere</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="21"/>
       <source>Frame Size</source>
-      <translation type="unfinished">Frame Size</translation>
+      <translation>Dimensiune frame</translation>
     </message>
   </context>
   <context>
@@ -784,7 +784,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="99"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
@@ -803,20 +803,20 @@
     </message>
     <message>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Permisiuni</translation>
     </message>
     <message>
       <source>Hardware bp</source>
-      <translation type="unfinished">Hardware bp</translation>
+      <translation>Hardware bp</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
       <source>Tracing</source>
-      <translation type="unfinished">Tracing</translation>
+      <translation>Traseaza</translation>
     </message>
     <message>
       <source>Active</source>
-      <translation type="unfinished">Active</translation>
+      <translation>Activ</translation>
     </message>
   </context>
   <context>
@@ -824,23 +824,23 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation type="unfinished">Add new breakpoint</translation>
+      <translation>Adaugă breakpoint nou</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
       <location filename="../widgets/BreakpointWidget.cpp" line="195"/>
       <source>Delete breakpoint</source>
-      <translation type="unfinished">Delete breakpoint</translation>
+      <translation>Elimina breakpoint</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="72"/>
       <source>Delete all breakpoints</source>
-      <translation type="unfinished">Delete all breakpoints</translation>
+      <translation>Elimina toate breakpoint-urile</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="201"/>
       <source>Toggle breakpoint</source>
-      <translation type="unfinished">Toggle breakpoint</translation>
+      <translation>Comutare breakpoint</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="207"/>
@@ -852,7 +852,7 @@
     <name>BreakpointsDialog</name>
     <message>
       <source>Add breakpoints</source>
-      <translation type="unfinished">Add breakpoints</translation>
+      <translation>Adaugă breakpoint-uri</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
@@ -999,30 +999,30 @@
     <name>ClassesModel</name>
     <message>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>metoda</translation>
     </message>
     <message>
       <source>field</source>
-      <translation type="unfinished">field</translation>
+      <translation>etichetă</translation>
     </message>
     <message>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>clasa</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="19"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nume</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="21"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tip</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
@@ -1035,12 +1035,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="79"/>
       <source>Source:</source>
-      <translation type="unfinished">Source:</translation>
+      <translation>Sursa:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="93"/>
       <source>Binary Info (Fixed)</source>
-      <translation type="unfinished">Binary Info (Fixed)</translation>
+      <translation>Info binar (fixat)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="98"/>
@@ -1081,7 +1081,7 @@
     </message>
     <message>
       <source>Flags (Editable)</source>
-      <translation type="unfinished">Flags (Editable)</translation>
+      <translation>Steaguri (editabil)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="702"/>
@@ -1167,22 +1167,22 @@
     <name>ColorSchemeFileSaver</name>
     <message>
       <source>Standard themes not found!</source>
-      <translation type="unfinished">Standard themes not found!</translation>
+      <translation>Temele standard nu au fost găsite!</translation>
     </message>
     <message>
       <source>The radare2 standard themes could not be found! This probably means radare2 is not properly installed. If you think it is open an issue please.</source>
-      <translation type="unfinished">The radare2 standard themes could not be found! This probably means radare2 is not properly installed. If you think it is open an issue please.</translation>
+      <translation>Temele standard nu au fost găsite. Radare2 probabil nu este instalat corect. Raportează problema.</translation>
     </message>
   </context>
   <context>
     <name>ColorSchemePrefWidget</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Formular</translation>
     </message>
     <message>
       <source>Set Default</source>
-      <translation type="unfinished">Set Default</translation>
+      <translation>Setări standard</translation>
     </message>
   </context>
   <context>
@@ -1337,7 +1337,7 @@
     <message>
       <location filename="../common/CommandTask.h" line="17"/>
       <source>Running Command</source>
-      <translation type="unfinished">Running Command</translation>
+      <translation>Execută comanda</translation>
     </message>
   </context>
   <context>
@@ -1345,7 +1345,7 @@
     <message>
       <location filename="../dialogs/CommentsDialog.ui" line="14"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentariu</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="47"/>
@@ -1363,23 +1363,23 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="158"/>
       <source>Function/Offset</source>
-      <translation type="unfinished">Function/Offset</translation>
+      <translation>Functie/Offset</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="160"/>
       <location filename="../widgets/CommentsWidget.cpp" line="171"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentariu</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="167"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="169"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>Funcție</translation>
     </message>
   </context>
   <context>
@@ -1387,7 +1387,7 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Orizontal</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
@@ -1396,16 +1396,16 @@
     </message>
     <message>
       <source>Horizontal view</source>
-      <translation type="unfinished">Horizontal view</translation>
+      <translation>Vedere orizontala</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Vertical</translation>
     </message>
     <message>
       <source>Vertical view</source>
-      <translation type="unfinished">Vertical view</translation>
+      <translation>Vedere verticala</translation>
     </message>
   </context>
   <context>
@@ -1436,7 +1436,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
       <source> Type &quot;?&quot; for help</source>
-      <translation type="unfinished"> Type &quot;?&quot; for help</translation>
+      <translation> Tastează &quot;?&quot; pentru ajutor</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
@@ -1446,17 +1446,17 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
       <source>Execute command</source>
-      <translation type="unfinished">Execute command</translation>
+      <translation>Executa comanda</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="62"/>
       <source>Clear Output</source>
-      <translation type="unfinished">Clear Output</translation>
+      <translation>Șterge output</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="66"/>
@@ -1499,7 +1499,7 @@
     <message>
       <location filename="../core/Cutter.cpp" line="2664"/>
       <source>Unknown (%1)</source>
-      <translation type="unfinished">Unknown (%1)</translation>
+      <translation>Necunoscut (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2906"/>
@@ -1512,7 +1512,7 @@
     <message>
       <location filename="../widgets/MemoryDockWidget.cpp" line="69"/>
       <source> (unsynced)</source>
-      <translation type="unfinished"> (unsynced)</translation>
+      <translation> (nesincronizat)</translation>
     </message>
   </context>
   <context>
@@ -1520,7 +1520,7 @@
     <message>
       <location filename="../widgets/CutterTreeWidget.cpp" line="22"/>
       <source>%1 Items</source>
-      <translation type="unfinished">%1 Items</translation>
+      <translation>%1 itemuri</translation>
     </message>
   </context>
   <context>
@@ -1528,17 +1528,17 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
       <source>OVERVIEW</source>
-      <translation type="unfinished">OVERVIEW</translation>
+      <translation>PRIVIRE DE ANSAMBLU</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="140"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Info</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="178"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>Fisier:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="188"/>
@@ -1568,127 +1568,127 @@
       <location filename="../widgets/Dashboard.ui" line="913"/>
       <location filename="../widgets/Dashboard.ui" line="942"/>
       <source>--</source>
-      <translation type="unfinished">--</translation>
+      <translation>--</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="207"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>Format:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="236"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>Mod:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="265"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Dimensiune:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="281"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Tip:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="310"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>Clasa:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="339"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>Limbă:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="368"/>
       <source>Bits:</source>
-      <translation type="unfinished">Bits:</translation>
+      <translation>Biți:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="426"/>
       <source>FD:</source>
-      <translation type="unfinished">FD:</translation>
+      <translation>FD:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
       <source>Base addr:</source>
-      <translation type="unfinished">Base addr:</translation>
+      <translation>Adresa baza:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="484"/>
       <source>Virtual addr:</source>
-      <translation type="unfinished">Virtual addr:</translation>
+      <translation>Adresa virtuala:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="513"/>
       <source>Canary:</source>
-      <translation type="unfinished">Canary:</translation>
+      <translation>Canary:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="542"/>
       <source>Crypto:</source>
-      <translation type="unfinished">Crypto:</translation>
+      <translation>Criptografie:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="571"/>
       <source>NX bit:</source>
-      <translation type="unfinished">NX bit:</translation>
+      <translation>NX bit:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="600"/>
       <source>PIC:</source>
-      <translation type="unfinished">PIC:</translation>
+      <translation>PIC:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="629"/>
       <source>Static:</source>
-      <translation type="unfinished">Static:</translation>
+      <translation>Static:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation type="unfinished">Relro:</translation>
+      <translation>Relro:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>Arhitectură:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="729"/>
       <source>Machine:</source>
-      <translation type="unfinished">Machine:</translation>
+      <translation>Machine:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="758"/>
       <source>OS:</source>
-      <translation type="unfinished">OS:</translation>
+      <translation>SISTEM DE OPERARE:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="787"/>
       <source>Subsystem:</source>
-      <translation type="unfinished">Subsystem:</translation>
+      <translation>Subsistem:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="816"/>
       <source>Stripped:</source>
-      <translation type="unfinished">Stripped:</translation>
+      <translation>Goleste:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation type="unfinished">Relocs:</translation>
+      <translation>Relocs:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
       <source>Endianness:</source>
-      <translation type="unfinished">Endianness:</translation>
+      <translation>Endianness:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="903"/>
       <source>Compiled:</source>
-      <translation type="unfinished">Compiled:</translation>
+      <translation>Compilat:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="932"/>
@@ -1698,37 +1698,37 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
       <source>Certificates</source>
-      <translation type="unfinished">Certificates</translation>
+      <translation>Certificate</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1006"/>
       <source>Version info</source>
-      <translation type="unfinished">Version info</translation>
+      <translation>Informații versiune</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1034"/>
       <source>Hashes</source>
-      <translation type="unfinished">Hashes</translation>
+      <translation>Hashes</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1051"/>
       <source>Libraries</source>
-      <translation type="unfinished">Libraries</translation>
+      <translation>Librării</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1087"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1116"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1151"/>
       <source>Entropy:</source>
-      <translation type="unfinished">Entropy:</translation>
+      <translation>Entropie:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1183"/>
@@ -1923,102 +1923,102 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="14"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Debug</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="28"/>
       <source>Debug Plugin:</source>
-      <translation type="unfinished">Debug Plugin:</translation>
+      <translation>Debug Plugin:</translation>
     </message>
     <message>
       <source>Program Arguments:</source>
-      <translation type="unfinished">Program Arguments:</translation>
+      <translation>Argumentele programului:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="38"/>
       <source>ESIL stack address:</source>
-      <translation type="unfinished">ESIL stack address:</translation>
+      <translation>Adrese stack ESIL:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="55"/>
       <source>ESIL stack size:</source>
-      <translation type="unfinished">ESIL stack size:</translation>
+      <translation>Dimensiune stack ESIL:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="89"/>
       <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
-      <translation type="unfinished">Break esil execution when instruction is invalid (esil.breakoninvalid)</translation>
+      <translation>Oprește execuția Esil când instructiunea nu e valida (esil.breakoninvalid)</translation>
     </message>
   </context>
   <context>
     <name>DebugToolbar</name>
     <message>
       <source>Start debug</source>
-      <translation type="unfinished">Start debug</translation>
+      <translation>Pornește debug</translation>
     </message>
     <message>
       <source>Start emulation</source>
-      <translation type="unfinished">Start emulation</translation>
+      <translation>Pornește emulatia</translation>
     </message>
     <message>
       <source>Attach to process</source>
-      <translation type="unfinished">Attach to process</translation>
+      <translation>Atașează la proces</translation>
     </message>
     <message>
       <source>Stop debug</source>
-      <translation type="unfinished">Stop debug</translation>
+      <translation>Oprește debug</translation>
     </message>
     <message>
       <source>Stop emulation</source>
-      <translation type="unfinished">Stop emulation</translation>
+      <translation>Oprește emulatia</translation>
     </message>
     <message>
       <source>Restart program</source>
-      <translation type="unfinished">Restart program</translation>
+      <translation>Restartează programul</translation>
     </message>
     <message>
       <source>Restart emulation</source>
-      <translation type="unfinished">Restart emulation</translation>
+      <translation>Restartează emulatia</translation>
     </message>
     <message>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>Continua</translation>
     </message>
     <message>
       <source>Continue until main</source>
-      <translation type="unfinished">Continue until main</translation>
+      <translation>Continua pana la main</translation>
     </message>
     <message>
       <source>Continue until call</source>
-      <translation type="unfinished">Continue until call</translation>
+      <translation>Continua pana la call</translation>
     </message>
     <message>
       <source>Continue until syscall</source>
-      <translation type="unfinished">Continue until syscall</translation>
+      <translation>Continua pana la syscall</translation>
     </message>
     <message>
       <source>Step</source>
-      <translation type="unfinished">Step</translation>
+      <translation>Pas</translation>
     </message>
     <message>
       <source>Step over</source>
-      <translation type="unfinished">Step over</translation>
+      <translation>Pas peste</translation>
     </message>
     <message>
       <source>Step out</source>
-      <translation type="unfinished">Step out</translation>
+      <translation>Pas afara</translation>
     </message>
     <message>
       <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation type="unfinished">File &apos;%1&apos; does not have executable permissions.</translation>
+      <translation>Fisierul &apos;%1&apos; nu are permisie de execuție.</translation>
     </message>
     <message>
       <source>Error attaching. No process selected!</source>
-      <translation type="unfinished">Error attaching. No process selected!</translation>
+      <translation>Eroare la atașare. Nici un proces selectat!</translation>
     </message>
     <message>
       <source>Detach from process</source>
-      <translation type="unfinished">Detach from process</translation>
+      <translation>Detașează de proces</translation>
     </message>
   </context>
   <context>
@@ -2077,11 +2077,11 @@
       <location filename="../widgets/DisassemblerGraphView.cpp" line="96"/>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1105"/>
       <source>Export Graph</source>
-      <translation type="unfinished">Export Graph</translation>
+      <translation>Exporteaza grafic</translation>
     </message>
     <message>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sincronizeaza/desincronizeaza offset</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="102"/>
@@ -2146,12 +2146,12 @@
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="249"/>
       <source>No function detected. Cannot display graph.</source>
-      <translation type="unfinished">No function detected. Cannot display graph.</translation>
+      <translation>Nici o funcție detectata. Graficul nu poate fi vizualizat.</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="264"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Grafic</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1083"/>
@@ -2190,34 +2190,34 @@
     </message>
     <message>
       <source>Graphiz dot (*.dot)</source>
-      <translation type="unfinished">Graphiz dot (*.dot)</translation>
+      <translation>Graphiz dot (*.dot)</translation>
     </message>
     <message>
       <source>GIF (*.gif)</source>
-      <translation type="unfinished">GIF (*.gif)</translation>
+      <translation>GIF (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1075"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1076"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <source>PostScript (*.ps)</source>
-      <translation type="unfinished">PostScript (*.ps)</translation>
+      <translation>PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1077"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <source>JSON (*.json)</source>
-      <translation type="unfinished">JSON (*.json)</translation>
+      <translation>JSON (*.json)</translation>
     </message>
   </context>
   <context>
@@ -2225,13 +2225,13 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="73"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copiază</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="76"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="356"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Copiere adresă</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="80"/>
@@ -2242,56 +2242,56 @@
       <location filename="../menus/DisassemblyContextMenu.cpp" line="85"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="442"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>Adaugă comentariu</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="89"/>
       <source>Add Flag</source>
-      <translation type="unfinished">Add Flag</translation>
+      <translation>Adaugă steag</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="93"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Redenumiţi</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="97"/>
       <source>Edit function</source>
-      <translation type="unfinished">Edit function</translation>
+      <translation>Editaţi funcţie</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="101"/>
       <source>Rename Flag/Fcn/Var Used Here</source>
-      <translation type="unfinished">Rename Flag/Fcn/Var Used Here</translation>
+      <translation>Redenumiti steag/functie/variabila folosita aici</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="105"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="861"/>
       <source>Re-type function local vars</source>
-      <translation type="unfinished">Re-type function local vars</translation>
+      <translation>Retasteaza variabilele locale ale funcției</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="109"/>
       <source>Delete comment</source>
-      <translation type="unfinished">Delete comment</translation>
+      <translation>Şterge comentariul</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="112"/>
       <source>Delete flag</source>
-      <translation type="unfinished">Delete flag</translation>
+      <translation>Șterge steagul</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="115"/>
       <source>Undefine function</source>
-      <translation type="unfinished">Undefine function</translation>
+      <translation>Elimina definiție funcție</translation>
     </message>
     <message>
       <source>Define function here...</source>
-      <translation type="unfinished">Define function here...</translation>
+      <translation>Definește funcție aici...</translation>
     </message>
     <message>
       <source>Set to Code</source>
-      <translation type="unfinished">Set to Code</translation>
+      <translation>Setează cod</translation>
     </message>
     <message>
       <source>Set as Code</source>
@@ -2299,71 +2299,71 @@
     </message>
     <message>
       <source>Set as String</source>
-      <translation type="unfinished">Set as String</translation>
+      <translation>Seteaza-l ca String</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="141"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Arata X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="145"/>
       <source>Show Options</source>
-      <translation type="unfinished">Show Options</translation>
+      <translation>Afișare opțiuni</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="166"/>
       <source>Set Immediate Base to...</source>
-      <translation type="unfinished">Set Immediate Base to...</translation>
+      <translation>Setează baza imediata...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="168"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>Binar</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="172"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>Octal</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="176"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>Decimal</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="180"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>Hexadecimal</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Network Port</source>
-      <translation type="unfinished">Network Port</translation>
+      <translation>Port retea</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="188"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>Adresă IP</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="192"/>
       <source>Syscall</source>
-      <translation type="unfinished">Syscall</translation>
+      <translation>Syscall</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="196"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>String</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="203"/>
       <source>Set current bits to...</source>
-      <translation type="unfinished">Set current bits to...</translation>
+      <translation>Setează biți curenți...</translation>
     </message>
     <message>
       <source>Set to Data...</source>
-      <translation type="unfinished">Set to Data...</translation>
+      <translation>Setează data...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
@@ -2418,57 +2418,57 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="252"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>Word</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="256"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="260"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="275"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Editează</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="277"/>
       <source>Instruction</source>
-      <translation type="unfinished">Instruction</translation>
+      <translation>Instructiune</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="280"/>
       <source>Nop Instruction</source>
-      <translation type="unfinished">Nop Instruction</translation>
+      <translation>Instrucțiune Nop</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="283"/>
       <source>Bytes</source>
-      <translation type="unfinished">Bytes</translation>
+      <translation>Bytes</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="286"/>
       <source>Reverse Jump</source>
-      <translation type="unfinished">Reverse Jump</translation>
+      <translation>Reverse jump</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="292"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Debug</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="294"/>
       <source>Add/remove breakpoint</source>
-      <translation type="unfinished">Add/remove breakpoint</translation>
+      <translation>Adauga/elimina breakpoint</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
@@ -2479,7 +2479,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
       <source>Continue until line</source>
-      <translation type="unfinished">Continue until line</translation>
+      <translation>Continua pana la linie</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="348"/>
@@ -2494,37 +2494,37 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="445"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>Editaţi comentariul</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="463"/>
       <source>Rename function &quot;%1&quot;</source>
-      <translation type="unfinished">Rename function &quot;%1&quot;</translation>
+      <translation>Redenumești funcție &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="466"/>
       <source>Rename flag &quot;%1&quot;</source>
-      <translation type="unfinished">Rename flag &quot;%1&quot;</translation>
+      <translation>Redenumește steag &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="476"/>
       <source>Edit function &quot;%1&quot;</source>
-      <translation type="unfinished">Edit function &quot;%1&quot;</translation>
+      <translation>Redenumești funcție &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="490"/>
       <source>Add flag at %1 (used here)</source>
-      <translation type="unfinished">Add flag at %1 (used here)</translation>
+      <translation>Adaugă steag la %1 (folosit aici)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="492"/>
       <source>Rename &quot;%1&quot;</source>
-      <translation type="unfinished">Rename &quot;%1&quot;</translation>
+      <translation>Redenumeste &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="494"/>
       <source>Rename &quot;%1&quot; (used here)</source>
-      <translation type="unfinished">Rename &quot;%1&quot; (used here)</translation>
+      <translation>Redenumește &quot;%1&quot; (folosit aici)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="513"/>
@@ -2544,36 +2544,34 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="615"/>
       <source>Edit Instruction at %1</source>
-      <translation type="unfinished">Edit Instruction at %1</translation>
+      <translation>Editează instrucțiune la %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="686"/>
       <source>Edit Bytes at %1</source>
-      <translation type="unfinished">Edit Bytes at %1</translation>
+      <translation>Editează bytes la %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="710"/>
       <source>Write error</source>
-      <translation type="unfinished">Write error</translation>
+      <translation>Scrie eroare</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="712"/>
       <source>Unable to complete write operation. Consider opening in write mode. 
 
 WARNING: In write mode any changes will be commited to disk</source>
-      <translation type="unfinished">Unable to complete write operation. Consider opening in write mode. 
-
-WARNING: In write mode any changes will be commited to disk</translation>
+      <translation>Operația de scris nu a putut fi terminata. Încearcă sa deschizi în "write mode". ATENTIE: In "write mode" orice modificare va fi scrisa direct pe disc</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="713"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>OK</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="714"/>
       <source>Reopen in write mode and try again</source>
-      <translation type="unfinished">Reopen in write mode and try again</translation>
+      <translation>Redeschide în "write mode" și încearcă din nou</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="916"/>
@@ -2587,41 +2585,41 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Add Comment at %1</source>
-      <translation type="unfinished">Add Comment at %1</translation>
+      <translation>Adaugă comentariu la %1</translation>
     </message>
     <message>
       <source>Edit Comment at %1</source>
-      <translation type="unfinished">Edit Comment at %1</translation>
+      <translation>Editeaza Cometariul la "%1"</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
       <source>Analyze function at %1</source>
-      <translation type="unfinished">Analyze function at %1</translation>
+      <translation>Analizează funcție la %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="773"/>
       <source>Function name</source>
-      <translation type="unfinished">Function name</translation>
+      <translation>Nume funcție</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="796"/>
       <source>Rename function %1</source>
-      <translation type="unfinished">Rename function %1</translation>
+      <translation>Redenumește funcție %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="804"/>
       <source>Rename flag %1</source>
-      <translation type="unfinished">Rename flag %1</translation>
+      <translation>Redenumește steag %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="831"/>
       <source>Add flag at %1</source>
-      <translation type="unfinished">Add flag at %1</translation>
+      <translation>Adaugă steag la %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="835"/>
       <source>Rename %1</source>
-      <translation type="unfinished">Rename %1</translation>
+      <translation>Renumește %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="862"/>
@@ -2630,12 +2628,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Set Variable Types for Function: %1</source>
-      <translation type="unfinished">Set Variable Types for Function: %1</translation>
+      <translation>Setează tip variabila pentru funcție: %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="998"/>
       <source>Edit function %1</source>
-      <translation type="unfinished">Edit function %1</translation>
+      <translation>Editaţi funcție %1</translation>
     </message>
   </context>
   <context>
@@ -2647,7 +2645,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sync/unsync offset</translation>
     </message>
   </context>
   <context>
@@ -2655,32 +2653,32 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="14"/>
       <source>Edit Function</source>
-      <translation type="unfinished">Edit Function</translation>
+      <translation>Editaţi funcţie</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="43"/>
       <source>Name of function</source>
-      <translation type="unfinished">Name of function</translation>
+      <translation>Numele funcţiei</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="53"/>
       <source>Start address</source>
-      <translation type="unfinished">Start address</translation>
+      <translation>Adresă de Start</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="63"/>
       <source>End address</source>
-      <translation type="unfinished">End address</translation>
+      <translation>Adresa de sfarsit</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Stack size</source>
-      <translation type="unfinished">Stack size</translation>
+      <translation>Mărime stack</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="83"/>
       <source>Calling convention</source>
-      <translation type="unfinished">Calling convention</translation>
+      <translation>Convenție de calling</translation>
     </message>
   </context>
   <context>
@@ -2688,12 +2686,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="14"/>
       <source>Edit Instruction</source>
-      <translation type="unfinished">Edit Instruction</translation>
+      <translation>Editează instrucțiune</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="76"/>
       <source>Unknown Instruction</source>
-      <translation type="unfinished">Unknown Instruction</translation>
+      <translation>Instructiune necunoscuta</translation>
     </message>
   </context>
   <context>
@@ -2805,12 +2803,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="59"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adresă</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="61"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Dimensiune</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="63"/>
@@ -2841,12 +2839,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="31"/>
       <source>Flag:</source>
-      <translation type="unfinished">Flag:</translation>
+      <translation>Steag:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="54"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="73"/>
@@ -2859,7 +2857,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="60"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Dimensiune</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="62"/>
@@ -2882,7 +2880,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
       <source>Flagspace:</source>
-      <translation type="unfinished">Flagspace:</translation>
+      <translation>Flagspace:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
@@ -2897,7 +2895,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="110"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Ştergeţi</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
@@ -2907,7 +2905,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="216"/>
       <source>(all)</source>
-      <translation type="unfinished">(all)</translation>
+      <translation>(tot)</translation>
     </message>
   </context>
   <context>
@@ -2915,69 +2913,69 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="123"/>
       <source>Offset: %1</source>
-      <translation type="unfinished">Offset: %1</translation>
+      <translation>Offset: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="125"/>
       <source>Size: %1</source>
-      <translation type="unfinished">Size: %1</translation>
+      <translation>Mărime: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
       <source>Import: %1</source>
-      <translation type="unfinished">Import: %1</translation>
+      <translation>Import: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
       <source>true</source>
-      <translation type="unfinished">true</translation>
+      <translation>adevărat</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
       <source>false</source>
-      <translation type="unfinished">false</translation>
+      <translation>fals</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="129"/>
       <source>Nargs: %1</source>
-      <translation type="unfinished">Nargs: %1</translation>
+      <translation>Nargs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="131"/>
       <source>Nbbs: %1</source>
-      <translation type="unfinished">Nbbs: %1</translation>
+      <translation>Nbbs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="133"/>
       <source>Nlocals: %1</source>
-      <translation type="unfinished">Nlocals: %1</translation>
+      <translation>Nlocals: %1</translation>
     </message>
     <message>
       <source>Cyclomatic complexity: %1</source>
-      <translation type="unfinished">Cyclomatic complexity: %1</translation>
+      <translation>Complexitate cyclomatica: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="135"/>
       <source>Call type: %1</source>
-      <translation type="unfinished">Call type: %1</translation>
+      <translation>Tip de call: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="137"/>
       <source>Edges: %1</source>
-      <translation type="unfinished">Edges: %1</translation>
+      <translation>Margini: %1</translation>
     </message>
     <message>
       <source>Cost: %1</source>
-      <translation type="unfinished">Cost: %1</translation>
+      <translation>Cost: %1</translation>
     </message>
     <message>
       <source>Calls/OutDegree: %1</source>
-      <translation type="unfinished">Calls/OutDegree: %1</translation>
+      <translation>Calls/OutDegree: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
       <source>StackFrame: %1</source>
-      <translation type="unfinished">StackFrame: %1</translation>
+      <translation>StackFrame: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="216"/>
@@ -2991,19 +2989,19 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>&lt;div&gt;&lt;strong&gt;Summary&lt;/strong&gt;:&lt;br&gt;</source>
-      <translation type="unfinished">&lt;div&gt;&lt;strong&gt;Summary&lt;/strong&gt;:&lt;br&gt;</translation>
+      <translation>&lt;div&gt;&lt;strong&gt;Sumar&lt;/strong&gt;:&lt;br&gt;</translation>
     </message>
     <message>
       <source>Size:&amp;nbsp;%1,&amp;nbsp;Cyclomatic complexity:&amp;nbsp;%2,&amp;nbsp;Basic blocks:&amp;nbsp;%3</source>
-      <translation type="unfinished">Size:&amp;nbsp;%1,&amp;nbsp;Cyclomatic complexity:&amp;nbsp;%2,&amp;nbsp;Basic blocks:&amp;nbsp;%3</translation>
+      <translation>Dimensiune:&amp;nbsp;%1,&amp;nbsp;Complexitate ciclomatica:&amp;nbsp;%2,&amp;nbsp;Blocuri de baza:&amp;nbsp;%3</translation>
     </message>
     <message>
       <source>&lt;/div&gt;&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;/div&gt;&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;/div&gt;&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <source>&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="249"/>
@@ -3014,59 +3012,59 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="255"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Dimensiune</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="257"/>
       <source>Imp.</source>
-      <translation type="unfinished">Imp.</translation>
+      <translation>Imp.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="259"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="261"/>
       <source>Nargs</source>
-      <translation type="unfinished">Nargs</translation>
+      <translation>Nargs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
       <source>Nbbs</source>
-      <translation type="unfinished">Nbbs</translation>
+      <translation>Nbbs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="263"/>
       <source>Nlocals</source>
-      <translation type="unfinished">Nlocals</translation>
+      <translation>Nlocals</translation>
     </message>
     <message>
       <source>Cyclo. Comp.</source>
-      <translation type="unfinished">Cyclo. Comp.</translation>
+      <translation>Cyclo. Comp.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="267"/>
       <source>Call type</source>
-      <translation type="unfinished">Call type</translation>
+      <translation>Tipul de call</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="269"/>
       <source>Edges</source>
-      <translation type="unfinished">Edges</translation>
+      <translation>Margini</translation>
     </message>
     <message>
       <source>Cost</source>
-      <translation type="unfinished">Cost</translation>
+      <translation>Cost</translation>
     </message>
     <message>
       <source>Calls/OutDeg.</source>
-      <translation type="unfinished">Calls/OutDeg.</translation>
+      <translation>Calls/OutDeg.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="271"/>
       <source>StackFrame</source>
-      <translation type="unfinished">StackFrame</translation>
+      <translation>StackFrame</translation>
     </message>
   </context>
   <context>
@@ -3074,14 +3072,14 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../common/FunctionsTask.h" line="13"/>
       <source>Fetching Functions</source>
-      <translation type="unfinished">Fetching Functions</translation>
+      <translation>Încărcare functii</translation>
     </message>
   </context>
   <context>
     <name>FunctionsWidget</name>
     <message>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>Adaugă comentariu</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="430"/>
@@ -3091,7 +3089,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="431"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>Elimina definiție</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="435"/>
@@ -3100,11 +3098,11 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>X-Refs</source>
-      <translation type="unfinished">X-Refs</translation>
+      <translation>X-Refs</translation>
     </message>
     <message>
       <source>Cross references</source>
-      <translation type="unfinished">Cross references</translation>
+      <translation>Referințe Multiple</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="432"/>
@@ -3122,12 +3120,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="14"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Grafic</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
       <source>Maximum Line Length:</source>
-      <translation type="unfinished">Maximum Line Length:</translation>
+      <translation>Lungime maximă linie:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="49"/>
@@ -3136,7 +3134,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Show offsets (graph.offset) </source>
-      <translation type="unfinished">Show offsets (graph.offset) </translation>
+      <translation>Arata offsets (graph.offset) </translation>
     </message>
   </context>
   <context>
@@ -3144,17 +3142,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="54"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="56"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nume</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="58"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Valoare</translation>
     </message>
   </context>
   <context>
@@ -3243,7 +3241,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="14"/>
       <source>Select Block</source>
-      <translation type="unfinished">Select Block</translation>
+      <translation>Selecteaza blocul</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
@@ -3254,17 +3252,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="50"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>Sfarsitul adresei:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="65"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>Inceputul adresei:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="99"/>
       <source>Length:</source>
-      <translation type="unfinished">Length:</translation>
+      <translation>Lungime:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
@@ -3276,20 +3274,20 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <name>HexdumpWidget</name>
     <message>
       <source>0  1  2  3 ...</source>
-      <translation type="unfinished">0  1  2  3 ...</translation>
+      <translation>0 1 2 3...</translation>
     </message>
     <message>
       <source>0123...</source>
-      <translation type="unfinished">0123...</translation>
+      <translation>0123...</translation>
     </message>
     <message>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
       <source>Parsing</source>
-      <translation type="unfinished">Parsing</translation>
+      <translation>Parsing</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="110"/>
@@ -3305,42 +3303,42 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="124"/>
       <source>Assembler</source>
-      <translation type="unfinished">Assembler</translation>
+      <translation>Limbaj de asamblare</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="129"/>
       <source>C bytes</source>
-      <translation type="unfinished">C bytes</translation>
+      <translation>Bytes C</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="134"/>
       <source>C half-words (2 byte)</source>
-      <translation type="unfinished">C half-words (2 byte)</translation>
+      <translation>C half-words (2 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="139"/>
       <source>C words (4 byte)</source>
-      <translation type="unfinished">C words (4 byte)</translation>
+      <translation>C words (4 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="144"/>
       <source>C dwords (8 byte)</source>
-      <translation type="unfinished">C dwords (8 byte)</translation>
+      <translation>C dwords (8 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="149"/>
       <source>Python</source>
-      <translation type="unfinished">Python</translation>
+      <translation>Python</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="154"/>
       <source>JSON</source>
-      <translation type="unfinished">JSON</translation>
+      <translation>JSON</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="159"/>
       <source>JavaScript</source>
-      <translation type="unfinished">JavaScript</translation>
+      <translation>JavaScript</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="164"/>
@@ -3350,89 +3348,89 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="178"/>
       <source>Endian</source>
-      <translation type="unfinished">Endian</translation>
+      <translation>Endian</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="189"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Mic</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="194"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Mare</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="249"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="278"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>Biți</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="289"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="294"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="299"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="388"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="428"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="468"/>
       <source>Entropy:</source>
-      <translation type="unfinished">Entropy:</translation>
+      <translation>Entropie:</translation>
     </message>
     <message>
       <source>Hexdump side panel</source>
-      <translation type="unfinished">Hexdump side panel</translation>
+      <translation>Hexdump panoul lateral</translation>
     </message>
     <message>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>Elimina definiție</translation>
     </message>
     <message>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>Copiază tot</translation>
     </message>
     <message>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>Copiază bytes</translation>
     </message>
     <message>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>Copie disasm</translation>
     </message>
     <message>
       <source>Copy Hexpair</source>
-      <translation type="unfinished">Copy Hexpair</translation>
+      <translation>Copie hexpair</translation>
     </message>
     <message>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>Copiaza ASCII</translation>
     </message>
     <message>
       <source>Copy Text</source>
-      <translation type="unfinished">Copy Text</translation>
+      <translation>Copiază text</translation>
     </message>
     <message>
       <source>1</source>
@@ -3440,15 +3438,15 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <source>Edit</source>
@@ -3456,19 +3454,19 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Inserează</translation>
     </message>
     <message>
       <source>Insert Hex</source>
-      <translation type="unfinished">Insert Hex</translation>
+      <translation>Insereaza hex</translation>
     </message>
     <message>
       <source>Insert String</source>
-      <translation type="unfinished">Insert String</translation>
+      <translation>Insereaza string</translation>
     </message>
     <message>
       <source>Hex</source>
-      <translation type="unfinished">Hex</translation>
+      <translation>Hex</translation>
     </message>
     <message>
       <source>Octal</source>
@@ -3476,31 +3474,31 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Half-word</source>
-      <translation type="unfinished">Half-word</translation>
+      <translation>Half-word</translation>
     </message>
     <message>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>Word</translation>
     </message>
     <message>
       <source>Quad-word</source>
-      <translation type="unfinished">Quad-word</translation>
+      <translation>Quad-word</translation>
     </message>
     <message>
       <source>Emoji</source>
-      <translation type="unfinished">Emoji</translation>
+      <translation>Emoji</translation>
     </message>
     <message>
       <source>1 byte</source>
-      <translation type="unfinished">1 byte</translation>
+      <translation>1 byte</translation>
     </message>
     <message>
       <source>2 bytes</source>
-      <translation type="unfinished">2 bytes</translation>
+      <translation>2 bytes</translation>
     </message>
     <message>
       <source>4 bytes</source>
-      <translation type="unfinished">4 bytes</translation>
+      <translation>4 bytes</translation>
     </message>
     <message>
       <source>Select Block...</source>
@@ -3509,23 +3507,23 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="206"/>
       <source>Hexdump</source>
-      <translation type="unfinished">Hexdump</translation>
+      <translation>Hexdump</translation>
     </message>
     <message>
       <source>Columns</source>
-      <translation type="unfinished">Columns</translation>
+      <translation>Coloane</translation>
     </message>
     <message>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>Format</translation>
     </message>
     <message>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sincronizare/desincronizare offset</translation>
     </message>
     <message>
       <source>Error: Could not select range, end address is less then start address</source>
-      <translation type="unfinished">Error: Could not select range, end address is less then start address</translation>
+      <translation>Eroare: Zona nu a putut fi selectata, capatul adresei este mai mic decat inceputul acesteia</translation>
     </message>
   </context>
   <context>
@@ -3533,7 +3531,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="48"/>
       <source>Unsafe</source>
-      <translation type="unfinished">Unsafe</translation>
+      <translation>Nesigur</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="70"/>
@@ -3548,7 +3546,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="74"/>
       <source>Safety</source>
-      <translation type="unfinished">Safety</translation>
+      <translation>Siguranţă</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="76"/>
@@ -3569,99 +3567,99 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="26"/>
       <source>Load Options</source>
-      <translation type="unfinished">Load Options</translation>
+      <translation>Încarcă opțiuni</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="84"/>
       <source>Program:</source>
-      <translation type="unfinished">Program:</translation>
+      <translation>Program:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="161"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="338"/>
       <source>Analysis: Enabled</source>
-      <translation type="unfinished">Analysis: Enabled</translation>
+      <translation>Analiza: activata</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="177"/>
       <source>Level: </source>
-      <translation type="unfinished">Level: </translation>
+      <translation>Nivel: </translation>
     </message>
     <message>
       <source>Analyze all symbols (aa)</source>
-      <translation type="unfinished">Analyze all symbols (aa)</translation>
+      <translation>Analiza tuturor simbolurilor (aa)</translation>
     </message>
     <message>
       <source>Analyze for references (aar)</source>
-      <translation type="unfinished">Analyze for references (aar)</translation>
+      <translation>Analiza pentru referinţe (aar)</translation>
     </message>
     <message>
       <source>Analyze function calls (aac)</source>
-      <translation type="unfinished">Analyze function calls (aac)</translation>
+      <translation>Analiza apelări de funcţii (aac)</translation>
     </message>
     <message>
       <source>Analyze all basic blocks (aab)</source>
-      <translation type="unfinished">Analyze all basic blocks (aab)</translation>
+      <translation>Analiza toate blocurile de baza (aab)</translation>
     </message>
     <message>
       <source>Autorename functions based on context (aan)</source>
-      <translation type="unfinished">Autorename functions based on context (aan)</translation>
+      <translation>Auto-redenumește funcțiile pe baza contextului (aan)</translation>
     </message>
     <message>
       <source>Experimental:</source>
-      <translation type="unfinished">Experimental:</translation>
+      <translation>Experimental:</translation>
     </message>
     <message>
       <source>Emulate code to find computed references (aae)</source>
-      <translation type="unfinished">Emulate code to find computed references (aae)</translation>
+      <translation>Emuleaza cod pentru a găsi referințe computate (aae)</translation>
     </message>
     <message>
       <source>Analyze for consecutive function (aat)</source>
-      <translation type="unfinished">Analyze for consecutive function (aat)</translation>
+      <translation>Analiza pentru funcție consecutiva (aat)</translation>
     </message>
     <message>
       <source>Type and Argument matching analysis (afta)</source>
-      <translation type="unfinished">Type and Argument matching analysis (afta)</translation>
+      <translation>Analiza de matching pentru tip și argument (afta)</translation>
     </message>
     <message>
       <source>Analyze code after trap-sleds (aaT)</source>
-      <translation type="unfinished">Analyze code after trap-sleds (aaT)</translation>
+      <translation>Analizează cod după trap-sleds (aaT)</translation>
     </message>
     <message>
       <source>Analyze function preludes (aap)</source>
-      <translation type="unfinished">Analyze function preludes (aap)</translation>
+      <translation>Analizează preludiul funcției (aap)</translation>
     </message>
     <message>
       <source>Analyze jump tables in switch statements (e! anal.jmptbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (e! anal.jmptbl)</translation>
+      <translation>Analizează tabele pentru jump in switch statements (e! anal.jmptbl)</translation>
     </message>
     <message>
       <source>Analyze push+ret as jmp (e! anal.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (e! anal.pushret)</translation>
+      <translation>Analizează push+ret ca si jmp (e! anal.pushret)</translation>
     </message>
     <message>
       <source>Continue analysis after each function (e! anal.hasnext)</source>
-      <translation type="unfinished">Continue analysis after each function (e! anal.hasnext)</translation>
+      <translation>Continua analiza după fiecare funcție (e! anal.hasnext)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="322"/>
       <source>Load in write mode (-w)</source>
-      <translation type="unfinished">Load in write mode (-w)</translation>
+      <translation>Încarcă in write mode (-w)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="332"/>
       <source>Do not load bin information (-n)</source>
-      <translation type="unfinished">Do not load bin information (-n)</translation>
+      <translation>Nu încarcă informații bin (-n)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="345"/>
       <source>Use virtual addressing</source>
-      <translation type="unfinished">Use virtual addressing</translation>
+      <translation>Folosește adrese virtuale</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="355"/>
       <source>Import demangled symbols</source>
-      <translation type="unfinished">Import demangled symbols</translation>
+      <translation>Importeaza simboluri corectate</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="372"/>
@@ -3671,12 +3669,12 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="403"/>
       <source>Advanced options</source>
-      <translation type="unfinished">Advanced options</translation>
+      <translation>Opțiuni avansate</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="433"/>
       <source>CPU options</source>
-      <translation type="unfinished">CPU options</translation>
+      <translation>Opţiuni de CPU</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="448"/>
@@ -3691,17 +3689,17 @@ WARNING: In write mode any changes will be commited to disk</translation>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="637"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="37"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>Auto</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="473"/>
       <source>CPU:</source>
-      <translation type="unfinished">CPU:</translation>
+      <translation>Procesor:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="524"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="529"/>
@@ -3721,7 +3719,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="553"/>
       <source>Endianness: </source>
-      <translation type="unfinished">Endianness: </translation>
+      <translation>Endianness: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="572"/>
@@ -3736,7 +3734,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="598"/>
       <source>Kernel: </source>
-      <translation type="unfinished">Kernel: </translation>
+      <translation>Kernel: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="626"/>
@@ -3746,62 +3744,62 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="680"/>
       <source>Load bin offset (-B)</source>
-      <translation type="unfinished">Load bin offset (-B)</translation>
+      <translation>Încărcare bin offset (-B)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="699"/>
       <source>1024</source>
-      <translation type="unfinished">1024</translation>
+      <translation>1024</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="718"/>
       <source>Map offset (-m)</source>
-      <translation type="unfinished">Map offset (-m)</translation>
+      <translation>Harta offset (-m)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="734"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="741"/>
       <source>Load PDB</source>
-      <translation type="unfinished">Load PDB</translation>
+      <translation>Încărcare PDB</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="766"/>
       <source>PDB File path</source>
-      <translation type="unfinished">PDB File path</translation>
+      <translation>Path fisier PDB</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="815"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>Selectează</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="783"/>
       <source>Load script file</source>
-      <translation type="unfinished">Load script file</translation>
+      <translation>Încarcă script</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="808"/>
       <source>Path to radare2 script file</source>
-      <translation type="unfinished">Path to radare2 script file</translation>
+      <translation>Path către Radare2 script</translation>
     </message>
     <message>
       <source>BasicBlock maxsize:</source>
-      <translation type="unfinished">BasicBlock maxsize:</translation>
+      <translation>BasicBlock mărime maxima:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="871"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Anulează</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="884"/>
       <source>  Ok  </source>
-      <translation type="unfinished">  Ok  </translation>
+      <translation>  Ok  </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="54"/>
@@ -3881,89 +3879,89 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="318"/>
       <source>No analysis</source>
-      <translation type="unfinished">No analysis</translation>
+      <translation>Nici o analiza</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="320"/>
       <source>Auto-Analysis (aaa)</source>
-      <translation type="unfinished">Auto-Analysis (aaa)</translation>
+      <translation>Auto-analiză (aaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="322"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
-      <translation type="unfinished">Auto-Analysis Experimental (aaaa)</translation>
+      <translation>Auto-analiză experimentală (aaaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="324"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Avansat</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="326"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Necunoscut</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="332"/>
       <source>Level</source>
-      <translation type="unfinished">Level</translation>
+      <translation>Nivel</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="335"/>
       <source>Analysis: Disabled</source>
-      <translation type="unfinished">Analysis: Disabled</translation>
+      <translation>Analiza: dezactivata</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="381"/>
       <source>Select PDB file</source>
-      <translation type="unfinished">Select PDB file</translation>
+      <translation>Selectează fișier PDB</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="382"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>Fişier PPB (*.pdb)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="382"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="405"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>Toate fişierele (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="404"/>
       <source>Select radare2 script file</source>
-      <translation type="unfinished">Select radare2 script file</translation>
+      <translation>Selecteaza script radare2</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="405"/>
       <source>Script file (*.r2)</source>
-      <translation type="unfinished">Script file (*.r2)</translation>
+      <translation>Fisier script (*.r2)</translation>
     </message>
   </context>
   <context>
     <name>JupyterWebView</name>
     <message>
       <source>Jupyter</source>
-      <translation type="unfinished">Jupyter</translation>
+      <translation>Jupyter</translation>
     </message>
   </context>
   <context>
     <name>JupyterWidget</name>
     <message>
       <source>Jupyter</source>
-      <translation type="unfinished">Jupyter</translation>
+      <translation>Jupyter</translation>
     </message>
     <message>
       <source>Cutter has been built without QtWebEngine.&lt;br /&gt;Open the following URL in your Browser to use Jupyter:&lt;br /&gt;&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-      <translation type="unfinished">Cutter has been built without QtWebEngine.&lt;br /&gt;Open the following URL in your Browser to use Jupyter:&lt;br /&gt;&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+      <translation>Cutter a fost construit fără QtWebEngine.&lt;br /&gt;deschide următoarea adresă URL în Browser pentru a utiliza Jupyter:&lt;br /&gt;&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
       <source>An error occurred while opening jupyter. Make sure Jupyter is installed system-wide.</source>
-      <translation type="unfinished">An error occurred while opening jupyter. Make sure Jupyter is installed system-wide.</translation>
+      <translation>Eroare la deschiderea jupyter. Asiguraţi-vă că este instalat Jupyter sistem-wide.</translation>
     </message>
     <message>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Eroare</translation>
     </message>
   </context>
   <context>
@@ -4025,18 +4023,18 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation type="unfinished">Add extra...</translation>
+      <translation>Adauga extra...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>Fisier</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="79"/>
       <location filename="../core/MainWindow.cpp" line="221"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>Afisare</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="86"/>
@@ -4046,7 +4044,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="106"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>Ajutor</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
@@ -4057,7 +4055,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="123"/>
       <source>Windows</source>
-      <translation type="unfinished">Windows</translation>
+      <translation>Windows</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="127"/>
@@ -4067,42 +4065,42 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="132"/>
       <source>Info...</source>
-      <translation type="unfinished">Info...</translation>
+      <translation>Info...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="151"/>
       <source>Debug...</source>
-      <translation type="unfinished">Debug...</translation>
+      <translation>Debug...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="186"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Debug</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset Layout</source>
-      <translation type="unfinished">Reset Layout</translation>
+      <translation>Resetare Layout</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="235"/>
       <source>Reset layout</source>
-      <translation type="unfinished">Reset layout</translation>
+      <translation>Resetare Layout</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen Mode</source>
-      <translation type="unfinished">Zen Mode</translation>
+      <translation>Modul Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="243"/>
       <source>Zen mode</source>
-      <translation type="unfinished">Zen mode</translation>
+      <translation>Modul Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="248"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>Despre</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="253"/>
@@ -4112,74 +4110,74 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="258"/>
       <source>New</source>
-      <translation type="unfinished">New</translation>
+      <translation>Nou</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="261"/>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="266"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Închide</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="271"/>
       <location filename="../core/MainWindow.ui" line="274"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>Salvează aspect</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="279"/>
       <source>Documentation</source>
-      <translation type="unfinished">Documentation</translation>
+      <translation>Documentaţie</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="284"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>Deschide</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="287"/>
       <source>Ctrl+O</source>
-      <translation type="unfinished">Ctrl+O</translation>
+      <translation>Ctrl+O</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="292"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>Salvează</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="295"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="353"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>Anulează cautare(seek)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="365"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>Reface cautare(seek)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="300"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>Decupează</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="305"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copiază</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="310"/>
       <location filename="../core/MainWindow.ui" line="637"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Inserează</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="315"/>
@@ -4190,249 +4188,249 @@ WARNING: In write mode any changes will be commited to disk</translation>
       <location filename="../core/MainWindow.ui" line="320"/>
       <location filename="../core/MainWindow.ui" line="323"/>
       <source>Select all</source>
-      <translation type="unfinished">Select all</translation>
+      <translation>Selectează tot</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="328"/>
       <source>Find</source>
-      <translation type="unfinished">Find</translation>
+      <translation>Cauta</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="333"/>
       <location filename="../core/MainWindow.ui" line="336"/>
       <source>Find next</source>
-      <translation type="unfinished">Find next</translation>
+      <translation>Următorul rezultat</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="341"/>
       <location filename="../core/MainWindow.ui" line="344"/>
       <source>Find previous</source>
-      <translation type="unfinished">Find previous</translation>
+      <translation>Rezultatul anterior</translation>
     </message>
     <message>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Înapoi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="356"/>
       <source>Go back</source>
-      <translation type="unfinished">Go back</translation>
+      <translation>Înapoi</translation>
     </message>
     <message>
       <source>Forward</source>
-      <translation type="unfinished">Forward</translation>
+      <translation>Mergi înainte</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="376"/>
       <source>Unlock Panels</source>
-      <translation type="unfinished">Unlock Panels</translation>
+      <translation>Deblochează panouri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="379"/>
       <source>Toggle panel locks</source>
-      <translation type="unfinished">Toggle panel locks</translation>
+      <translation>Comuteaza lacăt pe panouri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="394"/>
       <location filename="../core/MainWindow.ui" line="397"/>
       <source>Lock/Unlock</source>
-      <translation type="unfinished">Lock/Unlock</translation>
+      <translation>Blocare/deblocare</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="405"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>String</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="408"/>
       <source>Show/Hide Strings panel</source>
-      <translation type="unfinished">Show/Hide Strings panel</translation>
+      <translation>Arata/ascunde panoul de Strings</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="416"/>
       <source>Sections</source>
-      <translation type="unfinished">Sections</translation>
+      <translation>Sectiuni</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="419"/>
       <source>Show/Hide Sections panel</source>
-      <translation type="unfinished">Show/Hide Sections panel</translation>
+      <translation>Arata/ascunde panoul de sectiuni</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
       <source>Segments</source>
-      <translation type="unfinished">Segments</translation>
+      <translation>Segmente</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="430"/>
       <source>Show/Hide Segments panel</source>
-      <translation type="unfinished">Show/Hide Segments panel</translation>
+      <translation>Arata/ascunde panoul de segmente</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Functions</source>
-      <translation type="unfinished">Functions</translation>
+      <translation>Funcţii</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="441"/>
       <source>Show/Hide Functions panel</source>
-      <translation type="unfinished">Show/Hide Functions panel</translation>
+      <translation>Arata/ascunde panoul de functii</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="449"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>Importuri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="452"/>
       <source>Show/Hide Imports panel</source>
-      <translation type="unfinished">Show/Hide Imports panel</translation>
+      <translation>Arata/ascunde panoul de importuri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="460"/>
       <source>Symbols</source>
-      <translation type="unfinished">Symbols</translation>
+      <translation>Simboluri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="463"/>
       <source>Show/Hide Symbols panel</source>
-      <translation type="unfinished">Show/Hide Symbols panel</translation>
+      <translation>Arata/ascunde panoul de simboluri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
       <source>Relocs</source>
-      <translation type="unfinished">Relocs</translation>
+      <translation>Relocs</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="474"/>
       <source>Show/Hide Relocs panel</source>
-      <translation type="unfinished">Show/Hide Relocs panel</translation>
+      <translation>Arata/ascunde panoul de relocs</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="482"/>
       <source>Flags</source>
-      <translation type="unfinished">Flags</translation>
+      <translation>Steaguri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="485"/>
       <source>Show/Hide Flags panel</source>
-      <translation type="unfinished">Show/Hide Flags panel</translation>
+      <translation>Arata/ascunde panoul de steaguri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="493"/>
       <source>Memory</source>
-      <translation type="unfinished">Memory</translation>
+      <translation>Memorie</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="496"/>
       <source>Show/Hide Memory panel</source>
-      <translation type="unfinished">Show/Hide Memory panel</translation>
+      <translation>Arata/ascunde panoul de memorie</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Theme</source>
-      <translation type="unfinished">Theme</translation>
+      <translation>Temă</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
       <location filename="../core/MainWindow.ui" line="526"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>Tabs sus/jos</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="535"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Actualizează</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="543"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>Comentarii</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="546"/>
       <source>Show/Hide comments</source>
-      <translation type="unfinished">Show/Hide comments</translation>
+      <translation>Arată/ascunde comentarii</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="554"/>
       <source>Show Tabs at the Top</source>
-      <translation type="unfinished">Show Tabs at the Top</translation>
+      <translation>Arata taburi la început</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="557"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>Comuteaza poziția tab-ului</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="562"/>
       <source>Dark Theme</source>
-      <translation type="unfinished">Dark Theme</translation>
+      <translation>Temă "întunecată"</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="567"/>
       <location filename="../core/MainWindow.ui" line="570"/>
       <source>Load layout</source>
-      <translation type="unfinished">Load layout</translation>
+      <translation>Încarcă layout</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="575"/>
       <source>Default Theme</source>
-      <translation type="unfinished">Default Theme</translation>
+      <translation>Tema implicită</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="585"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>Analiză</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="590"/>
       <source>Test menu</source>
-      <translation type="unfinished">Test menu</translation>
+      <translation>Test meniu</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="595"/>
       <location filename="../core/MainWindow.ui" line="598"/>
       <source>Copy hexpair</source>
-      <translation type="unfinished">Copy hexpair</translation>
+      <translation>Copie hexpair</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="603"/>
       <location filename="../core/MainWindow.ui" line="606"/>
       <source>Copy text</source>
-      <translation type="unfinished">Copy text</translation>
+      <translation>Copiază textul</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="611"/>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>Copiaza ASCII</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="616"/>
       <location filename="../core/MainWindow.ui" line="619"/>
       <source>Insert string</source>
-      <translation type="unfinished">Insert string</translation>
+      <translation>Introduceți string</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="624"/>
       <location filename="../core/MainWindow.ui" line="627"/>
       <source>Insert hex</source>
-      <translation type="unfinished">Insert hex</translation>
+      <translation>Introduce hex</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="642"/>
       <source>Show/Hide bytes</source>
-      <translation type="unfinished">Show/Hide bytes</translation>
+      <translation>Afișare/Ascundere bytes</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="647"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>Schimba caz</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
@@ -4452,33 +4450,33 @@ WARNING: In write mode any changes will be commited to disk</translation>
       <location filename="../core/MainWindow.ui" line="676"/>
       <location filename="../core/MainWindow.ui" line="679"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>Copie disasm</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="691"/>
       <location filename="../core/MainWindow.ui" line="694"/>
       <source>Start web server</source>
-      <translation type="unfinished">Start web server</translation>
+      <translation>Pornește web server-ul</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="699"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="704"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="709"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="714"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="719"/>
@@ -4498,7 +4496,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="734"/>
       <source>Syntax AT&amp;T/Intel</source>
-      <translation type="unfinished">Syntax AT&amp;T/Intel</translation>
+      <translation>Sintaxa AT&amp;T/Intel</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="739"/>
@@ -4521,97 +4519,97 @@ WARNING: In write mode any changes will be commited to disk</translation>
       <location filename="../core/MainWindow.ui" line="771"/>
       <location filename="../core/MainWindow.ui" line="774"/>
       <source>Show/Hide bottom pannel</source>
-      <translation type="unfinished">Show/Hide bottom pannel</translation>
+      <translation>Arată/ascunde panoul de jos</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="782"/>
       <source>SDB Browser</source>
-      <translation type="unfinished">SDB Browser</translation>
+      <translation>Browser-ul SDB</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="787"/>
       <source>Run Script</source>
-      <translation type="unfinished">Run Script</translation>
+      <translation>Execută script</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="795"/>
       <source>Dashboard</source>
-      <translation type="unfinished">Dashboard</translation>
+      <translation>Panou de control</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="798"/>
       <source>Show/Hide Dashboard panel</source>
-      <translation type="unfinished">Show/Hide Dashboard panel</translation>
+      <translation>Afiseaza/ascunde panoul de control</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="803"/>
       <source>Reset Settings</source>
-      <translation type="unfinished">Reset Settings</translation>
+      <translation>Resetare Setari</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="806"/>
       <source>Reset settings</source>
-      <translation type="unfinished">Reset settings</translation>
+      <translation>Reseteaza setari</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="811"/>
       <source>Quit</source>
-      <translation type="unfinished">Quit</translation>
+      <translation>Inchide</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="814"/>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="822"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>Exportă</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="825"/>
       <source>Show/Hide Exports panel</source>
-      <translation type="unfinished">Show/Hide Exports panel</translation>
+      <translation>Arata/ascunde panoul de exporturi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="830"/>
       <source>Refresh Contents</source>
-      <translation type="unfinished">Refresh Contents</translation>
+      <translation>Refresh conținut</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="833"/>
       <source>Refresh contents</source>
-      <translation type="unfinished">Refresh contents</translation>
+      <translation>Refresh conținut</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="841"/>
       <source>Show ESIL rather than assembly</source>
-      <translation type="unfinished">Show ESIL rather than assembly</translation>
+      <translation>Arata ESIL in loc de assembly</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="849"/>
       <source>Show pseudocode rather than assembly</source>
-      <translation type="unfinished">Show pseudocode rather than assembly</translation>
+      <translation>Arata pseudocode in loc de assembly</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="857"/>
       <source>Entry Points</source>
-      <translation type="unfinished">Entry Points</translation>
+      <translation>Punct de Intrare</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="868"/>
       <source>Display offsets</source>
-      <translation type="unfinished">Display offsets</translation>
+      <translation>Arata offset-uri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="873"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Preferințe</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="878"/>
       <source>Save As...</source>
-      <translation type="unfinished">Save As...</translation>
+      <translation>Salvează ca...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="894"/>
@@ -4675,7 +4673,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     </message>
     <message>
       <source>Tmp</source>
-      <translation type="unfinished">Tmp</translation>
+      <translation>Tmp</translation>
     </message>
     <message>
       <source>Disassembly</source>
@@ -4684,39 +4682,39 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="886"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Grafic</translation>
     </message>
     <message>
       <source>Pseudocode</source>
-      <translation type="unfinished">Pseudocode</translation>
+      <translation>Pseudocod</translation>
     </message>
     <message>
       <source>Hexdump</source>
-      <translation type="unfinished">Hexdump</translation>
+      <translation>Hexdump</translation>
     </message>
     <message>
       <source>Sidebar</source>
-      <translation type="unfinished">Sidebar</translation>
+      <translation>Bară laterală</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="910"/>
       <source>Console</source>
-      <translation type="unfinished">Console</translation>
+      <translation>Consolă</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="918"/>
       <source>Stack</source>
-      <translation type="unfinished">Stack</translation>
+      <translation>Stack</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="926"/>
       <source>Registers</source>
-      <translation type="unfinished">Registers</translation>
+      <translation>Regiștri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="934"/>
       <source>Backtrace</source>
-      <translation type="unfinished">Backtrace</translation>
+      <translation>Backtrace</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="942"/>
@@ -4731,144 +4729,143 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="958"/>
       <source>Memory map</source>
-      <translation type="unfinished">Memory map</translation>
+      <translation>Harta memorie</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="966"/>
       <source>Breakpoints</source>
-      <translation type="unfinished">Breakpoints</translation>
+      <translation>Breakpoints</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="974"/>
       <source>Register References</source>
-      <translation type="unfinished">Register References</translation>
+      <translation>Referințe registru</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="982"/>
       <source>Classes</source>
-      <translation type="unfinished">Classes</translation>
+      <translation>Clase</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="987"/>
       <source>Import PDB</source>
-      <translation type="unfinished">Import PDB</translation>
+      <translation>Import PDB</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="992"/>
       <source>Analyze</source>
-      <translation type="unfinished">Analyze</translation>
+      <translation>Analizează</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1000"/>
       <source>Resources</source>
-      <translation type="unfinished">Resources</translation>
+      <translation>Resurse</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1008"/>
       <source>VTables</source>
-      <translation type="unfinished">VTables</translation>
+      <translation>VTable</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1011"/>
       <source>Show/Hide VTables panel</source>
-      <translation type="unfinished">Show/Hide VTables panel</translation>
+      <translation>Arata/ascunde panoul de VTables</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1019"/>
       <source>Types</source>
-      <translation type="unfinished">Types</translation>
+      <translation>Tipuri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1022"/>
       <source>Show/Hide Types panel</source>
-      <translation type="unfinished">Show/Hide Types panel</translation>
+      <translation>Arata/ascunde panoul de tipuri</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1030"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Căutare</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1033"/>
       <source>Show/Hide Search panel</source>
-      <translation type="unfinished">Show/Hide Search panel</translation>
+      <translation>Arata/ascunde panoul de search</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1041"/>
       <source>Headers</source>
-      <translation type="unfinished">Headers</translation>
+      <translation>Headers</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1044"/>
       <source>Show/Hide Headers panel</source>
-      <translation type="unfinished">Show/Hide Headers panel</translation>
+      <translation>Arata/ascunde panoul de headers</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1052"/>
       <source>Zignatures</source>
-      <translation type="unfinished">Zignatures</translation>
+      <translation>Zignatures</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1055"/>
       <source>Show/Hide Zignatures panel</source>
-      <translation type="unfinished">Show/Hide Zignatures panel</translation>
+      <translation>Arata/ascunde panoul de zignatures</translation>
     </message>
     <message>
       <source>Jupyter</source>
-      <translation type="unfinished">Jupyter</translation>
+      <translation>Jupyter</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1060"/>
       <location filename="../core/MainWindow.cpp" line="1509"/>
       <source>Export as code</source>
-      <translation type="unfinished">Export as code</translation>
+      <translation>Export ca și cod</translation>
     </message>
     <message>
       <source>Hexdump view</source>
-      <translation type="unfinished">Hexdump view</translation>
+      <translation>Hexdump view</translation>
     </message>
     <message>
       <source>Disassembly view</source>
-      <translation type="unfinished">Disassembly view</translation>
+      <translation>Disassembly view</translation>
     </message>
     <message>
       <source>Graph view</source>
-      <translation type="unfinished">Graph view</translation>
+      <translation>Graph view</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="462"/>
       <source>Script loading</source>
-      <translation type="unfinished">Script loading</translation>
+      <translation>Scriptul se incarca</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="463"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
-      <translation type="unfinished">Do you want to load the &apos;%1&apos; script?</translation>
+      <translation>Vrei sa incarci &apos;%1&apos; scriptul?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="481"/>
       <source>Cannot open file!</source>
-      <translation type="unfinished">Cannot open file!</translation>
+      <translation>Nu am putut deschide fișierul!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="483"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
-      <translation type="unfinished">Could not open the file! Make sure the file exists and that you have the correct permissions.</translation>
+      <translation>Nu am putut deschide fișierul. Asigură-te ca fișierul exista și ca ai permisiunile necesare.</translation>
     </message>
     <message>
       <source> &gt; Populating UI</source>
-      <translation type="unfinished"> &gt; Populating UI</translation>
+      <translation> &gt; UI este populat</translation>
     </message>
     <message>
       <source> &gt; Finished, happy reversing :)</source>
-      <translation type="unfinished"> &gt; Finished, happy reversing :)</translation>
+      <translation> &gt; Am terminat, reversing fericit :)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="626"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
-      <translation type="unfinished">Do you really want to exit?
-Save your project before closing!</translation>
+      <translation>Ești sigur ca vrei sa ieși? Salvează proiectul înainte sa închizi!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="958"/>
@@ -4888,106 +4885,106 @@ Save your project before closing!</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="1348"/>
       <source>Select radare2 script</source>
-      <translation type="unfinished">Select radare2 script</translation>
+      <translation>Selecteaza script radare2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1392"/>
       <source>Do you really want to clear all settings?</source>
-      <translation type="unfinished">Do you really want to clear all settings?</translation>
+      <translation>Eşti sigur că vrei să resetezi setările?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1463"/>
       <source>Select PDB file</source>
-      <translation type="unfinished">Select PDB file</translation>
+      <translation>Selectează fișier PDB</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1464"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>Fişier PPB (*.pdb)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1464"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>Toate fişierele (*)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1474"/>
       <source>%1 loaded.</source>
-      <translation type="unfinished">%1 loaded.</translation>
+      <translation>%1 încărcat.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1484"/>
       <source>C uin8_t array (*.c)</source>
-      <translation type="unfinished">C uin8_t array (*.c)</translation>
+      <translation>C uin8_t array (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1486"/>
       <source>C uin16_t array (*.c)</source>
-      <translation type="unfinished">C uin16_t array (*.c)</translation>
+      <translation>C uin16_t array (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1488"/>
       <source>C uin32_t array (*.c)</source>
-      <translation type="unfinished">C uin32_t array (*.c)</translation>
+      <translation>C uin32_t array (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1490"/>
       <source>C uin64_t array (*.c)</source>
-      <translation type="unfinished">C uin64_t array (*.c)</translation>
+      <translation>C uin64_t array (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1492"/>
       <source>C string (*.c)</source>
-      <translation type="unfinished">C string (*.c)</translation>
+      <translation>C string (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1494"/>
       <source>Shell-script that reconstructs the bin (*.sh)</source>
-      <translation type="unfinished">Shell-script that reconstructs the bin (*.sh)</translation>
+      <translation>Shell-script care reconstruieste bin (*.sh)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1496"/>
       <source>JSON array (*.json)</source>
-      <translation type="unfinished">JSON array (*.json)</translation>
+      <translation>JSON array (*.json)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1498"/>
       <source>JavaScript array (*.js)</source>
-      <translation type="unfinished">JavaScript array (*.js)</translation>
+      <translation>JavaScript array (*.js)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1500"/>
       <source>Python array (*.py)</source>
-      <translation type="unfinished">Python array (*.py)</translation>
+      <translation>Python array (*.py)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1502"/>
       <source>Print &apos;wx&apos; r2 commands (*.r2)</source>
-      <translation type="unfinished">Print &apos;wx&apos; r2 commands (*.r2)</translation>
+      <translation>Printeaza &apos;wx&apos; comenzi r2 (*.r2)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1504"/>
       <source>GAS .byte blob (*.asm, *.s)</source>
-      <translation type="unfinished">GAS .byte blob (*.asm, *.s)</translation>
+      <translation>GAS .byte blob (*.asm, *.s)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1506"/>
       <source>.bytes with instructions in comments (*.txt)</source>
-      <translation type="unfinished">.bytes with instructions in comments (*.txt)</translation>
+      <translation>.bytes cu instructiuni in comentarii (*.txt)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
       <source>Project saved: %1</source>
-      <translation type="unfinished">Project saved: %1</translation>
+      <translation>Proiect salvat: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1556"/>
       <source>Failed to save project: %1</source>
-      <translation type="unfinished">Failed to save project: %1</translation>
+      <translation>Eşuarea salvării proiectului: %1</translation>
     </message>
     <message>
       <source>Project saved:</source>
-      <translation type="unfinished">Project saved:</translation>
+      <translation>Proiect salvat:</translation>
     </message>
   </context>
   <context>
@@ -5003,12 +5000,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="57"/>
       <source>Offset start</source>
-      <translation type="unfinished">Offset start</translation>
+      <translation>Offset start</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="59"/>
       <source>Offset end</source>
-      <translation type="unfinished">Offset end</translation>
+      <translation>Offset sfarsit</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="61"/>
@@ -5061,7 +5058,7 @@ Save your project before closing!</translation>
       <location filename="../dialogs/NewfileDialog.ui" line="20"/>
       <location filename="../dialogs/NewfileDialog.ui" line="149"/>
       <source>Open File</source>
-      <translation type="unfinished">Open File</translation>
+      <translation>Deschide fisier</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="79"/>
@@ -5072,78 +5069,78 @@ Save your project before closing!</translation>
       <location filename="../dialogs/NewfileDialog.ui" line="182"/>
       <location filename="../dialogs/NewfileDialog.ui" line="390"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>Selectează</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="169"/>
       <source>&lt;b&gt;Select new file&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Select new file&lt;b&gt;</translation>
+      <translation>&lt;b&gt;selectaţi fişier nou&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="202"/>
       <source>&lt;b&gt;IO&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;IO&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;IO&lt;/b&gt;</translation>
     </message>
     <message>
       <source>://</source>
-      <translation type="unfinished">://</translation>
+      <translation>://</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation type="unfinished">Don&apos;t open any file</translation>
+      <translation>Nu deschide nici un fișier</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="303"/>
       <location filename="../dialogs/NewfileDialog.ui" line="360"/>
       <location filename="../dialogs/NewfileDialog.ui" line="504"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>Deschide</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="316"/>
       <source>Open Shellcode</source>
-      <translation type="unfinished">Open Shellcode</translation>
+      <translation>Deschide shellcode</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="328"/>
       <source>&lt;b&gt;Paste Shellcode&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Paste Shellcode&lt;b&gt;</translation>
+      <translation>&lt;b&gt;Paste Shellcode&lt;b&amp;gt</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="370"/>
       <source>Projects</source>
-      <translation type="unfinished">Projects</translation>
+      <translation>Proiecte</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="413"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Path proiecte (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="522"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>Înlătură elementul</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="527"/>
       <source>Clear all</source>
-      <translation type="unfinished">Clear all</translation>
+      <translation>Sterge tot</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="532"/>
       <source>Delete project</source>
-      <translation type="unfinished">Delete project</translation>
+      <translation>Şterge proiect-ul</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="94"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>Selectaţi fişierul</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="111"/>
       <source>Select project path (dir.projects)</source>
-      <translation type="unfinished">Select project path (dir.projects)</translation>
+      <translation>Selectează path proiect (dir.projects)</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="118"/>
@@ -5158,17 +5155,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="233"/>
       <source>Delete the project &quot;%1&quot; from disk ?</source>
-      <translation type="unfinished">Delete the project &quot;%1&quot; from disk ?</translation>
+      <translation>Șterge proiectul &quot;%1&quot; de pe disc?</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="339"/>
       <source>Open a file with no extra treatment.</source>
-      <translation type="unfinished">Open a file with no extra treatment.</translation>
+      <translation>Deschide fișier fara tratament suplimentar.</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="366"/>
       <source>Select a new program or a previous one before continuing.</source>
-      <translation type="unfinished">Select a new program or a previous one before continuing.</translation>
+      <translation>Selectaţi un program nou sau unul anterior înainte de a continua.</translation>
     </message>
   </context>
   <context>
@@ -5176,7 +5173,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/Omnibar.cpp" line="18"/>
       <source>Type flag name or address here</source>
-      <translation type="unfinished">Type flag name or address here</translation>
+      <translation>Tastează nume steag sau adresa aici</translation>
     </message>
   </context>
   <context>
@@ -5185,13 +5182,13 @@ Save your project before closing!</translation>
       <location filename="../dialogs/OpenFileDialog.ui" line="14"/>
       <location filename="../dialogs/OpenFileDialog.cpp" line="38"/>
       <source>Open file</source>
-      <translation type="unfinished">Open file</translation>
+      <translation>Deschide fișier</translation>
     </message>
     <message>
       <location filename="../dialogs/OpenFileDialog.ui" line="52"/>
       <location filename="../dialogs/OpenFileDialog.cpp" line="20"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>Selectează fișier</translation>
     </message>
     <message>
       <location filename="../dialogs/OpenFileDialog.ui" line="59"/>
@@ -5205,12 +5202,12 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Map address</source>
-      <translation type="unfinished">Map address</translation>
+      <translation>Mapeaza adresa</translation>
     </message>
     <message>
       <location filename="../dialogs/OpenFileDialog.ui" line="72"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/OpenFileDialog.cpp" line="38"/>
@@ -5284,22 +5281,22 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="72"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="74"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="76"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>Status</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="78"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Path</translation>
     </message>
   </context>
   <context>
@@ -5338,31 +5335,31 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Actualizează</translation>
     </message>
     <message>
       <source>Decompiler:</source>
-      <translation type="unfinished">Decompiler:</translation>
+      <translation>Decompiler:</translation>
     </message>
     <message>
       <source>r2dec</source>
-      <translation type="unfinished">r2dec</translation>
+      <translation>r2dec</translation>
     </message>
     <message>
       <source>pdc</source>
-      <translation type="unfinished">pdc</translation>
+      <translation>pdc</translation>
     </message>
     <message>
       <source>Click Refresh to generate Pseudocode from current offset.</source>
-      <translation type="unfinished">Click Refresh to generate Pseudocode from current offset.</translation>
+      <translation>Click actualizează ca să generezi pseudocode de la offsetul curent.</translation>
     </message>
     <message>
       <source>Cannot decompile at</source>
-      <translation type="unfinished">Cannot decompile at</translation>
+      <translation>Nu s-a putut decompila la</translation>
     </message>
     <message>
       <source>(Not a function?)</source>
-      <translation type="unfinished">(Not a function?)</translation>
+      <translation>(Nu e funcție?)</translation>
     </message>
   </context>
   <context>
@@ -5370,22 +5367,22 @@ Save your project before closing!</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="73"/>
       <source>A Qt and C++ GUI for radare2 reverse engineering framework</source>
-      <translation type="unfinished">A Qt and C++ GUI for radare2 reverse engineering framework</translation>
+      <translation>Un QT și C++ GUI reverse engineering framework pentru radare2</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="76"/>
       <source>Filename to open.</source>
-      <translation type="unfinished">Filename to open.</translation>
+      <translation>Numele fișierului de deschis.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="79"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation type="unfinished">Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</translation>
+      <translation>Deschide fișier automat și opțional începe analiza. Trebuie sa specifici numele fișierului. Poate fi o valoare între 0 și 2: 0 = nici o analiza, 1 = aaa, 2 = aaaa (experimental)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="80"/>
       <source>level</source>
-      <translation type="unfinished">level</translation>
+      <translation>nivel</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="84"/>
@@ -5400,12 +5397,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="89"/>
       <source>Run script file</source>
-      <translation type="unfinished">Run script file</translation>
+      <translation>Execută script</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="90"/>
       <source>file</source>
-      <translation type="unfinished">file</translation>
+      <translation>fisier</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="93"/>
@@ -5414,32 +5411,32 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>PYTHONHOME to use for Jupyter</source>
-      <translation type="unfinished">PYTHONHOME to use for Jupyter</translation>
+      <translation>PYTHONHOME pentru Jupyter</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="108"/>
       <source>Version mismatch!</source>
-      <translation type="unfinished">Version mismatch!</translation>
+      <translation>Versiunile nu sunt aceleași!</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="110"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of radare2 (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation type="unfinished">The version used to compile Cutter (%1) does not match the binary version of radare2 (%2). This could result in unexpected behaviour. Are you sure you want to continue?</translation>
+      <translation>Versiunea folosita pentru a compila Cutter(%1) nu se potrivește cu versiunea binara a lui Radare2(%2). Asta poate duce la comportament neașteptat. Ești sigur ca vrei sa continui?</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="151"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
-      <translation type="unfinished">Invalid Analysis Level. May be a value between 0 and 2.</translation>
+      <translation>Nivel de analiza invalid. Trebuie sa fie o valoare între 0 și 2.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="173"/>
       <source>Filename must be specified to start analysis automatically.</source>
-      <translation type="unfinished">Filename must be specified to start analysis automatically.</translation>
+      <translation>Numele fișierului trebuie sa fie specificat la începutul analizei automate.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Color of comment generated by radare2</source>
-      <translation type="unfinished">Color of comment generated by radare2</translation>
+      <translation>Culoarea comentariului generat de radare 2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
@@ -5449,25 +5446,25 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Comment created by user</source>
-      <translation type="unfinished">Comment created by user</translation>
+      <translation>Comentariu creat de user</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Color of user Comment</source>
-      <translation type="unfinished">Color of user Comment</translation>
+      <translation>Culoarea userului comment</translation>
     </message>
     <message>
       <source>Color of function arguments</source>
-      <translation type="unfinished">Color of function arguments</translation>
+      <translation>Culoarea argumentelor functiilor</translation>
     </message>
     <message>
       <source>Arguments</source>
-      <translation type="unfinished">Arguments</translation>
+      <translation>Argumente</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
       <source>Color of names of functions</source>
-      <translation type="unfinished">Color of names of functions</translation>
+      <translation>Culoarea numelor funcțiilor</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
@@ -5477,12 +5474,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>Color of function location</source>
-      <translation type="unfinished">Color of function location</translation>
+      <translation>Culoarea locațiilor funcțiilor</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Function location</source>
-      <translation type="unfinished">Function location</translation>
+      <translation>Locație funcție</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
@@ -5497,17 +5494,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
       <source>Color of flags (similar to bookmarks for offset)</source>
-      <translation type="unfinished">Color of flags (similar to bookmarks for offset)</translation>
+      <translation>Culoarea steagurile (similar cu bookmarks pentru offset)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>Flag</source>
-      <translation type="unfinished">Flag</translation>
+      <translation>Steag</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Etichetă</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="455"/>
@@ -5516,12 +5513,12 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>flow</source>
-      <translation type="unfinished">flow</translation>
+      <translation>flow</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="467"/>
       <source>flow2</source>
-      <translation type="unfinished">flow2</translation>
+      <translation>flow2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
@@ -5532,12 +5529,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
       <source>prompt</source>
-      <translation type="unfinished">prompt</translation>
+      <translation>prompt</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="478"/>
       <source>Color of offsets</source>
-      <translation type="unfinished">Color of offsets</translation>
+      <translation>Culoarea offset-urilor</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
@@ -5547,129 +5544,129 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="485"/>
       <source>input</source>
-      <translation type="unfinished">input</translation>
+      <translation>input</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="490"/>
       <source>Invalid opcode color</source>
-      <translation type="unfinished">Invalid opcode color</translation>
+      <translation>Culoare opcode invalid</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>invalid</source>
-      <translation type="unfinished">invalid</translation>
+      <translation>invalid</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>other</source>
-      <translation type="unfinished">other</translation>
+      <translation>altele</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="502"/>
       <source>0x00 opcode color</source>
-      <translation type="unfinished">0x00 opcode color</translation>
+      <translation>0x00 opcode culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
       <source>0x7f opcode color</source>
-      <translation type="unfinished">0x7f opcode color</translation>
+      <translation>0x7f culoare opcode</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="514"/>
       <source>0xff opcode color</source>
-      <translation type="unfinished">0xff opcode color</translation>
+      <translation>0xff opcode culoare</translation>
     </message>
     <message>
       <source>arithmetic color (+, -, *, / etc.)</source>
-      <translation type="unfinished">arithmetic color (+, -, *, / etc.)</translation>
+      <translation>culoare aritmetica (+, -, *, / etc.)</translation>
     </message>
     <message>
       <source>bin</source>
-      <translation type="unfinished">bin</translation>
+      <translation>bin</translation>
     </message>
     <message>
       <source>btext</source>
-      <translation type="unfinished">btext</translation>
+      <translation>btext</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="539"/>
       <source>push opcode color</source>
-      <translation type="unfinished">push opcode color</translation>
+      <translation>push opcode culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="545"/>
       <source>pop opcode color</source>
-      <translation type="unfinished">pop opcode color</translation>
+      <translation>pop opcode culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="551"/>
       <source>Cryptographic color</source>
-      <translation type="unfinished">Cryptographic color</translation>
+      <translation>Cryptographic culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="557"/>
       <source>jmp instructions color</source>
-      <translation type="unfinished">jmp instructions color</translation>
+      <translation>jmp instrucțiune culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="569"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation type="unfinished">call instructions color (ccall, rcall, call etc)</translation>
+      <translation>call instrucțiune culoare (ccall, rcall, call etc)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="575"/>
       <source>nop opcode color</source>
-      <translation type="unfinished">nop opcode color</translation>
+      <translation>nop opcode culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="581"/>
       <source>ret opcode color</source>
-      <translation type="unfinished">ret opcode color</translation>
+      <translation>ret opcode culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="587"/>
       <source>Color of interrupts</source>
-      <translation type="unfinished">Color of interrupts</translation>
+      <translation>Culoare pentru interrupts</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="588"/>
       <source>Interrupts</source>
-      <translation type="unfinished">Interrupts</translation>
+      <translation>Interrupts</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="593"/>
       <source>swi opcode color</source>
-      <translation type="unfinished">swi opcode color</translation>
+      <translation>swi opcode culoare</translation>
     </message>
     <message>
       <source>cmp opcode color</source>
-      <translation type="unfinished">cmp opcode color</translation>
+      <translation>cmp opcode culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="605"/>
       <source>Registers color</source>
-      <translation type="unfinished">Registers color</translation>
+      <translation>Culoarea regiștri</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="606"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>Registru</translation>
     </message>
     <message>
       <source>Numeric constants color</source>
-      <translation type="unfinished">Numeric constants color</translation>
+      <translation>Culoarea constante numerice</translation>
     </message>
     <message>
       <source>Numbers</source>
-      <translation type="unfinished">Numbers</translation>
+      <translation>Numere</translation>
     </message>
     <message>
       <source>mov instructions color (mov, movd, movw etc</source>
-      <translation type="unfinished">mov instructions color (mov, movd, movw etc</translation>
+      <translation>mov instrucțiuni culoare (mov, movd, movw etc</translation>
     </message>
     <message>
       <source>mov</source>
-      <translation type="unfinished">mov</translation>
+      <translation>mov</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="460"/>
@@ -5754,62 +5751,62 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="629"/>
       <source>Function variable color</source>
-      <translation type="unfinished">Function variable color</translation>
+      <translation>Culoare funcție variabila</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="630"/>
       <source>Function variable</source>
-      <translation type="unfinished">Function variable</translation>
+      <translation>Funcție variabila</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="635"/>
       <source>Function variable (local or argument) type color</source>
-      <translation type="unfinished">Function variable (local or argument) type color</translation>
+      <translation>Funcție variabila(local sau argument) tip culoare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="636"/>
       <source>Variable type</source>
-      <translation type="unfinished">Variable type</translation>
+      <translation>Tip variabila</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="641"/>
       <source>Function variable address color</source>
-      <translation type="unfinished">Function variable address color</translation>
+      <translation>Funcție variabila culoare adresa</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="642"/>
       <source>Variable address</source>
-      <translation type="unfinished">Variable address</translation>
+      <translation>Adresa variabila</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="713"/>
       <source>In graph view jump arrow true</source>
-      <translation type="unfinished">In graph view jump arrow true</translation>
+      <translation>In panou grafic săgeată de salt adevărat</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="714"/>
       <source>Arrow true</source>
-      <translation type="unfinished">Arrow true</translation>
+      <translation>Săgeată adevarat</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="719"/>
       <source>In graph view jump arrow false</source>
-      <translation type="unfinished">In graph view jump arrow false</translation>
+      <translation>In panou grafic săgeată de salt fals</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="720"/>
       <source>Arrow false</source>
-      <translation type="unfinished">Arrow false</translation>
+      <translation>Săgeată fals</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="725"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation type="unfinished">In graph view jump arrow (no condition)</translation>
+      <translation>In grafic view săgeată pentru salt (fără condiție)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="726"/>
       <source>Arrow</source>
-      <translation type="unfinished">Arrow</translation>
+      <translation>Săgeată</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="743"/>
@@ -5844,12 +5841,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="773"/>
       <source>General background color</source>
-      <translation type="unfinished">General background color</translation>
+      <translation>Culoarea generala a fundalului</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="774"/>
       <source>Background</source>
-      <translation type="unfinished">Background</translation>
+      <translation>Fundal</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="779"/>
@@ -5873,17 +5870,17 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Alt. background</source>
-      <translation type="unfinished">Alt. background</translation>
+      <translation>Alt. fundal</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="785"/>
       <source>Background of current graph node</source>
-      <translation type="unfinished">Background of current graph node</translation>
+      <translation>Fundal pentru nodul grafic curent</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="786"/>
       <source>Current graph node</source>
-      <translation type="unfinished">Current graph node</translation>
+      <translation>Nodul grafic curent</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="791"/>
@@ -5898,50 +5895,50 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="797"/>
       <source>Selected line background color</source>
-      <translation type="unfinished">Selected line background color</translation>
+      <translation>Culoare fundal pentru linia selectata</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="798"/>
       <source>Line highlight</source>
-      <translation type="unfinished">Line highlight</translation>
+      <translation>Highlight linie</translation>
     </message>
     <message>
       <source>Highlighted word text color</source>
-      <translation type="unfinished">Highlighted word text color</translation>
+      <translation>Culoarea textului pentru cuvinte highlighted</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="804"/>
       <source>Word higlight</source>
-      <translation type="unfinished">Word higlight</translation>
+      <translation>Highlight cuvant</translation>
     </message>
     <message>
       <source>Color of main function color</source>
-      <translation type="unfinished">Color of main function color</translation>
+      <translation>Culoarea funcției principale</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="810"/>
       <source>Main</source>
-      <translation type="unfinished">Main</translation>
+      <translation>Main</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="857"/>
       <source>Code section color in navigation bar</source>
-      <translation type="unfinished">Code section color in navigation bar</translation>
+      <translation>Culoarea secțiunii de cod în bara de navigare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="858"/>
       <source>Navbar code</source>
-      <translation type="unfinished">Navbar code</translation>
+      <translation>Cod navbar</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="863"/>
       <source>Empty section color in navigation bar</source>
-      <translation type="unfinished">Empty section color in navigation bar</translation>
+      <translation>Culoare pentru secțiune goala în bara de navigare</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="864"/>
       <source>Navbar empty</source>
-      <translation type="unfinished">Navbar empty</translation>
+      <translation>Navbar gol</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="870"/>
@@ -5956,7 +5953,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="882"/>
       <source>Breakpoint background</source>
-      <translation type="unfinished">Breakpoint background</translation>
+      <translation>Fundal breakpoint</translation>
     </message>
     <message>
       <location filename="../common/CrashHandler.cpp" line="122"/>
@@ -6030,7 +6027,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Formular</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="41"/>
@@ -6040,7 +6037,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
   </context>
   <context>
@@ -6056,17 +6053,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="14"/>
       <source>radare2 plugin information</source>
-      <translation type="unfinished">radare2 plugin information</translation>
+      <translation>informații radare2 plugin</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="24"/>
       <source>RBin</source>
-      <translation type="unfinished">RBin</translation>
+      <translation>RBin</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="30"/>
       <source>RBin plugins</source>
-      <translation type="unfinished">RBin plugins</translation>
+      <translation>RBin pluginuri</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="41"/>
@@ -6089,7 +6086,7 @@ Save your project before closing!</translation>
       <location filename="../dialogs/R2PluginsDialog.ui" line="92"/>
       <location filename="../dialogs/R2PluginsDialog.ui" line="179"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>Licenta</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="56"/>
@@ -6099,12 +6096,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="65"/>
       <source>RIO</source>
-      <translation type="unfinished">RIO</translation>
+      <translation>RIO</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="71"/>
       <source>RIO plugins</source>
-      <translation type="unfinished">RIO plugins</translation>
+      <translation>RIO pluginuri</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="97"/>
@@ -6114,42 +6111,42 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="106"/>
       <source>RCore</source>
-      <translation type="unfinished">RCore</translation>
+      <translation>RCore</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="112"/>
       <source>RCore plugins</source>
-      <translation type="unfinished">RCore plugins</translation>
+      <translation>RCore pluginuri</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="137"/>
       <source>RAsm</source>
-      <translation type="unfinished">RAsm</translation>
+      <translation>RAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="143"/>
       <source>RAsm plugins</source>
-      <translation type="unfinished">RAsm plugins</translation>
+      <translation>RAsm pluginuri</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="159"/>
       <source>Architecture</source>
-      <translation type="unfinished">Architecture</translation>
+      <translation>Arhitectură</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="164"/>
       <source>CPU&apos;s</source>
-      <translation type="unfinished">CPU&apos;s</translation>
+      <translation>CPU&apos;s</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="169"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Versiune</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="184"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>Autor</translation>
     </message>
     <message>
       <source>Cutter</source>
@@ -6157,7 +6154,7 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Cutter plugins</source>
-      <translation type="unfinished">Cutter plugins</translation>
+      <translation>Cutter pluginuri</translation>
     </message>
   </context>
   <context>
@@ -6226,7 +6223,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="58"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>Registru</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="60"/>
@@ -6236,7 +6233,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="62"/>
       <source>Reference</source>
-      <translation type="unfinished">Reference</translation>
+      <translation>Referinţă</translation>
     </message>
   </context>
   <context>
@@ -6244,12 +6241,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="122"/>
       <source>Copy register value</source>
-      <translation type="unfinished">Copy register value</translation>
+      <translation>Copiază valoarea registrului</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="123"/>
       <source>Copy register reference</source>
-      <translation type="unfinished">Copy register reference</translation>
+      <translation>Copiază referință registrului</translation>
     </message>
   </context>
   <context>
@@ -6336,7 +6333,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/RenameDialog.ui" line="28"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Nume:</translation>
     </message>
   </context>
   <context>
@@ -6349,12 +6346,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="59"/>
       <source>Vaddr</source>
-      <translation type="unfinished">Vaddr</translation>
+      <translation>Vaddr</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="61"/>
       <source>Index</source>
-      <translation type="unfinished">Index</translation>
+      <translation>Index</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="63"/>
@@ -6369,7 +6366,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="67"/>
       <source>Lang</source>
-      <translation type="unfinished">Lang</translation>
+      <translation>Limbi</translation>
     </message>
   </context>
   <context>
@@ -6398,17 +6395,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/SaveProjectDialog.ui" line="14"/>
       <source>Save Project</source>
-      <translation type="unfinished">Save Project</translation>
+      <translation>Salvează proiect</translation>
     </message>
     <message>
       <location filename="../dialogs/SaveProjectDialog.ui" line="22"/>
       <source>Project name (prj.name):</source>
-      <translation type="unfinished">Project name (prj.name):</translation>
+      <translation>Nume proiect (prj.name):</translation>
     </message>
     <message>
       <location filename="../dialogs/SaveProjectDialog.ui" line="43"/>
       <source>Projects path (dir.projects):</source>
-      <translation type="unfinished">Projects path (dir.projects):</translation>
+      <translation>Path proiecte (dir.projects):</translation>
     </message>
     <message>
       <location filename="../dialogs/SaveProjectDialog.ui" line="63"/>
@@ -6418,22 +6415,22 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/SaveProjectDialog.ui" line="72"/>
       <source>Use simple project saving style (prj.simple, recommended)</source>
-      <translation type="unfinished">Use simple project saving style (prj.simple, recommended)</translation>
+      <translation>Folosește stilul simplu de a salva proiecte (prj.simple, recomandat)</translation>
     </message>
     <message>
       <location filename="../dialogs/SaveProjectDialog.ui" line="79"/>
       <source>Save the target binary inside the project directory (prj.files)</source>
-      <translation type="unfinished">Save the target binary inside the project directory (prj.files)</translation>
+      <translation>Salvează target binary in folderul proiectului (prj.files)</translation>
     </message>
     <message>
       <location filename="../dialogs/SaveProjectDialog.ui" line="86"/>
       <source>Project is a git repo and saving is committing (prj.git)</source>
-      <translation type="unfinished">Project is a git repo and saving is committing (prj.git)</translation>
+      <translation>Projectul e un git repo; când salvezi, faci commit (prj.git)</translation>
     </message>
     <message>
       <location filename="../dialogs/SaveProjectDialog.ui" line="93"/>
       <source>Use ZIP format for project files (prj.zip)</source>
-      <translation type="unfinished">Use ZIP format for project files (prj.zip)</translation>
+      <translation>Folosește format ZIP pentru fișierele proiectului (prj.zip)</translation>
     </message>
     <message>
       <location filename="../dialogs/SaveProjectDialog.cpp" line="47"/>
@@ -6443,19 +6440,19 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/SaveProjectDialog.cpp" line="66"/>
       <source>Save project</source>
-      <translation type="unfinished">Save project</translation>
+      <translation>Salvează proiect</translation>
     </message>
     <message>
       <location filename="../dialogs/SaveProjectDialog.cpp" line="66"/>
       <source>Invalid project name.</source>
-      <translation type="unfinished">Invalid project name.</translation>
+      <translation>Nume proiect invalid.</translation>
     </message>
   </context>
   <context>
     <name>SdbDock</name>
     <message>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>Tastă</translation>
     </message>
     <message>
       <source>Value</source>
@@ -6500,12 +6497,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="115"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>Cod</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="117"/>
       <source>Data</source>
-      <translation type="unfinished">Data</translation>
+      <translation>Data</translation>
     </message>
   </context>
   <context>
@@ -6513,42 +6510,42 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Căutare</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="90"/>
       <source>Search for:</source>
-      <translation type="unfinished">Search for:</translation>
+      <translation>Căutați după:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="100"/>
       <source>Search in:</source>
-      <translation type="unfinished">Search in:</translation>
+      <translation>Cauta in:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="243"/>
       <source>asm code</source>
-      <translation type="unfinished">asm code</translation>
+      <translation>cod asm</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="244"/>
       <source>string</source>
-      <translation type="unfinished">string</translation>
+      <translation>string</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="245"/>
       <source>hex string</source>
-      <translation type="unfinished">hex string</translation>
+      <translation>hex string</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="246"/>
       <source>ROP gadgets</source>
-      <translation type="unfinished">ROP gadgets</translation>
+      <translation>ROP gadgeturi</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="247"/>
       <source>32bit value</source>
-      <translation type="unfinished">32bit value</translation>
+      <translation>Valoare 32bit</translation>
     </message>
   </context>
   <context>
@@ -6575,7 +6572,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="95"/>
       <source>End Address</source>
-      <translation type="unfinished">End Address</translation>
+      <translation>Adresa de sfarsit</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="97"/>
@@ -6585,7 +6582,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="99"/>
       <source>Entropy</source>
-      <translation type="unfinished">Entropy</translation>
+      <translation>Entropie</translation>
     </message>
   </context>
   <context>
@@ -6608,7 +6605,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="85"/>
       <source>End Address</source>
-      <translation type="unfinished">End Address</translation>
+      <translation>Adresa de sfarsit</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="87"/>
@@ -6620,23 +6617,23 @@ Save your project before closing!</translation>
     <name>SetFunctionVarTypes</name>
     <message>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>Dialog</translation>
     </message>
     <message>
       <source>Set Type To:</source>
-      <translation type="unfinished">Set Type To:</translation>
+      <translation>Setează tip:</translation>
     </message>
     <message>
       <source>Set Name To:</source>
-      <translation type="unfinished">Set Name To:</translation>
+      <translation>Setează nume:</translation>
     </message>
     <message>
       <source>Modify:</source>
-      <translation type="unfinished">Modify:</translation>
+      <translation>Modifica:</translation>
     </message>
     <message>
       <source>You must be in a function to define variable types.</source>
-      <translation type="unfinished">You must be in a function to define variable types.</translation>
+      <translation>Trebuie sa fii într-o funcție ca să definești tipul variabilelor.</translation>
     </message>
   </context>
   <context>
@@ -6644,33 +6641,33 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="14"/>
       <source>Set to Data</source>
-      <translation type="unfinished">Set to Data</translation>
+      <translation>Setează data</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="20"/>
       <location filename="../dialogs/SetToDataDialog.ui" line="34"/>
       <source>???</source>
-      <translation type="unfinished">???</translation>
+      <translation>???</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="27"/>
       <source>Start address</source>
-      <translation type="unfinished">Start address</translation>
+      <translation>Adresă de Start</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="41"/>
       <source>End address</source>
-      <translation type="unfinished">End address</translation>
+      <translation>Adresa de sfarsit</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="48"/>
       <source>Item size</source>
-      <translation type="unfinished">Item size</translation>
+      <translation>Dimensiune element</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="55"/>
       <source>Number of items</source>
-      <translation type="unfinished">Number of items</translation>
+      <translation>Numărul de elemente</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="62"/>
@@ -6683,27 +6680,27 @@ Save your project before closing!</translation>
     <name>SideBar</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Formular</translation>
     </message>
     <message>
       <source>Script</source>
-      <translation type="unfinished">Script</translation>
+      <translation>Script</translation>
     </message>
     <message>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
     <message>
       <source>example.py</source>
-      <translation type="unfinished">example.py</translation>
+      <translation>example.py</translation>
     </message>
     <message>
       <source>Execution finished</source>
-      <translation type="unfinished">Execution finished</translation>
+      <translation>Execuție terminata</translation>
     </message>
     <message>
       <source>Calculator</source>
-      <translation type="unfinished">Calculator</translation>
+      <translation>Calculator</translation>
     </message>
     <message>
       <source>Assembler</source>
@@ -6711,15 +6708,15 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Assembly</source>
-      <translation type="unfinished">Assembly</translation>
+      <translation>Assembly</translation>
     </message>
     <message>
       <source>v</source>
-      <translation type="unfinished">v</translation>
+      <translation>v</translation>
     </message>
     <message>
       <source>^</source>
-      <translation type="unfinished">^</translation>
+      <translation>^</translation>
     </message>
     <message>
       <source>Hexadecimal</source>
@@ -6727,7 +6724,7 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Toogle resposiveness</source>
-      <translation type="unfinished">Toogle resposiveness</translation>
+      <translation>Comuteaza responsivitatea</translation>
     </message>
     <message>
       <source>...</source>
@@ -6735,18 +6732,18 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>Configurări</translation>
     </message>
   </context>
   <context>
     <name>SidebarWidget</name>
     <message>
       <source> Function:</source>
-      <translation type="unfinished"> Function:</translation>
+      <translation> Funcție:</translation>
     </message>
     <message>
       <source>Offset info:</source>
-      <translation type="unfinished">Offset info:</translation>
+      <translation>Offset info:</translation>
     </message>
     <message>
       <source>Info</source>
@@ -6762,19 +6759,19 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Opcode description:</source>
-      <translation type="unfinished">Opcode description:</translation>
+      <translation>Opcode Descriere:</translation>
     </message>
     <message>
       <source>Function registers info:</source>
-      <translation type="unfinished">Function registers info:</translation>
+      <translation>Informație regiștri functie:</translation>
     </message>
     <message>
       <source>X-Refs to current address:</source>
-      <translation type="unfinished">X-Refs to current address:</translation>
+      <translation>X-Refs la adresa curentă:</translation>
     </message>
     <message>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adresă</translation>
     </message>
     <message>
       <source>Instruction</source>
@@ -6782,7 +6779,7 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>X-Refs from current address:</source>
-      <translation type="unfinished">X-Refs from current address:</translation>
+      <translation>X-Refs de la adresa curentă:</translation>
     </message>
   </context>
   <context>
@@ -6807,7 +6804,7 @@ Save your project before closing!</translation>
     <name>StackWidget</name>
     <message>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <source>Value</source>
@@ -6815,21 +6812,21 @@ Save your project before closing!</translation>
     </message>
     <message>
       <source>Reference</source>
-      <translation type="unfinished">Reference</translation>
+      <translation>Referinţă</translation>
     </message>
     <message>
       <source>Seek to this offset</source>
-      <translation type="unfinished">Seek to this offset</translation>
+      <translation>Cauta(seek) pana la acest offset</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="32"/>
       <source>Edit stack value...</source>
-      <translation type="unfinished">Edit stack value...</translation>
+      <translation>Editează valoarea stackului...</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="108"/>
       <source>Edit stack at %1</source>
-      <translation type="unfinished">Edit stack at %1</translation>
+      <translation>Editează stack la %1</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="136"/>
@@ -6847,7 +6844,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="66"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adresă</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="68"/>
@@ -6862,12 +6859,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="72"/>
       <source>Length</source>
-      <translation type="unfinished">Length</translation>
+      <translation>Lungime</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="74"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Dimensiune</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="76"/>
@@ -6880,28 +6877,28 @@ Save your project before closing!</translation>
     <message>
       <location filename="../common/StringsTask.h" line="13"/>
       <source>Searching for Strings</source>
-      <translation type="unfinished">Searching for Strings</translation>
+      <translation>Cauta strings</translation>
     </message>
   </context>
   <context>
     <name>StringsWidget</name>
     <message>
       <source>Copy Address</source>
-      <translation type="unfinished">Copy Address</translation>
+      <translation>Copiază adresa</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="76"/>
       <source>Copy String</source>
-      <translation type="unfinished">Copy String</translation>
+      <translation>Copiază string</translation>
     </message>
     <message>
       <source>Xrefs</source>
-      <translation type="unfinished">Xrefs</translation>
+      <translation>Xrefs</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="81"/>
       <source>Filter</source>
-      <translation type="unfinished">Filter</translation>
+      <translation>Filtrează</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="141"/>
@@ -6919,7 +6916,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="57"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adresă</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="59"/>
@@ -6929,7 +6926,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="61"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nume</translation>
     </message>
   </context>
   <context>
@@ -7011,12 +7008,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="65"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Dimensiune</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="67"/>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>Format</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="69"/>
@@ -7196,17 +7193,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="62"/>
       <source>VTable</source>
-      <translation type="unfinished">VTable</translation>
+      <translation>VTable</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="83"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nume</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="85"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adresă</translation>
     </message>
   </context>
   <context>
@@ -7215,13 +7212,13 @@ Save your project before closing!</translation>
       <location filename="../dialogs/VersionInfoDialog.ui" line="50"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="64"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>EtichetăText</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="94"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="126"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>Tastă</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="99"/>
@@ -7243,7 +7240,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="29"/>
       <source>Visual navigation bar</source>
-      <translation type="unfinished">Visual navigation bar</translation>
+      <translation>Bara de navigare vizuală</translation>
     </message>
   </context>
   <context>
@@ -7375,11 +7372,11 @@ p, li { white-space: pre-wrap; }
     <name>XrefsDialog</name>
     <message>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adresă</translation>
     </message>
     <message>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>Cod</translation>
     </message>
     <message>
       <source>Type</source>
@@ -7388,17 +7385,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="136"/>
       <source>X-Refs to %1:</source>
-      <translation type="unfinished">X-Refs to %1:</translation>
+      <translation>X-Refs la %1:</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="137"/>
       <source>X-Refs from %1:</source>
-      <translation type="unfinished">X-Refs from %1:</translation>
+      <translation>X-Refs de la %1:</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="146"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>X-Refs pentru %1</translation>
     </message>
   </context>
   <context>
@@ -7406,12 +7403,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../widgets/ZignaturesWidget.cpp" line="68"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/ZignaturesWidget.cpp" line="70"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nume</translation>
     </message>
     <message>
       <location filename="../widgets/ZignaturesWidget.cpp" line="72"/>
