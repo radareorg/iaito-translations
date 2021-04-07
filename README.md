@@ -3,6 +3,8 @@
 This repository holds translations for the [Iaito](https://github.com/radareorg/iaito)
 project.
 
+[![Crowdin](https://badges.crowdin.net/iaito/localized.svg)](https://crowdin.com/project/iaito)
+
 ## How does it work?
 
 The `Translations.ts` file is uploaded regularly from [Iaito](https://github.com/radareorg/iaito) repository.
