@@ -5,9 +5,9 @@ all:
 	$(MAKE) allzip
 
 allzip:
-	rm all.zip
+	rm -f all.zip
 	mkdir all
-	cp */*.ts all
+	cp */*.qm all
 	cd all && zip ../all.zip *
 	rm -rf all
 
