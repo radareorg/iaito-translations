@@ -7,7 +7,7 @@ all:
 allzip:
 	rm -f all.zip
 	mkdir all
-	cp */*.qm all
+	cp */*.ts all
 	cd all && zip ../all.zip *
 	rm -rf all
 
