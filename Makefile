@@ -23,9 +23,8 @@ build:
 	lrelease ../Iaito.pro
 	cp */*.qm build
 
-user-install: build
-	echo "$(D)"
-	mkdir -p $(D)
-	cp -rf build/* $(D)/
+user-install:
+	mkdir -p "$(D)"
+	cp -rf build/* "$(D)/"
 
-.PHONY: all allzip clean install
+.PHONY: all allzip clean install build user-install
