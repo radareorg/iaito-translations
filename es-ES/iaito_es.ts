@@ -6,102 +6,102 @@
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="14"/>
       <source>About iaito</source>
-      <translation type="unfinished">About iaito</translation>
+      <translation>Acerca de iaito</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="29"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="69"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;iaito is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://www.radare.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;iaito is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://www.radare.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;iaito es una plataforma libre y gratuita de ingenieria inversa basada en radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Para más información: &lt;/span&gt;&lt;a href=&quot;https://www.radare.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="92"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;iaito&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;iaito&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;iaito&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="105"/>
       <source>Show version information</source>
-      <translation type="unfinished">Show version information</translation>
+      <translation>Mostrar información de la versión</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="118"/>
       <source>Show radare2 plugin information</source>
-      <translation type="unfinished">Show radare2 plugin information</translation>
+      <translation>Información sobre plugins</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="29"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Versión</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="30"/>
       <source>Using r2-</source>
-      <translation type="unfinished">Using r2-</translation>
+      <translation>Uso de r2-</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="32"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>Características opcionales:</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>Licencia</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation type="unfinished">This Software is released under the GNU General Public License v3.0</translation>
+      <translation>Este software está publicado bajo la Licencia Pública General GNU v3.0</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="49"/>
       <source>Authors</source>
-      <translation type="unfinished">Authors</translation>
+      <translation>Autores</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="50"/>
       <source>Iaito is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation type="unfinished">Iaito is developed by the community and maintained by its core and development teams.&lt;br/&gt;</translation>
+      <translation>Iaito es desarrollado por la comunidad y mantenido por sus equipos principales y de desarrollo.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="51"/>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>Consulte nuestra &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;página de contribuciones&lt;/a&gt; para ver la lista completa de colaboradores.</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="65"/>
       <source>radare2 version information</source>
-      <translation type="unfinished">radare2 version information</translation>
+      <translation>Mostrar información de la versión de radare2</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="88"/>
       <source>Checking for updates...</source>
-      <translation type="unfinished">Checking for updates...</translation>
+      <translation>Buscando actualizaciones...</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="94"/>
       <source>Error!</source>
-      <translation type="unfinished">Error!</translation>
+      <translation>Error!</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="97"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>Control de versiones</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="97"/>
       <source>iaito is up to date!</source>
-      <translation type="unfinished">iaito is up to date!</translation>
+      <translation>iaito está actualizado!</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="138"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation type="unfinished">Based on Qt %1 (%2, %3 bit)</translation>
+      <translation>Basado en Qt %1 (%2, %3 bit)</translation>
     </message>
   </context>
   <context>
@@ -109,7 +109,7 @@
     <message>
       <location filename="../../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sincronizar/dessincronizar offset</translation>
     </message>
   </context>
   <context>
@@ -117,22 +117,22 @@
     <message>
       <location filename="../../menus/AddressableItemContextMenu.cpp" line="17"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Mostrar en</translation>
     </message>
     <message>
       <location filename="../../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Copiar dirección</translation>
     </message>
     <message>
       <location filename="../../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Mostrar referencias cruzadas (X-Refs)</translation>
     </message>
     <message>
       <location filename="../../menus/AddressableItemContextMenu.cpp" line="20"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>Agregar comentario</translation>
     </message>
   </context>
   <context>
@@ -140,22 +140,22 @@
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="409"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>clase</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="433"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>base</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="463"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>método</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="497"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>vtable</translation>
     </message>
   </context>
   <context>
@@ -163,62 +163,62 @@
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="20"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>Análisis</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (anal.verbose)</source>
-      <translation type="unfinished">Show verbose information when performing analysis (anal.verbose)</translation>
+      <translation>Mostrar información detallada al realizar el análisis (anal.verbose)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (anal.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (anal.pushret)</translation>
+      <translation>Analizar push+ret como jmp (anal.pushret)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (anal.types.verbose)</source>
-      <translation type="unfinished">Verbose output from type analysis (anal.types.verbose)</translation>
+      <translation>Salida detallada del análisis de tipos (anal.types.verbose)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (anal.autoname)</source>
-      <translation type="unfinished">Speculatively set a name for the functions (anal.autoname)</translation>
+      <translation>Nombrar funciones especulativamente (anal.autoname)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="107"/>
       <source>Search for new functions following already defined functions (anal.hasnext)</source>
-      <translation type="unfinished">Search for new functions following already defined functions (anal.hasnext)</translation>
+      <translation>Buscar nuevas funciones siguiendo funciones ya definidas (anal.hasnext)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (anal.jmp.ref)</source>
-      <translation type="unfinished">Create references for unconditional jumps (anal.jmp.ref)</translation>
+      <translation>Crear referencias para saltos incondicionales (anal.jmp.ref)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (anal.jmp.tbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (anal.jmp.tbl)</translation>
+      <translation>Analizar tablas de salto en bloques switch (anal.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (anal.in): </source>
-      <translation type="unfinished">Search boundaries for analysis (anal.in): </translation>
+      <translation>Límites de búsqueda de análisis (anal.in): </translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="195"/>
       <source>Pointer depth (anal.ptrdepth):</source>
-      <translation type="unfinished">Pointer depth (anal.ptrdepth):</translation>
+      <translation>Profundidad de puntero (anal.ptrdepth):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (anal.prelude):</source>
-      <translation type="unfinished">Functions Prelude (anal.prelude):</translation>
+      <translation>Preludio de funciones (anal.prelude):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation type="unfinished">Analyze program</translation>
+      <translation>Analizar programa</translation>
     </message>
   </context>
   <context>
@@ -226,47 +226,47 @@
     <message>
       <location filename="../../common/AnalTask.cpp" line="28"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>Análisis inicial</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="30"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>Analizando programa</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="48"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>Cargando el archivo...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="78"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>Cargando archivo PDB...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="87"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>Cargando shellcode...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="98"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>Ejecutando script...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="107"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>Ejecutando análisis...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="116"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>¡Análisis completado!</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="118"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>Omitiendo análisis.</translation>
     </message>
   </context>
   <context>
@@ -279,47 +279,47 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>Fuente:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>Elegir la fuente</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>Zoom</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>Idioma:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation type="unfinished">Interface Theme:</translation>
+      <translation>Diseño de la interfaz:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>Por defecto</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation type="unfinished">Dark</translation>
+      <translation>Oscuro</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>Paleta de colores:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
@@ -329,23 +329,23 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Renombrar</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copiar</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="169"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Eliminar</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>Exportar</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
@@ -365,7 +365,7 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>Guardar como predeterminado</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="130"/>
@@ -405,7 +405,7 @@
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="224"/>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="242"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Error</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="170"/>
@@ -436,17 +436,17 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="254"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>Configuración del idioma</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="255"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>El idioma se cambiará después de iniciar de nuevo la aplicación.</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="259"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation type="unfinished">Cannot set language, not found in available ones</translation>
+      <translation>No se puede establecer el idioma, no se ha encontrado entre los disponibles</translation>
     </message>
   </context>
   <context>
@@ -460,7 +460,7 @@
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>Estilo</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="71"/>
@@ -470,17 +470,17 @@
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="78"/>
       <source>Syntax (asm.syntax):</source>
-      <translation type="unfinished">Syntax (asm.syntax):</translation>
+      <translation>Sintaxis (asm.syntax):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="98"/>
       <source>Show Disassembly as:</source>
-      <translation type="unfinished">Show Disassembly as:</translation>
+      <translation>Mostrar el código desensamblado como:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="111"/>
       <source>Number of bytes to display (asm.nbytes):</source>
-      <translation type="unfinished">Number of bytes to display (asm.nbytes):</translation>
+      <translation>Número de bytes a mostrar (asm.nbytes):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="121"/>
@@ -491,17 +491,17 @@
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="152"/>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="307"/>
       <source>Normal</source>
-      <translation type="unfinished">Normal</translation>
+      <translation>Normal</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="157"/>
       <source>ESIL (asm.esil)</source>
-      <translation type="unfinished">ESIL (asm.esil)</translation>
+      <translation>ESIL (asm.esil)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="162"/>
       <source>Pseudocode (asm.pseudo)</source>
-      <translation type="unfinished">Pseudocode (asm.pseudo)</translation>
+      <translation>Pseudocódigo (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="170"/>
@@ -521,12 +521,12 @@
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="198"/>
       <source>Lowercase</source>
-      <translation type="unfinished">Lowercase</translation>
+      <translation>Minúsculas</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="203"/>
       <source>Uppercase (asm.ucase)</source>
-      <translation type="unfinished">Uppercase (asm.ucase)</translation>
+      <translation>Mayúsculas (asm.ucase)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
@@ -536,137 +536,137 @@
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="216"/>
       <source>Align bytes to the left (asm.lbytes)</source>
-      <translation type="unfinished">Align bytes to the left (asm.lbytes)</translation>
+      <translation>Alinear bytes a la izquierda (asm.lbytes)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="223"/>
       <source>Separate bytes with whitespace (asm.bytes.space)</source>
-      <translation type="unfinished">Separate bytes with whitespace (asm.bytes.space)</translation>
+      <translation>Separar bytes con espacios (asm.bytes.space)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="230"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation type="unfinished">Display flags&apos; real name (asm.flags.real)</translation>
+      <translation>Mostrar el nombre real de los indicadores (asm.flags.real)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="237"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation type="unfinished">Tabs in assembly (asm.tabs):</translation>
+      <translation>Tabulaciones en código ensamblador (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="259"/>
       <source>Show offsets relative to:</source>
-      <translation type="unfinished">Show offsets relative to:</translation>
+      <translation>Mostrar offsets relativos:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="266"/>
       <source>Functions (asm.reloff)</source>
-      <translation type="unfinished">Functions (asm.reloff)</translation>
+      <translation>Funciones (asm.reloff)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation type="unfinished">Flags (asm.reloff.flags)</translation>
+      <translation>Indicadores (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="291"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>Comentarios</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="299"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation type="unfinished">Show opcode description (asm.describe)</translation>
+      <translation>Mostrar descripción del opcode (asm.describe)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="312"/>
       <source>Above instructions</source>
-      <translation type="unfinished">Above instructions</translation>
+      <translation>Instrucciones anteriores</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="317"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>Apagado</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="325"/>
       <source>Show comments:</source>
-      <translation type="unfinished">Show comments:</translation>
+      <translation>Mostrar comentarios:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="345"/>
       <source>Column to align comments (asm.cmt.col):</source>
-      <translation type="unfinished">Column to align comments (asm.cmt.col):</translation>
+      <translation>Columna para alinear comentarios (asm.cmt.col):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="355"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation type="unfinished">Show x-refs (asm.xrefs)</translation>
+      <translation>Mostrar referencias cruzadas (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
       <source>Show refpointer information (asm.refptr)</source>
-      <translation type="unfinished">Show refpointer information (asm.refptr)</translation>
+      <translation>Mostrar información del refpointer (asm.refptr)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="395"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>Metadatos</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="419"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation type="unfinished">Slow Analysis (asm.slow)</translation>
+      <translation>Análisis lento (asm.slow)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="426"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation type="unfinished">Show jump lines (asm.lines)</translation>
+      <translation>Mostrar líneas de salto (asm.lines)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation type="unfinished">Show function boundary lines (asm.lines.fcn)</translation>
+      <translation>Mostrar líneas de límite de función (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation type="unfinished">Show offset before flags (asm.flags.off)</translation>
+      <translation>Mostrar offset antes que indicadores (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation type="unfinished">Run ESIL emulation analysis (asm.emu)</translation>
+      <translation>Ejecutar análisis de emulación ESIL (asm.emu)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation type="unfinished">Show only strings if any in the asm.emu output (emu.str)</translation>
+      <translation>Mostrar strings si hay en la salida de asm.emu (emu.str)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation type="unfinished">Show size of opcodes in disassembly (asm.size)</translation>
+      <translation>Mostrar tamaño de opcodes en el desensamblado (asm.size)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation type="unfinished">Show variables summary instead of full list (asm.var.summary)</translation>
+      <translation>Mostrar resumen de las variables en lugar de la lista completa (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>Sustituir variables (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.sub.varonly)</translation>
+      <translation>Sustituir expresiones de variables con nombres (asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="538"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>Guardar como predeterminado</translation>
     </message>
   </context>
   <context>
@@ -674,43 +674,43 @@
     <message>
       <location filename="../../dialogs/AsyncTaskDialog.ui" line="14"/>
       <source>Iaito</source>
-      <translation type="unfinished">Iaito</translation>
+      <translation>Iaito</translation>
     </message>
     <message>
       <location filename="../../dialogs/AsyncTaskDialog.ui" line="20"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>Hora</translation>
     </message>
     <message>
       <location filename="../../dialogs/AsyncTaskDialog.cpp" line="50"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>Ejecutando por</translation>
     </message>
     <message numerus="yes">
       <location filename="../../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n hora</numerusform>
+        <numerusform>%n horas</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../../dialogs/AsyncTaskDialog.cpp" line="56"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n minuto</numerusform>
+        <numerusform>%n minutos</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../../dialogs/AsyncTaskDialog.cpp" line="59"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n segundo</numerusform>
+        <numerusform>%n segundos</numerusform>
       </translation>
     </message>
   </context>
@@ -719,22 +719,22 @@
     <message>
       <location filename="../../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation type="unfinished">Select process to attach...</translation>
+      <translation>Seleccionar proceso para depurar...</translation>
     </message>
     <message>
       <location filename="../../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation type="unfinished">Processes with same name as currently open file:</translation>
+      <translation>Procesos con el mismo nombre que el archivo abierto actualmente:</translation>
     </message>
     <message>
       <location filename="../../dialogs/AttachProcDialog.ui" line="94"/>
       <source>All processes:</source>
-      <translation type="unfinished">All processes:</translation>
+      <translation>Todos los procesos:</translation>
     </message>
     <message>
       <location filename="../../dialogs/AttachProcDialog.ui" line="138"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Filtro Rápido</translation>
     </message>
   </context>
   <context>
@@ -742,17 +742,17 @@
     <message>
       <location filename="../../widgets/BacktraceWidget.cpp" line="17"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>Función</translation>
     </message>
     <message>
       <location filename="../../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Descripción</translation>
     </message>
     <message>
       <location filename="../../widgets/BacktraceWidget.cpp" line="21"/>
       <source>Frame Size</source>
-      <translation type="unfinished">Frame Size</translation>
+      <translation>Tamaño del marco (frame)</translation>
     </message>
   </context>
   <context>
@@ -760,22 +760,22 @@
     <message>
       <location filename="../../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>Codificación/Decodificación Base64</translation>
     </message>
     <message>
       <location filename="../../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>String:</translation>
     </message>
     <message>
       <location filename="../../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>Decodificar</translation>
     </message>
     <message>
       <location filename="../../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>Codificar</translation>
     </message>
   </context>
   <context>
@@ -783,22 +783,22 @@
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="125"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>método</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="149"/>
       <source>field</source>
-      <translation type="unfinished">field</translation>
+      <translation>campo</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="171"/>
       <source>base class</source>
-      <translation type="unfinished">base class</translation>
+      <translation>clase base</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="192"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>clase</translation>
     </message>
   </context>
   <context>
@@ -806,12 +806,12 @@
     <message>
       <location filename="../../widgets/BreakpointWidget.cpp" line="64"/>
       <source>HW %1</source>
-      <translation type="unfinished">HW %1</translation>
+      <translation>HW %1</translation>
     </message>
     <message>
       <location filename="../../widgets/BreakpointWidget.cpp" line="66"/>
       <source>SW</source>
-      <translation type="unfinished">SW</translation>
+      <translation>SW</translation>
     </message>
     <message>
       <location filename="../../widgets/BreakpointWidget.cpp" line="101"/>
@@ -1082,49 +1082,49 @@
     <message>
       <location filename="../../widgets/ClassesWidget.ui" line="119"/>
       <source>Add Method</source>
-      <translation type="unfinished">Add Method</translation>
+      <translation>Añadir método</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.ui" line="124"/>
       <location filename="../../widgets/ClassesWidget.cpp" line="747"/>
       <source>Create new Class</source>
-      <translation type="unfinished">Create new Class</translation>
+      <translation>Crear nueva clase</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.ui" line="129"/>
       <source>Rename Class</source>
-      <translation type="unfinished">Rename Class</translation>
+      <translation>Renombrar clase</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.ui" line="134"/>
       <location filename="../../widgets/ClassesWidget.cpp" line="761"/>
       <source>Delete Class</source>
-      <translation type="unfinished">Delete Class</translation>
+      <translation>Borrar clase</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="703"/>
       <source>Missing VTable in class</source>
-      <translation type="unfinished">Missing VTable in class</translation>
+      <translation>Falta la VTable en la clase</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="703"/>
       <source>The class %1 does not have any VTable!</source>
-      <translation type="unfinished">The class %1 does not have any VTable!</translation>
+      <translation>¡La clase %1 no tiene VTable!</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="748"/>
       <source>Class Name:</source>
-      <translation type="unfinished">Class Name:</translation>
+      <translation>Nombre de la clase:</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="761"/>
       <source>Are you sure you want to delete the class %1?</source>
-      <translation type="unfinished">Are you sure you want to delete the class %1?</translation>
+      <translation>¿Está seguro de que desea eliminar la clase %1?</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="775"/>
       <source>Rename Class %1</source>
-      <translation type="unfinished">Rename Class %1</translation>
+      <translation>Renombrar clase %1</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="776"/>

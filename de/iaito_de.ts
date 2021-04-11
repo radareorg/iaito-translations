@@ -6,102 +6,102 @@
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="14"/>
       <source>About iaito</source>
-      <translation type="unfinished">About iaito</translation>
+      <translation>Über iaito</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="29"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="69"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;iaito is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://www.radare.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;iaito is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://www.radare.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;iaito ist eine kostenlose, open-source reverse engineering Plattform basierend auf radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Erfahre mehr auf &lt;/span&gt;&lt;a href=&quot;https://www.radare.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="92"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;iaito&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;iaito&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;iaito&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="105"/>
       <source>Show version information</source>
-      <translation type="unfinished">Show version information</translation>
+      <translation>Zeige Versionsinformationen</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.ui" line="118"/>
       <source>Show radare2 plugin information</source>
-      <translation type="unfinished">Show radare2 plugin information</translation>
+      <translation>Zeige radare2 Plugin Informationen</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="29"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Version</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="30"/>
       <source>Using r2-</source>
-      <translation type="unfinished">Using r2-</translation>
+      <translation>r2- benutzen</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="32"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>Optionale Funktionen:</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>Lizenz</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation type="unfinished">This Software is released under the GNU General Public License v3.0</translation>
+      <translation>Diese Software ist unter der GNU General Public License v3.0 veröffentlicht</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="49"/>
       <source>Authors</source>
-      <translation type="unfinished">Authors</translation>
+      <translation>Autoren</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="50"/>
       <source>Iaito is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation type="unfinished">Iaito is developed by the community and maintained by its core and development teams.&lt;br/&gt;</translation>
+      <translation>Iaito wurde von der Community entwickelt und wird vom Kern- und Entwicklungsteam gewartet.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="51"/>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>Siehe unter &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; für eine vollständige Liste aller Mitwirkenden.</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="65"/>
       <source>radare2 version information</source>
-      <translation type="unfinished">radare2 version information</translation>
+      <translation>radare2 Versionsinformationen</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="88"/>
       <source>Checking for updates...</source>
-      <translation type="unfinished">Checking for updates...</translation>
+      <translation>Suche nach Updates...</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="94"/>
       <source>Error!</source>
-      <translation type="unfinished">Error!</translation>
+      <translation>Fehler!</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="97"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>Versionskontrolle</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="97"/>
       <source>iaito is up to date!</source>
-      <translation type="unfinished">iaito is up to date!</translation>
+      <translation>iaito ist auf dem neusten Stand!</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="138"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation type="unfinished">Based on Qt %1 (%2, %3 bit)</translation>
+      <translation>Basierend auf Qt %1 (%2, %3 bit)</translation>
     </message>
   </context>
   <context>
@@ -109,7 +109,7 @@
     <message>
       <location filename="../../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sync/unsync Versatz</translation>
     </message>
   </context>
   <context>
@@ -117,22 +117,22 @@
     <message>
       <location filename="../../menus/AddressableItemContextMenu.cpp" line="17"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Zeige in</translation>
     </message>
     <message>
       <location filename="../../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Adresse kopieren</translation>
     </message>
     <message>
       <location filename="../../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Zeige X-Refs</translation>
     </message>
     <message>
       <location filename="../../menus/AddressableItemContextMenu.cpp" line="20"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>Kommentar hinzufügen</translation>
     </message>
   </context>
   <context>
@@ -140,22 +140,22 @@
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="409"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>Klasse</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="433"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>Basis</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="463"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>Methode</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="497"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>Tabelle virtueller Methoden</translation>
     </message>
   </context>
   <context>
@@ -163,62 +163,62 @@
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="20"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>Analyse</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (anal.verbose)</source>
-      <translation type="unfinished">Show verbose information when performing analysis (anal.verbose)</translation>
+      <translation>Zeige erweiterte Informationen während der Analyse (anal.verbose)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (anal.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (anal.pushret)</translation>
+      <translation>Interpretiere push+ret als jmp (anal.pushret)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (anal.types.verbose)</source>
-      <translation type="unfinished">Verbose output from type analysis (anal.types.verbose)</translation>
+      <translation>Erweiterte Ausgabe bei der Typ-Analyse (anal.types.verbose)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (anal.autoname)</source>
-      <translation type="unfinished">Speculatively set a name for the functions (anal.autoname)</translation>
+      <translation>Benenne Funktionen spekulativ (anal.autoname)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="107"/>
       <source>Search for new functions following already defined functions (anal.hasnext)</source>
-      <translation type="unfinished">Search for new functions following already defined functions (anal.hasnext)</translation>
+      <translation>Suche nach definierten Methoden gefolgt von neuen Methoden (anal.hasnext)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (anal.jmp.ref)</source>
-      <translation type="unfinished">Create references for unconditional jumps (anal.jmp.ref)</translation>
+      <translation>Erstelle Verweise für unbedingte Sprünge (anal.jmp.ref)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (anal.jmp.tbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (anal.jmp.tbl)</translation>
+      <translation>Analysiere Sprung-Tabellen in Switch-Anweisungen (anal.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (anal.in): </source>
-      <translation type="unfinished">Search boundaries for analysis (anal.in): </translation>
+      <translation>Suche Grenzen für die Analyse (anal.in): </translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="195"/>
       <source>Pointer depth (anal.ptrdepth):</source>
-      <translation type="unfinished">Pointer depth (anal.ptrdepth):</translation>
+      <translation>Zeigertiefe (anal.ptrdepth):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (anal.prelude):</source>
-      <translation type="unfinished">Functions Prelude (anal.prelude):</translation>
+      <translation>Methoden Prelude (anal.prelude):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation type="unfinished">Analyze program</translation>
+      <translation>Analysiere Programm</translation>
     </message>
   </context>
   <context>
@@ -226,47 +226,47 @@
     <message>
       <location filename="../../common/AnalTask.cpp" line="28"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>Initiale Analyse</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="30"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>Programm wird analysiert</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="48"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>Datei wird geladen...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="78"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>PDB-Datei wird geladen...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="87"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>Shellcode wird geladen...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="98"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>Script wird ausgeführt...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="107"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>Analyse wird durchgeführt...</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="116"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>Analyse abgeschlossen!</translation>
     </message>
     <message>
       <location filename="../../common/AnalTask.cpp" line="118"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>Überspringe Analyse.</translation>
     </message>
   </context>
   <context>
@@ -274,129 +274,129 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>Aussehen</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>Schriftart:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>Wähle Schriftart</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>Zoom</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>Sprache:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation type="unfinished">Interface Theme:</translation>
+      <translation>Interface-Design:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>Standard</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation type="unfinished">Dark</translation>
+      <translation>Dunkel</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>Farbschema:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation type="unfinished">Edit Theme</translation>
+      <translation>Bearbeite Design</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Umbenennen</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Kopieren</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="169"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Löschen</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>Exportieren</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>Importieren</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>Verwende Decompiler-Informationen beim Markieren von Code.</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation type="unfinished">Decompiler based highlighting</translation>
+      <translation>Decompiler-basierte Hervorhebung</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>Als Standard speichern</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="130"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>Design-Editor - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="141"/>
       <source>Enter theme name</source>
-      <translation type="unfinished">Enter theme name</translation>
+      <translation>Name für das Thema eingeben</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="142"/>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="233"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Name:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
       <source> - copy</source>
-      <translation type="unfinished"> - copy</translation>
+      <translation> - kopieren</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="149"/>
       <source>Theme Copy</source>
-      <translation type="unfinished">Theme Copy</translation>
+      <translation>Design kopieren</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="150"/>
       <source>Theme named %1 already exists.</source>
-      <translation type="unfinished">Theme named %1 already exists.</translation>
+      <translation>Es existiert bereits ein Thema mit diesem Namen: %1.</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="165"/>
@@ -405,48 +405,48 @@
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="224"/>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="242"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Fehler</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="170"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation type="unfinished">Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</translation>
+      <translation>Möchten Sie &lt;b&gt;%1&lt;/b&gt; wirklich löschen?</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="194"/>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Success</source>
-      <translation type="unfinished">Success</translation>
+      <translation>Erfolgreich</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="195"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</translation>
+      <translation>Farbschema &lt;b&gt;%1&lt;/b&gt; wurde erfolgreich importiert.</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="222"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</translation>
+      <translation>Farbschema &lt;b&gt;%1&lt;/b&gt; wurde erfolgreich exportiert.</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="232"/>
       <source>Enter new theme name</source>
-      <translation type="unfinished">Enter new theme name</translation>
+      <translation>Name für das neue Design eingeben</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="254"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>Spracheinstellungen</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="255"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>Die Sprachänderung wird erst nach einem Neustart wirksam.</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="259"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation type="unfinished">Cannot set language, not found in available ones</translation>
+      <translation>Sprache kann nicht gesetzt werden, nicht in verfügbaren Sprachen gefunden</translation>
     </message>
   </context>
   <context>
@@ -455,32 +455,32 @@
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="65"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Disassembly</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>Stil</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="71"/>
       <source>Display the bytes of each instruction (asm.bytes)</source>
-      <translation type="unfinished">Display the bytes of each instruction (asm.bytes)</translation>
+      <translation>Zeige die Bytes für jede Anweisung (asm.bytes)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="78"/>
       <source>Syntax (asm.syntax):</source>
-      <translation type="unfinished">Syntax (asm.syntax):</translation>
+      <translation>Syntax (asm.syntax):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="98"/>
       <source>Show Disassembly as:</source>
-      <translation type="unfinished">Show Disassembly as:</translation>
+      <translation>Zeige Disassembly als:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="111"/>
       <source>Number of bytes to display (asm.nbytes):</source>
-      <translation type="unfinished">Number of bytes to display (asm.nbytes):</translation>
+      <translation>Anzahl anzuzeigender Bytes (asm.nbytes):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="121"/>
@@ -491,22 +491,22 @@
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="152"/>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="307"/>
       <source>Normal</source>
-      <translation type="unfinished">Normal</translation>
+      <translation>Normal</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="157"/>
       <source>ESIL (asm.esil)</source>
-      <translation type="unfinished">ESIL (asm.esil)</translation>
+      <translation>ESIL (asm.esil)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="162"/>
       <source>Pseudocode (asm.pseudo)</source>
-      <translation type="unfinished">Pseudocode (asm.pseudo)</translation>
+      <translation>Pseudocode (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="170"/>
       <source>Show offsets (asm.offset)</source>
-      <translation type="unfinished">Show offsets (asm.offset)</translation>
+      <translation>Versatz anzeigen (asm.offset)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="177"/>
@@ -770,12 +770,12 @@
     <message>
       <location filename="../../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>Dekodieren</translation>
     </message>
     <message>
       <location filename="../../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>Kodieren</translation>
     </message>
   </context>
   <context>
@@ -783,12 +783,12 @@
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="125"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>Methode</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="149"/>
       <source>field</source>
-      <translation type="unfinished">field</translation>
+      <translation>Feld</translation>
     </message>
     <message>
       <location filename="../../widgets/ClassesWidget.cpp" line="171"/>
