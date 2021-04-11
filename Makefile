@@ -23,7 +23,7 @@ build:
 	lrelease ../Iaito.pro
 	cp */*.qm build
 
-user-install:
+user-install: build
 	mkdir -p "$(D)"
 	cp -rf build/* "$(D)/"
 
