@@ -274,7 +274,7 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>Apariencia</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
@@ -324,7 +324,7 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation type="unfinished">Edit Theme</translation>
+      <translation>Editar Tema</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
@@ -350,12 +350,12 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>Importar</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>Utilizar la información proporcionada por el decompilador para resaltar el código.</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
@@ -375,28 +375,28 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="141"/>
       <source>Enter theme name</source>
-      <translation type="unfinished">Enter theme name</translation>
+      <translation>Introducir nombre del tema</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="142"/>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="233"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Nombre:</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
       <source> - copy</source>
-      <translation type="unfinished"> - copy</translation>
+      <translation> - copia</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="149"/>
       <source>Theme Copy</source>
-      <translation type="unfinished">Theme Copy</translation>
+      <translation>Copiar tema</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="150"/>
       <source>Theme named %1 already exists.</source>
-      <translation type="unfinished">Theme named %1 already exists.</translation>
+      <translation>Ya existe un tema llamado %1.</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="165"/>

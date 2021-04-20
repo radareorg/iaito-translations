@@ -56,7 +56,7 @@
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation type="unfinished">This Software is released under the GNU General Public License v3.0</translation>
+      <translation>Aquest programari és publica sota la llicència Publica General de GNU (GPLv3)</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="49"/>
@@ -66,7 +66,7 @@
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="50"/>
       <source>Iaito is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation type="unfinished">Iaito is developed by the community and maintained by its core and development teams.&lt;br/&gt;</translation>
+      <translation>Iaito és desenvolupat per la comunitat de radare</translation>
     </message>
     <message>
       <location filename="../../dialogs/AboutDialog.cpp" line="51"/>
@@ -198,12 +198,12 @@
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (anal.jmp.tbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (anal.jmp.tbl)</translation>
+      <translation>Analitzar taules de salt pels switch (anal.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (anal.in): </source>
-      <translation type="unfinished">Search boundaries for analysis (anal.in): </translation>
+      <translation>Delimitar l'analisi (anal.in):</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AnalOptionsWidget.ui" line="195"/>
@@ -289,7 +289,7 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>Ampliar</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
@@ -340,7 +340,7 @@
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="169"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Eliminar</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
@@ -391,7 +391,7 @@
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="149"/>
       <source>Theme Copy</source>
-      <translation type="unfinished">Theme Copy</translation>
+      <translation>Copia el tema</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AppearanceOptionsWidget.cpp" line="150"/>
@@ -581,7 +581,7 @@
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="312"/>
       <source>Above instructions</source>
-      <translation type="unfinished">Above instructions</translation>
+      <translation>Per sobre de les instruccions</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="317"/>
@@ -611,7 +611,7 @@
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="395"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>Metadades</translation>
     </message>
     <message>
       <location filename="../../dialogs/preferences/AsmOptionsWidget.ui" line="419"/>
