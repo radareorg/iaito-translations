@@ -27,4 +27,4 @@ user-install: build
 	mkdir -p "$(D)"
 	cp -rf build/* "$(D)/"
 
-.PHONY: all allzip clean install build user-install
+.PHONY: all allzip clean install user-install
