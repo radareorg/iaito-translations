@@ -1,4 +1,5 @@
 D=${HOME}/.local/share/iaito/translations
+SOURCES=$(wildcard */*.ts)
 
 all:
 	$(MAKE) install
@@ -20,7 +21,7 @@ install: build
 build:
 	rm -rf build
 	mkdir -p build
-	lrelease ../Iaito.pro
+	lrelease $(SOURCES)
 	cp */*.qm build
 
 user-install: build
