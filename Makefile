@@ -18,7 +18,8 @@ clean:
 	rm -f */*.qm
 
 install: build
-	install -Dm644 -t $(PREFIX)/share/iaito/translations build/*.qm
+	install -d $(PREFIX)/share/iaito/translations
+	install -m 644 build/*.qm $(PREFIX)/share/iaito/translations/
 
 build:
 	rm -rf build
