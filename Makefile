@@ -14,20 +14,17 @@ allzip:
 
 clean:
 	rm -f all.zip
-	rm -rf all build
+	rm -rf all
 	rm -f */*.qm
 
 install: build
 	install -d $(PREFIX)/share/iaito/translations
-	install -m 644 build/*.qm $(PREFIX)/share/iaito/translations/
+	install -m 644 */*.qm $(PREFIX)/share/iaito/translations/
 
 build:
-	rm -rf build
-	mkdir -p build
 	lrelease $(SOURCES)
-	cp */*.qm build
 
 user-install:
 	$(MAKE) install PREFIX=${HOME}/.local
 
-.PHONY: all allzip clean install user-install
+.PHONY: all allzip clean install build user-install
