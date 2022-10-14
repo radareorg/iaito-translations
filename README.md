@@ -8,7 +8,7 @@ project.
 ## How does it work?
 
 The `Translations.ts` file is uploaded regularly from [Iaito](https://github.com/radareorg/iaito) repository.
-This will allow our translation platform [Crowdin](https://crowdin.com/project/cutter) to fetch new strings
+This will allow our translation platform [Crowdin](https://crowdin.com/project/iaito) to fetch new strings
 and add them to their inner project to allow people to update their translations when new strings are added
 into Iaito.
 
